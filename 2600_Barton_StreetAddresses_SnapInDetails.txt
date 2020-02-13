@@ -1,0 +1,1610 @@
+StreetAddressID	DomainPropertyId	LastSalePrice	LastSaleDate	LastRentalAgency	LastRentalPrice	LastRentalYear	RentDaysOnMarket	isPotentialInvestment	isPropertyInBuilding	lotNumber	planNumber	parking	propertyCategory	propertyType	bathrooms	bedrooms	BlockSize
+2	SC-5489-DG	1775000	2014-01-30					False	False	10	26	0	House	House	3	5	1632
+3	PK-6240-JE	784000	2019-11-04					False	False	8	26	2	House	House	2	5	976
+4	UC-1287-GO	635000	2000-06-07					False	False	6	26		House	House			976
+5	RK-3689-XG		2015-07-24					False	False	4	26	2	House	House	3	4	895
+6	MF-3743-OT	1425000	2016-02-11	PURNELL	900	2014	33	False	False	1	26	1	House	House	2	4	1249
+7	MC-4462-KO	2050000	2019-03-18					False	False	16	26	2	House	House	3	4	982
+8	UJ-9064-QZ	425000	1993-04-16					False	False	8	25		House	House			929
+9	MD-6238-HX	2150000	2017-07-21	Total Property Management - Bright	1200	2018	70	True	False	15	26	1	House	House	2	4	797
+10	EK-8113-UA							False	False			0	House	House	2	3	
+11	UL-1957-DC	1430000	2018-07-06	C21 City Walk Canberra		2014	434	False	False	14	26	2	House	House	2	4	1081
+12	DJ-2243-YC							False	False				House	House			
+13	XR-6395-OG	1705000	2007-11-13					False	False	13	26	1	House	House	2	4	1257
+14	DM-3363-AN							False	False				House	House			
+15	DI-9726-TO	412900	2015-04-08					False	True	14	9		Unit	Unit			
+16	TK-5009-XN	1486800	2018-11-13					False	True	8	9		Commercial	Commercial			
+17	OS-0572-QN	608000	2007-08-03	LJH Manuka	620	2012		True	True	22	6	2	Unit	Unit	2	3	
+18	LL-6181-SR			Total Property Management - Bright Partners	790	2018	54	False	True			2	Unit	Unit	2	3	
+19	MH-3733-XT			IPG Inner North & City	575	2007	55	False	True			2	Unit	Unit	2	3	
+20	NL-4665-WG							False	True			2	Unit	Unit	2	3	
+21	VM-7063-XD							False	False				Unit	Unit			
+22	AF-1947-CO			Office Hub		2019		False	True				Commercial	Commercial			
+23	GZ-1850-EU							False	False				Unit	Unit			
+24	DK-8189-BG	890000	2018-12-19					False	True	14	9	2	Unit	Unit	2	3	
+25	GT-1180-LK							False	True				Unit	Unit			
+26	ES-3571-GN		2018-06-02					False	True	22	6	2	Unit	Unit	2	2	
+27	CG-0026-OA			Luton Properties - Manuka	415	2014	63	False	True			1	Unit	Unit	1	1	
+28	CD-9833-KV			Luton Properties - Manuka	540	2015	27	False	True			2	Unit	Unit	2	2	
+29	IP-5178-PO			Independent Property Management	575	2018	26	False	True			2	Unit	Unit	2	2	
+30	DL-3861-YO							False	True				Unit	Unit			
+31	ZP-4125-VX							False	True				Unit	Unit			
+32	DL-3468-EO			LJ Hooker Manuka	0	2019	57	False	True			2	Unit	Unit	2	2	
+33	UD-2073-HH							False	True				Unit	Unit			
+34	AZ-6618-XD							False	True				Unit	Unit			
+35	ZR-5471-JR							False	True				Unit	Unit			
+36	DL-4155-FD							False	True				Unit	Unit			
+37	ZR-6448-FT							False	True				Unit	Unit			
+38	RV-0805-EF							False	True				Unit	Unit			
+39	ZR-2165-CR							False	True				Unit	Unit			
+40	AZ-9035-GU			Maloney's the Estate Agent	430	2019	28	False	True			1	Unit	Unit	1	1	
+41	ES-3245-VI							False	True				Unit	Unit			
+42	AW-3367-WD			PRDnationwide Canberra	650	2019	112	False	True			2	Unit	Unit	2	2	
+43	ZS-1832-SS							False	True				Unit	Unit			
+44	AV-1515-GA			PRDnationwide Canberra	670	2019	5	False	True			2	Unit	Unit	2	2	
+45	ZV-2599-RI							False	True				Unit	Unit			
+46	AV-5707-FJ			Peter Blackshaw Real Estate Gungahlin	460	2019		False	True			1	Unit	Unit	1	1	
+47	ZW-7068-MU							False	True				Unit	Unit			
+48	AV-0317-HM							False	True				Unit	Unit			
+49	ES-3895-ZQ							False	True				Unit	Unit			
+50	AU-6400-PQ	650900	2014-04-14	Peter Blackshaw Real Estate Manuka	645	2018	55	True	True	14	9	2	Unit	Unit	2	2	
+51	AX-3249-PA							False	True				Unit	Unit			
+52	TK-8161-RC	450000	2018-06-28	EnVogue Property Management	0	2019	35	True	True	22	6	1	Unit	Unit	1	1	
+53	ZM-1117-IC			Maloney's the Estate Agent	490	2006	49	False	True			2	Unit	Unit	2	3	
+54	VF-5462-ZA		2012-06-26	Maloney's the Estate Agent	780	2018	7	True	True			1	Unit	Unit	1	1	
+55	RV-3279-SN		2010-10-29	Maloney's the Estate Agent	460	2019	13	True	True			1	Unit	Unit	1	1	
+56	BD-8717-JO							False	False				House	House			
+57	AT-5316-NI							False	True				Unit	Unit			
+58	ZV-1942-AM							False	True				Unit	Unit			
+59	AT-5069-KT							False	True				Unit	Unit			
+60	ZX-0850-MX							False	True				Unit	Unit			
+61	AS-6409-RX	665000	2019-08-16					False	True			2	Unit	Unit	2	2	
+62	ZY-0548-QT							False	True				Unit	Unit			
+63	DD-3035-DB							False	True			1	Unit	Unit	1	1	
+64	UO-6322-BS							False	True				Unit	Unit			
+65	MD-2273-SJ			PRDnationwide Canberra	400	2017	133	False	True			1	Unit	Unit	1	1	
+66	UP-5371-KK							False	True				Unit	Unit			
+67	CX-2787-HH			Total Property Management - Bright Partners	460	2018	8	False	False			0	House	House	1	1	
+68	UO-2370-YU							False	True				Unit	Unit			
+69	PV-7920-PB			LJ Hooker Manuka	0	2020	1	False	True			0	Unit	Unit	1	1	
+70	UP-4631-ZE							False	True				Unit	Unit			
+71	CY-2288-IH							False	True			2	Unit	Unit	2	2	
+72	UJ-1276-CH							False	True				Unit	Unit			
+73	CZ-4061-TK			Total Property Management - Bright	620	2016	35	False	True			2	Unit	Unit	1	2	
+74	UH-1215-WZ							False	True				Unit	Unit			
+75	CZ-0091-GS			PRDnationwide Canberra	465	2019	3	False	True			1	Unit	Unit	1	1	
+76	UH-0550-JE							False	True				Unit	Unit			
+77	DC-5534-YP	650000	2018-08-22	Luton Properties - Dickson	650	2017	334	False	True	14	9	2	Unit	Unit	2	2	
+78	TA-1964-FL							False	True				Unit	Unit			
+79	YZ-1877-JR	700000	2009-12-03					False	True	22	6		Unit	Unit			
+80	JO-1257-GS			Independent Property Management	435	2017	28	False	True			1	Unit	Unit	1	1	
+81	DV-7071-SM							False	True			0	Unit	Unit	2	3	
+82	EF-0211-CA							False	True				Unit	Unit			
+83	DC-0020-DT			RW Canberra	490	2019	15	False	True			1	Unit	Unit	1	1	
+84	UH-8939-HJ							False	True				Unit	Unit			
+85	CZ-8266-AN			Blewitt Properties	440	2016	138	False	True			1	Unit	Unit	1	1	
+86	RR-2613-LU							False	True				Unit	Unit			
+87	DA-7456-IP	710000	2019-12-06					False	True			2	Unit	Unit	2	2	
+88	RM-6553-TS							False	True				Unit	Unit			
+89	HB-8309-ON			Belle Property Kingston	650	2019	3	False	True			2	Unit	Unit	2	2	
+90	QZ-4877-BK							False	True				Unit	Unit			
+91	GX-4128-CC							False	True				Unit	Unit			
+92	FB-8576-TZ							False	True				Unit	Unit			
+93	EQ-7267-JO			Maloney's the Estate Agent	460	2020	28	False	True			1	Unit	Unit	1	1	
+94	CF-2750-GR							False	True				Unit	Unit			
+95	GY-1509-UT							False	True				Unit	Unit			
+96	FC-2866-GE							False	True				Unit	Unit			
+97	EE-6059-GJ							False	True				Unit	Unit			
+98	CF-1075-HT							False	True				Unit	Unit			
+99	TG-8139-ZJ							False	True				Unit	Unit			
+100	RB-1067-DL							False	True				Unit	Unit			
+101	GY-0644-NX							False	True				Unit	Unit			
+102	RM-7003-PT							False	True				Unit	Unit			
+103	GZ-4196-EJ	700000	2017-07-12	Little Bird Properties	0	2019	23	True	True	14	9	2	Unit	Unit	2	2	
+104	HM-3309-MY							False	True				Unit	Unit			
+105	QI-5070-RQ	590000	2005-01-28					False	True	22	6		Unit	Unit			
+106	MG-3403-NG			LJ Hooker Manuka	0	2019	24	False	True			1	Unit	Unit	1	1	
+107	QU-1212-UM			Berkely Residential	895	2017	43	False	True			2	Unit	Unit	2	3	
+108	QO-4841-EV			Maloney's the Estate Agent	720	2015	22	False	True			2	Unit	Unit	2	3	
+109	GZ-1193-OI		2018-10-20					False	True			1	Unit	Unit	1	1	
+110	EZ-6746-MK							False	True				Unit	Unit			
+111	GZ-2465-LN							False	True				Unit	Unit			
+112	KV-0213-XB							False	True				Unit	Unit			
+113	HA-2256-IT			Independent Property Management	425	2015	48	False	True			1	Unit	Unit	1	1	
+114	OK-0452-HX							False	True				Unit	Unit			
+115	HA-2543-NM			Independent Property Management	0	2020	313	False	True			2	Unit	Unit	2	2	
+116	FA-7765-UT							False	True				Unit	Unit			
+117	GU-4228-RR							False	True				Unit	Unit			
+118	RM-8201-NN							False	True				Unit	Unit			
+119	GT-8931-WO							False	True				Unit	Unit			
+120	FA-3186-AP							False	True				Unit	Unit			
+121	FL-8409-CV			Cream Residential	520	2017	202	False	True			1	Unit	Unit	1	1	
+122	RS-4938-GJ							False	True				Unit	Unit			
+123	TC-4786-BT							False	True				Unit	Unit			
+124	TC-5852-BJ							False	True				Unit	Unit			
+125	RA-5917-MY							False	True				Unit	Unit			
+126	GV-1655-RZ	590900	2014-10-17					False	True	14	9		Unit	Unit			
+127	EL-2880-NK							False	True				Unit	Unit			
+128	DZ-8981-OS		2011-07-13					False	True	22	6	2	Unit	Unit	2	2	
+129	DW-3280-OC		2017-03-31					False	True			1	Unit	Unit	1	1	
+130	MG-9340-UK			Luton Properties Woden	570	2011		False	True			2	Unit	Unit	2	2	
+131	FT-9004-HF			LJ Hooker Manuka	0	2019	11	False	True			2	Unit	Unit	1	2	
+132	SX-8210-IS							False	True				Unit	Unit			
+133	RA-9228-LC							False	True				Unit	Unit			
+134	RA-8123-RZ							False	True				Unit	Unit			
+135	SX-5612-SO							False	True				Unit	Unit			
+136	KX-7511-NS							False	True				Unit	Unit			
+137	QX-2524-FR							False	True				Unit	Unit			
+138	EZ-5316-EQ							False	True				Unit	Unit			
+139	SZ-2483-CL							False	True				Unit	Unit			
+140	QX-3954-AH							False	True				Unit	Unit			
+141	SY-0589-FV							False	True				Unit	Unit			
+142	GV-8244-EY	400900	2014-04-29					False	True	14	9		Unit	Unit			
+143	QK-8975-WL							False	True				Unit	Unit			
+144	RV-7929-SM	335000	2003-09-30					False	True	22	6		Unit	Unit			
+145	VV-7167-AT	860000	2016-07-08	PRDnationwide Canberra	700	2012		False	True			2	Unit	Unit	2	3	
+146	VY-9478-MD	375000	2009-02-09	Total Property Management - Bright Partners	550	2009	2	True	True			1	Unit	Unit	1	1	
+147	FC-0349-DM			PURNELL	415	2014	22	False	True			1	Unit	Unit	1	1	
+148	BS-2824-DQ							False	False				House	House			
+149	SY-2083-DH							False	True				Unit	Unit			
+150	TA-5723-WV							False	True				Unit	Unit			
+151	CV-6308-UC							False	True				Unit	Unit			
+152	TA-0311-PF							False	True				Unit	Unit			
+153	OU-1038-UW							False	True				Unit	Unit			
+154	TB-1054-CC							False	True				Unit	Unit			
+155	QW-4416-FE							False	True				Unit	Unit			
+156	QS-0428-FS							False	True				Unit	Unit			
+157	TC-1222-JU							False	True				Unit	Unit			
+158	QT-6679-DD							False	True				Unit	Unit			
+159	BO-9174-EB							False	False				House	House			
+160	YE-9999-IZ							False	False				House	House			
+161	GW-4863-XL	385900	2014-07-30	LJ Hooker Gungahlin	450	2018	22	True	True	14	9	1	Unit	Unit	1	1	
+162	QZ-0159-IR							False	True				Unit	Unit			
+163	BB-4248-TO	441000	2017-08-22	LJH Belconnen	450	2010		False	True	22	6	1	Unit	Unit	1	1	
+164	NF-8553-OA	483000	2018-03-10	Maloney's - the Estate Agent	490	2014	17	False	True			1	Unit	Unit	1	1	
+165	NF-4606-TE		2019-11-04					False	True			1	Unit	Unit	1	1	
+166	CQ-6016-EB		2017-08-22	Philip Kouvelis Real estate	420	2016	29	False	True			1	Unit	Unit	1	1	
+167	TB-6699-TR							False	True				Unit	Unit			
+168	QT-5735-FL							False	True				Unit	Unit			
+169	SD-7825-HD							False	True				Unit	Unit			
+170	MC-4750-QF							False	True				Unit	Unit			
+171	SL-4972-XG							False	True				Unit	Unit			
+172	NO-2245-NZ							False	True				Unit	Unit			
+173	NV-0448-DA	695000	2009-11-23					False	True	22	6		Unit	Unit			
+174	NO-4254-LG	280000	2006-03-15					False	True	22	6		Unit	Unit			
+175	SE-4682-MX	330000	2004-02-02					False	True	22	6		Unit	Unit			
+176	EG-8346-UA	683000	2018-10-30					False	True	22	6		Unit	Unit			
+177	AF-5643-LZ	390900	2013-09-18					False	True	14	9		Unit	Unit			
+178	BT-9457-HC			Badenoch Real Estate Sales	460	2009		False	False			1	House	House	1	3	
+179	JG-1164-GY							False	True				Unit	Unit			
+180	NG-1777-LH	749000	2016-05-06	Hayman Partners	745	2020	49	True	True	22	6	1	Unit	Unit	2	3	
+181	UU-1525-ST	445000	2018-08-09					False	True			1	Unit	Unit	1	1	
+182	GO-5094-UC							False	True				Unit	Unit			
+183	FN-8374-NN		2016-05-06					False	True			2	Unit	Unit	2	3	
+184	NO-5350-DH	310000	2006-08-01					False	True	22	6		Unit	Unit			
+185	SJ-3219-NU	480000	2002-03-19					False	True	22	6		Unit	Unit			
+186	FA-5030-AE	330000	2002-02-27					False	True	22	6		Unit	Unit			
+187	NQ-1226-YU	399000	2013-11-08					False	True	22	6		Unit	Unit			
+188	ZN-3255-EG	405000	2006-06-20					False	True	22	6		Unit	Unit			
+189	VS-5044-SJ	690000	2018-06-02					False	True	22	6		Unit	Unit			
+190	KW-9547-LX	450000	2018-06-28					False	True	22	6		Unit	Unit			
+191	CC-3344-QI	630000	2004-08-09					False	True	22	6		Unit	Unit			
+192	NQ-4328-TV	635000	2002-02-26					False	True	22	6		Unit	Unit			
+193	SL-9844-QH	575000	2011-07-29					False	True	22	6		Unit	Unit			
+194	AG-2167-ZM	630900	2013-12-20	Total Property Management - Bright	570	2016	7	True	True	14	9	2	Unit	Unit	1	2	
+195	JO-4180-BU							False	True				Unit	Unit			
+196	DG-5464-BX	690000	2018-02-24					False	True	22	6		Unit	Unit		3	
+197	IW-3058-AP			Bolton & Co O'Connor	610	2019	57	False	True			2	Unit	Unit	2	2	
+198	IQ-8796-NN			McGrath Woden Property Management	500	2019	20	False	True			1	Unit	Unit	1	1	
+199	AS-9136-DZ		2018-02-24					False	True			2	Unit	Unit	2	2	
+200	NS-1246-GY	367500	2007-10-18					False	True	22	6		Unit	Unit			
+201	SI-4687-HG	423000	2017-02-04					False	True	22	6		Unit	Unit			
+202	RY-7691-LD	750000	2013-07-25					False	True	22	6		Unit	Unit			
+203	EE-2009-ED	440000	2004-12-06					False	True	22	6		Unit	Unit			
+204	NS-4839-DH	310000	2002-02-02					False	True	22	6		Unit	Unit			
+205	SD-5649-FS	610000	2004-10-01					False	True	22	6		Unit	Unit			
+206	NS-6053-DW	373000	2007-07-31					False	True	22	6		Unit	Unit			
+207	HE-2793-QI	440000	2009-11-02					False	True	22	6		Unit	Unit			
+208	BL-2776-OE	480000	2006-10-18					False	True	22	6		Unit	Unit			
+209	SJ-5550-MG	400000	2016-04-21					False	True	22	6		Unit	Unit			
+210	AE-6945-QZ	430900	2014-02-27	Key Real Estate ACT	415	2018	7	True	True	14	9	1	Unit	Unit	1	1	
+211	HK-8336-LD							False	True				Unit	Unit			
+212	XC-8280-XH	298000	2006-10-05	Hayman Partners	450	2019		True	True	22	6	1	Unit	Unit	1	1	
+213	FJ-0437-CM			Maloney's the Estate Agent	960	2013	1	False	True			1	Unit	Unit	1	1	
+214	VI-8477-TX	390000	2017-12-22	ParkTrent Properties Group - Canber	435	2017	7	False	True			1	Unit	Unit	1	1	
+215	WT-3705-TZ			Archived Peter Blackshaw Real Estate Woden & Weston Cre	445	2018	26	False	True			1	Unit	Unit	1	1	
+216	LX-4793-CA	415000	2014-01-09					False	True	22	6		Unit	Unit			
+217	LX-4005-VI	643000	2010-07-02					False	True	22	6		Unit	Unit			
+218	SH-2955-BQ	327000	2007-05-18					False	True	22	6		Unit	Unit			
+219	LX-1511-WP	460000	2016-10-10					False	True	22	6		Unit	Unit			
+220	LX-2409-OC	410000	2014-02-26					False	True	22	6		Unit	Unit			
+221	NC-7373-MC	440000	2004-08-10					False	True	22	6		Unit	Unit			
+222	SH-3218-TV	610000	2011-07-05					False	True	22	6		Unit	Unit			
+223	LW-5568-BP	335000	2007-04-30					False	True	22	6		Unit	Unit			
+224	LY-2196-XW	1000000	2013-10-24					False	True	22	6		Unit	Unit			
+225	LZ-3834-KJ	310000	2002-02-28					False	True	22	6		Unit	Unit			
+226	AE-2537-SC	675000	2018-08-04					False	True	14	9	2	Unit	Unit	2	2	
+227	TN-0903-TR	1489750	2018-11-13					False	True	8	9		Commercial	Commercial			
+228	ES-0334-HR	450000	2017-07-28					False	True	22	6		Unit	Unit		1	
+229	JG-7036-LY			Independent Property Management	370	2016	12	False	True			1	Unit	Unit	1	1	
+230	KY-5943-CT			Distinct Property Management	0	2019	16	False	True			1	Unit	Unit	1	1	
+231	XI-2641-NP		2017-07-28	PURNELL	0	2019	49	True	True			1	Unit	Unit	1	1	
+232	EF-4757-RX							False	True				Unit	Unit			
+233	CX-5837-MY							False	False				Unit	Unit			
+234	AD-7428-ML	830900	2013-08-29					False	True	14	9		Unit	Unit			
+235	PI-4746-DJ							False	True				Unit	Unit			
+236	MY-9031-SS	530000	2002-02-27					False	True	22	6	2	Unit	Unit	2	3	
+237	VE-0470-WX			Archived Peter Blackshaw Real Estate Woden & Weston Cre	420	2017	15	False	True			1	Unit	Unit	1	1	
+238	UU-0993-ES			PURNELL	435	2018	58	False	True			1	Unit	Unit	1	1	
+239	TZ-4446-XV			LJ Hooker Manuka	700	2016	15	False	True			2	Unit	Unit	2	3	
+240	NB-0342-GC	900000	2012-03-27					False	True	22	6		Unit	Unit			
+241	LT-6962-WE	460000	2011-03-28					False	True	22	6		Unit	Unit			
+242	EB-4583-TW	345000	2006-09-05					False	True	22	6		Unit	Unit			
+243	QP-8276-FG	560000	2005-03-18					False	True	22	6		Unit	Unit			
+244	LT-4182-YT	435000	2019-02-12					False	True	22	6		Unit	Unit			
+245	NC-2491-KR	575000	2012-12-21					False	True	22	6		Unit	Unit			
+246	LV-1962-XY	465000	2003-03-25					False	True	22	6		Unit	Unit			
+247	MU-4306-DJ	430000	2011-02-18					False	True	22	6		Unit	Unit			
+248	MB-4328-QL	935000	2002-02-28					False	True	22	6		Unit	Unit			
+249	UD-9517-SE	999999	2015-02-18					False	True	22	6		Unit	Unit			
+250	AB-9111-VI							False	True				Unit	Unit			
+251	LO-8352-CE							False	True				Unit	Unit			
+252	CY-1521-TT	450000	2012-08-03					False	True	22	6		Unit	Unit		1	
+253	LR-1053-DM			Maloney's the Estate Agent	420	2005	7	False	True			2	Unit	Unit	2	2	
+254	IW-0122-VS		2017-02-23	Peter Blackshaw Real Estate Manuka	750	2017	62	True	True			2	Unit	Unit	2	3	
+255	QO-3365-WI			PURNELL	0	2019	18	False	False			1	Unit	Unit	1	1	
+256	SA-4051-JO	376000	2007-12-06					False	True	22	6		Unit	Unit			
+257	MY-7425-AP	1025000	2015-10-09					False	True	22	6		Unit	Unit			
+258	MB-0905-YA	460000	2011-03-30					False	True	22	6		Unit	Unit			
+259	MZ-0677-VD	340000	2002-02-27					False	True	22	6		Unit	Unit			
+260	KX-5072-BI	360000	2006-12-18					False	True	22	6		Unit	Unit			
+261	NA-3086-JV	465000	2004-09-28					False	True	22	6		Unit	Unit			
+262	IW-3275-SO	530000	2007-12-03					False	True	22	6		Unit	Unit			
+263	IW-1962-MX	655000	2016-09-15					False	True	22	6		Unit	Unit			
+264	MZ-7273-XP	417000	2017-02-23					False	True	22	6		Unit	Unit			
+265	IS-1227-RO	1250000	2014-02-07					False	True	22	6		Unit	Unit			
+266	AI-9617-KU	430900	2013-11-20	McGrath Dickson	450	2019	12	True	True	14	9	1	Unit	Unit	1	1	
+267	KA-4920-YZ							False	True				Unit	Unit			
+268	RD-1910-NL	405000	2015-12-23	Ray White Canberra	495	2018	21	True	True	22	6	1	Unit	Unit	1	1	
+269	SU-2467-YW			Maloney's the Estate Agent	1140	2014	50	False	True			2	Unit	Unit	2	2	
+270	GP-2917-GN		2015-01-05	PURNELL	460	2014	33	False	True			1	Unit	Unit	1	1	
+271	TU-9812-XH	405000	2015-12-23	LJH Manuka	410	2010	7	False	True			1	Unit	Unit	1	1	
+272	LH-9079-TS	412500	2016-06-21					False	True	22	6		Unit	Unit			
+273	NA-9366-DQ	615000	2014-06-06					False	True	22	6		Unit	Unit			
+274	IS-7095-UE	591000	2010-08-24					False	True	22	6		Unit	Unit			
+275	SA-2665-EU	430900	2014-05-23					False	True	14	9		Unit	Unit			
+276	HW-0460-FQ							False	True				Unit	Unit			
+277	QO-4259-RT	560000	2008-05-14	IPG Inner North & City	1738	2007	55	False	True	22	6	2	Unit	Unit	2	1	
+278	IA-0891-WL							False	True				Unit	Unit			
+279	CL-7786-HZ			Maloney's - the Estate Agent	480	2015	16	False	True			1	Unit	Unit	1	1	
+280	RR-6243-ZT							False	True				Unit	Unit			
+281	AJ-0892-AF	640900	2014-11-24	Key Real Estate ACT	0	2020	306	True	True	14	9	2	Unit	Unit	2	2	
+282	EO-5993-YJ							False	True				Unit	Unit			
+283	MK-9701-HB	455000	2018-11-28	Elders Dickson	460	2011	21	False	True	22	6	1	Unit	Unit	1	1	
+284	EO-2291-QK							False	True				Unit	Unit			
+285	LN-7699-AX							False	True			2	Unit	Unit	2	2	
+286	KH-6006-QZ		2018-11-28	Badenoch Real Estate Sales	420	2009		False	True			1	Unit	Unit	1	1	
+287	AI-2007-EH	565900	2014-08-08	Key Real Estate ACT	640	2018	12	True	True	14	9	1	Unit	Unit	2	2	
+288	AU-5544-KP							False	True				Unit	Unit			
+289	UR-2874-AJ		2013-12-13	Harcourts Prime Residential	520	2018	9	True	True	22	6	1	Unit	Unit	1	1	
+290	VT-0138-JQ	460000	2018-11-15	PURNELL	495	2016	45	False	True			1	Unit	Unit	1	1	
+291	QI-8637-GL		2015-07-16	PURNELL	530	2018	443	True	True			1	Unit	Unit	1	1	
+292	YW-8139-ZZ			Cream Residential	440	2018	9	False	True			1	Unit	Unit	1	1	
+293	AI-0134-ZO	405900	2014-06-27					False	True	14	9		Unit	Unit			
+294	UZ-9323-VV	610000	2016-09-08	McIntyre Property	675	2019	32	True	True	22	6	2	Unit	Unit	2	2	
+295	RB-3302-NM			Archived Peter Blackshaw Real Estate Woden & Weston Cre	645	2016	14	False	True			2	Unit	Unit	2	3	
+296	XS-8831-GQ			Maloney's the Estate Agent	410	2008	37	False	True			1	Unit	Unit	1	1	
+297	MW-5646-MH	610000	2016-09-08					False	True			2	Unit	Unit	2	2	
+298	AI-2869-YC	390900	2015-05-19	PRDnationwide Canberra	480	2018	12	True	True	14	9	1	Unit	Unit	1	1	
+299	CP-5753-US	485000	2018-07-17	Richard Luton Manuka	450	2010	20	False	True	22	6	1	Unit	Unit	1	1	
+300	VD-8681-EX			Blue Property Marketing	420	2012	40	False	True			1	Unit	Unit	1	1	
+301	VD-2341-LQ							False	True				Unit	Unit			
+302	FT-8368-MY		2018-07-18					False	True			1	Unit	Unit	1	1	
+303	HI-2059-SU	395900	2013-09-25	Maloney's the Estate Agent	900	2018	14	True	True	14	9	1	Unit	Unit	1	1	
+304	JS-9369-GH	425000	2017-07-10					False	True	22	6		Unit	Unit			
+305	OF-9307-TX	408000	2016-10-10	Peter Blackshaw Tuggeranong	425	2018	9	True	True			1	Unit	Unit	1	1	
+306	ZL-2753-VT		2017-12-12	PURNELL	460	2018	6	True	True			1	Unit	Unit	1	1	
+307	SG-3763-BW	460000	2016-10-10					False	True			1	Unit	Unit	1	1	
+308	HI-8093-AE	655000	2019-01-15					False	True	14	9	2	Unit	Unit	2	2	
+309	YN-5664-TO	437000	2017-06-30					False	True	22	6	1	Unit	Unit	1	1	
+310	YL-6380-SX			IPG Inner North & City	450	2007		False	True			1	Unit	Unit	1	1	
+311	YD-4359-QJ			Badenoch Real Estate Sales	400	2010	7	False	True			1	Unit	Unit	1	1	
+312	VP-7158-NZ	437000	2017-06-30	Independent Property Management	440	2017	42	True	False			1	Unit	Unit	1	1	
+313	HG-8949-ZM	445900	2014-10-24					False	True	14	9		Unit	Unit			
+314	MD-3887-CU	4025000	1995-11-17					False	True	8	9		Commercial	Commercial			
+315	JZ-2755-GG		2010-10-25	Cream Residential	0	2019	55	True	True			0	Unit	Unit	1	1	
+316	LE-3370-LP							False	True				Unit	Unit			
+317	RK-1392-UC	440000	2016-10-14	Maloney's - the Estate Agent	430	2014	26	False	True			1	Unit	Unit	1	1	
+318	JS-9719-HU							False	True				Unit	Unit			
+319	YT-4397-MI							False	True				Unit	Unit			
+320	YO-7301-BC							False	False				Unit	Unit			
+321	HH-3069-NX							False	True	14	9		Unit	Unit			
+322	QD-5848-QJ	698000	2016-08-16					False	True	22	6		Unit	Unit			
+323	GB-5007-GS		2019-03-19	Dwyer Dunn Property Consultants	540	2014	70	False	True			1	Unit	Unit	1	1	
+324	GC-4381-HJ	481000	2018-12-04	New Stage Property Canberra	0	2019	9	True	True			1	Unit	Unit	1	1	
+325	FQ-8325-VH							False	True			2	Unit	Unit	2	2	
+326	FV-3899-YL							False	False				House	House			
+327	HD-2909-CW	845900	2013-08-23					False	True	14	9		Unit	Unit			
+328	FW-6083-QQ	589000	2014-05-16	IPG Inner North & City	800	2007	55	False	True	22	6	0	Unit	Unit	2	2	
+329	MD-6735-LQ	450500	2018-09-15	IPG Inner North & City	660	2007	55	False	True			1	Unit	Unit	1	1	
+330	ZU-4432-UY			Peter Blackshaw Real Estate Manuka	500	2015	76	False	True			2	Unit	Unit	2	2	
+331	VU-1598-QW		2014-05-16	Peter Blackshaw Canberra City Rentals	0	2019	9	True	True			2	Unit	Unit	2	2	
+332	HE-4955-HI	435900	2013-09-05	PRDnationwide Canberra	440	2019	7	True	True	14	9	1	Unit	Unit	1	1	
+333	BS-5425-NW	478000	2018-10-10	Maloney's the Estate Agent	480	2020	40	True	True	22	6	1	Unit	Unit	1	1	
+334	VL-7793-RB							False	True			1	Unit	Unit	1	1	
+335	VQ-3218-ED							False	True				Unit	Unit			
+336	XM-5620-QA	478000	2018-10-10					False	True			1	Unit	Unit	1	1	
+337	MA-2754-AJ							False	False			2	House	House	2	2	
+338	EO-9703-BF			PRDnationwide Canberra	430	2017	7	False	True			1	Unit	Unit	1	1	
+339	PP-2292-YN	965000	2014-04-11	Luton Properties - Manuka	770	2016	122	True	True	22	6	2	Unit	Unit	2	3	
+340	WG-9424-GT							False	True			0	Unit	Unit	2	3	
+341	YJ-7234-DA			Independent Property Management	410	2017	10	False	True			1	Unit	Unit	1	1	
+342	OT-0988-IB	965000	2014-04-11	Luton Properties - Manuka	750	2014	74	True	True			2	Unit	Unit	2	3	
+343	EP-7676-MT	439900	2014-07-16	PURNELL	0	2020	44	True	True	14	9	1	Unit	Unit	1	1	
+344	CL-3163-ED	408000	2016-12-22	LJ Hooker Manuka	0	2019	9	True	True	22	6	1	Unit	Unit	1	1	
+345	QT-3220-FD			Bertram Ellis	445	2018	30	False	True			1	Unit	Unit	1	1	
+346	QS-7371-EZ							False	True				Unit	Unit			
+347	OT-9883-EU	408000	2016-12-23	Philip Kouvelis Real estate	480	2019	14	True	True			1	Unit	Unit	1	1	
+348	EH-1743-NG	650000	2017-11-07					False	True	14	9	2	Unit	Unit	2	2	
+349	TD-5239-TD		2012-03-27					False	True	22	6	2	Unit	Unit	2	3	
+350	LQ-2974-KL							False	True				Unit	Unit		3	
+351	KO-1823-OL							False	True				Unit	Unit			
+352	KO-7783-CE			Blandfordia Real Estate	750	2011	7	False	True			2	Unit	Unit	2	2	
+353	EH-0630-ID	615900	2015-05-27					False	True	14	9		Unit	Unit			
+354	DE-4348-RU	340000	2004-10-01					False	True	22	6		Unit	Unit			
+356	TB-6601-OM							False	True				Unit	Unit			
+357	KK-3841-TC							False	True				Unit	Unit			
+358	EI-3873-TO	410900	2014-01-24	EnVogue Property Management	0	2019		True	True	14	9	1	Unit	Unit	1	1	
+359	JS-5684-FA	445000	2012-08-14	Total Property Management - Bright	440	2018	7	True	True	22	6	1	Unit	Unit	1	1	
+360	LR-1315-LC			Maloney's the Estate Agent	570	2011	14	False	True			2	Unit	Unit	3	2	
+361	LR-1889-BE							False	True				Unit	Unit			
+362	KL-0038-QE			PURNELL	420	2014	56	False	True			1	Unit	Unit	1	1	
+363	EI-3160-AR	412500	2018-12-07					False	True	14	9	1	Unit	Unit	1	1	
+364	EW-8218-OE	560000	2006-06-13	LJ Hooker Manuka	720	2010	20	True	True	22	6	2	Unit	Unit	2	3	
+365	JC-7767-OO			Luton Properties - Manuka	560	2016	12	False	True			2	Unit	Unit	2	2	
+366	IX-2479-VJ		2017-10-31	Archived Peter Blackshaw Real Estate Woden & Weston Cre	495	2017	187	False	True			1	Unit	Unit	1	1	
+367	KJ-4665-VL							False	True				Unit	Unit		3	
+368	EI-4457-YF	400900	2014-09-24					False	True	14	9		Unit	Unit			
+369	ZQ-0344-WY	435000	2019-02-12	LJ Hooker Manuka	0	2019		True	True	22	6	0	Unit	Unit	1	1	
+370	LV-6181-BD			Peter Blackshaw Real Estate Manuka	850	2015	89	False	True			3	Unit	Unit	2	3	
+371	LZ-7981-NA		2017-04-18					False	True			2	Unit	Unit	2	3	
+372	OY-9680-YX							False	True			1	Unit	Unit	1	1	
+373	EM-3325-ME	899900	2015-03-10	Little Bird Properties	0	2019	31	True	True	14	9	2	Unit	Unit	2	3	
+374	TJ-8906-SS	4025000	1995-11-17					False	True	8	9		Commercial	Commercial			
+375	IO-0855-GX	430000	2013-09-27	LJH Manuka	550	2015		True	True	22	6	2	Unit	Unit	2	2	
+376	AG-8603-CR			ParkTrent Properties Group Wollongong	415	2014	26	False	True			1	Unit	Unit	1	1	
+377	QZ-4894-IE	691000	2018-10-13					False	True			0	Unit	Unit	2	2	
+378	TR-4305-RV	430000	2013-09-27	PURNELL	450	2015	313	True	True			1	Unit	Unit	1	1	
+379	FV-0433-DP							False	True				Unit	Unit			
+380	LV-4841-WT							False	False				Unit	Unit			
+381	EL-0815-IA	690000	2017-06-29	Belle Property Kingston	695	2019	7	True	True	14	9	2	Unit	Unit	2	2	
+382	RZ-0195-PI	412000	2005-10-14	LJH Manuka	545	2011		True	True	22	6	2	Unit	Unit	2	2	
+383	RE-6226-MV							False	True				Unit	Unit			
+384	NU-7946-ZF			inStyle Estate Agents	480	2019	36	False	True			1	Unit	Unit	1	1	
+385	TY-7036-UX							False	True			2	Unit	Unit	2	2	
+387	EK-5406-LY	450000	2018-07-24	Independent Property Management	440	2017	15	False	True	14	9	1	Unit	Unit	1	1	
+388	IB-9093-NR	415000	2002-02-28					False	True	22	6	2	Unit	Unit	2	2	
+389	XL-5394-AO			Peter Blackshaw Manuka Projects	460	2019	8	False	True			1	Unit	Unit	1	1	
+390	XL-9848-NN							False	True				Unit	Unit			
+391	EV-0801-JS			Total Property Management - Bright	570	2016	258	False	True			2	Unit	Unit	1	2	
+393	EL-9886-KE	850900	2013-08-15					False	True	14	9		Unit	Unit			
+394	TD-6801-TG	430000	2011-02-18	PURNELL	400	2016	12	True	True	22	6	1	Unit	Unit	1	1	
+395	RS-9764-PZ		2017-01-30					False	True			1	Unit	Unit	1	1	
+396	YB-4827-RS			Maloney's the Estate Agent	490	2019	25	False	True			1	Unit	Unit	1	1	
+397	GM-9446-JT							False	True			1	Unit	Unit	1	1	
+398	EM-1208-PN	440000	2017-09-08	PURNELL	385	2015	65	False	True	14	9	0	Unit	Unit	1	1	
+399	OX-4160-LF	930000	2004-08-03	Total Property Management - Bright	800	2017	7	True	True	22	6	2	Unit	Unit	1	3	
+400	XB-4157-IJ			Peter Blackshaw Real Estate Manuka	470	2017	203	False	True			1	Unit	Unit	1	1	
+401	SN-7417-VB			Maloney's - the Estate Agent	820	2015	71	False	True			1	Unit	Unit	1	1	
+402	GO-6494-CP			Casual Advertiser	850	2004		False	True			2	Unit	Unit	2	3	
+404	BC-2164-YJ	450900	2014-12-24					False	True	14	9		Unit	Unit			
+405	EZ-6073-HG	415000	2013-04-04					False	True	22	6	2	Unit	Unit	2	3	
+406	KI-5487-UX	425000	2013-02-08	Belle Property Kingston	550	2017	16	True	True			1	Unit	Unit	1	1	
+407	PH-5605-AL			LJ Hooker Manuka	350	2015		False	True			1	Unit	Unit	1	1	
+408	OC-5440-DU			Maloney's - the Estate Agent	450	2019	14	False	True			1	Unit	Unit	1	1	
+409	BE-4728-HD	450900	2015-01-13	LJH Manuka	0	2019	58	True	True	14	9	1	Unit	Unit	1	1	
+410	GZ-5181-IE	1040000	2010-10-22	Peter Blackshaw Real Estate Manuka	410	2017	12	True	True	22	6	1	Unit	Unit	1	1	
+411	VH-1964-TX		2016-08-09	Archived Peter Blackshaw Real Estate Woden & Weston Cre	410	2015	61	False	True			1	Unit	Unit	1	1	
+412	DJ-3641-GG			Belle Property Kingston	460	2020	302	False	True			1	Unit	Unit	1	1	
+413	NH-4809-RA							False	True			2	Unit	Unit	2	3	
+415	BF-6486-NI	645900	2014-05-27					False	True	14	9	0	Unit	Unit	2	2	
+416	XO-6160-FN	375000	2008-04-21					False	True	22	6	2	Unit	Unit	2	3	
+417	MJ-3029-DV			Peter Blackshaw Real Estate Manuka	990	2015	10	False	True			2	Unit	Unit	2	3	
+418	NM-8113-HV			McGrath Woden Property Management	430	2018	17	False	True			1	Unit	Unit	1	1	
+419	BF-3323-XZ	625900	2015-06-23	PURNELL	675	2018	14	True	True	14	9	2	Unit	Unit	2	2	
+420	EK-7012-AY	1150000	2016-11-22	PURNELL	0	2019	12	True	True	22	6	0	Unit	Unit	1	1	
+421	HQ-2222-TZ							False	True			2	Unit	Unit	2	3	
+422	DJ-2525-KL			White Rhino Property	1000	2018	161	False	True			2	Unit	Unit	2	3	
+424	BG-3793-DD	415900	2014-05-05	Blewitt Properties	385	2015	76	True	True	14	9	1	Unit	Unit	1	1	
+425	UU-7116-IH	489000	2019-03-25					False	True	22	6		Unit	Unit			
+426	KS-2483-PV	405000	2015-07-22	Dwyer Dunn Property Consultants	355	2013	21	False	True			1	Unit	Unit	1	1	
+427	TG-8676-ZR	489000	2019-03-25	PURNELL	600	2018	14	False	True			1	Unit	Unit	1	1	
+428	YJ-6304-NZ	400900	2015-10-01	LJ Hooker Manuka	400	2016	56	True	True	14	9	1	Unit	Unit	1	1	
+429	DH-4883-PB	200000	2009-06-24	LJ Hooker Manuka	0	2019	49	True	True	22	6	1	Unit	Unit	1	1	
+430	VM-8057-UX	881000	2008-03-08					False	True			2	Unit	Unit	2	3	
+431	TM-9102-SV							False	True			1	Unit	Unit	1	1	
+432	ZF-7551-QD							False	False				House	House			
+433	BG-2073-AH							False	True	14	9		Unit	Unit			
+434	AP-9809-OO	2760000	2007-07-02	CBRE Canberra		2020	927	True	True	8	9		Commercial	Commercial			
+435	TM-2052-UR	400000	2003-02-26	Francis Properties	470	2019	10	True	True	22	6	1	Unit	Unit	1	1	
+436	MT-7861-XT	462000	2019-03-01	Rumbles Real Estate	475	2016	9	False	True			1	Unit	Unit	1	1	
+437	QF-0490-TA			Independent Property Management	400	2017	37	False	True			1	Unit	Unit	1	1	
+438	FK-5247-BH			PRD Leader Real Estate	650	2011	119	False	True			1	Unit	Unit	1	2	
+439	PE-0257-QA							False	True				Unit	Unit			
+440	MC-7041-HW							False	False				Unit	Unit			
+441	BG-1086-QB	410900	2014-11-03	McIntyre Property	530	2019	399	True	True	14	9	1	Unit	Unit	1	1	
+442	HV-8463-GM	700000	2018-11-13	Maloney's the Estate Agent	530	2011	16	False	True	22	6	1	Unit	Unit	2	2	
+443	HN-2637-JB		2014-02-21					False	True			1	Unit	Unit	1	1	
+444	FZ-2162-RI			McIntyre Property	695	2019	45	False	True			2	Unit	Unit	2	2	
+445	TL-1585-ZD	13500000	2011-08-19					False	False	9	9		Commercial	Commercial			3620
+446	BG-1083-IK	670900	2013-10-18					False	True	14	9	2	Unit	Unit	2	2	
+447	BA-0811-VP	395000	2002-02-28					False	True	22	6		Unit	Unit			
+448	UK-0039-BK		2012-06-04	PURNELL	0	2019	8	True	True			1	Unit	Unit	1	1	
+449	FV-6808-FS							False	True				Unit	Unit			
+450	OF-2106-VX	1500000	2015-08-18					False	False	25	6		Commercial	Leisure			1090
+451	BG-2684-PU	450900	2014-04-11	CTC Property Group	540	2019	15	True	True	14	9	1	Unit	Unit	1	1	
+452	FL-2616-VH		2016-09-14	Hayman Partners	695	2020	25	True	True	22	6	2	Unit	Unit	1	2	
+453	UW-8074-KC		2011-12-05					False	True			1	Unit	Unit	1	1	
+454	FR-9249-AJ							False	True				Unit	Unit			
+455	BG-9234-DE	879900	2013-10-16	Instyle Estate Agents Projects	860	2015	28	True	True	14	9	2	Unit	Unit	2	3	
+456	ZI-8548-EO	415000	2017-04-13	PURNELL	420	2015	63	False	True	22	6	1	Unit	Unit	1	1	
+457	QM-6710-FP			Bolton & Co Belconnen	640	2018	32	False	True			2	Unit	Unit	2	2	
+458	IL-9698-CA							False	True			1	Unit	Unit	1	1	
+460	ES-8373-PP	450900	2013-12-17	Maloney's - the Estate Agent	840	2015	12	True	True	14	9	1	Unit	Unit	1	1	
+461	LA-0165-CZ	1360000	2017-09-09					False	True	22	6	2	Unit	Unit	2	3	
+462	ZB-6429-EL							False	True				Unit	Unit			
+463	JN-3560-QT	1360000	2017-09-09					False	True			2	Unit	Unit	2	3	
+464	ET-5977-LQ	450900	2013-12-23	Total Property Management - Bright	450	2019		True	True	14	9	1	Unit	Unit	1	1	
+465	QG-7260-ZP	412500	2016-06-20					False	True	22	6	1	Unit	Unit	1	1	
+466	WV-5183-ZW							False	True				Unit	Unit		2	
+467	JO-0074-FZ			McGrath Estate Agents	400	2017	14	False	True			1	Unit	Unit	1	1	
+469	ET-6510-DM	450900	2013-10-01					False	True	14	9		Unit	Unit			
+470	WF-2078-BE	615000	2014-06-06	Archived Peter Blackshaw Real Estate Woden & Weston Cre	610	2017	16	True	True	22	6	2	Unit	Unit	2	2	
+471	ND-1517-FA			PURNELL	425	2015	21	False	True			0	Unit	Unit	1	1	
+472	RW-6400-OE	570000	2010-03-12	Dwyer Dunn Property Consultants	570	2019	6	True	True			2	Unit	Unit	1	2	
+473	EQ-9973-AF	640900	2013-09-25	PRDnationwide Canberra	590	2017	49	True	True	14	9	1	Unit	Unit	2	2	
+474	SE-1900-AK	480000	2007-04-12	Independent Property Management	0	2020	315	True	True	22	6	2	Unit	Unit	2	2	
+475	SF-8588-KF	1320000	2018-07-07	Berkely Residential	900	2012	98	False	True			2	Unit	Unit	2	3	
+476	SC-7629-EY			Maloney's the Estate Agent	600	2019	171	False	True			2	Unit	Unit	2	2	
+477	DE-3158-VH							False	False				House	House			
+478	ER-6251-VM	630900	2015-05-07					False	True	14	9	2	Unit	Unit	2	2	
+479	PG-1971-PS			Maloney's the Estate Agent	320	2006	7	False	True			1	Unit	Unit	1	1	
+480	ON-7830-OD			Maureen Dwyer Property Consultant	765	2019	34	False	True			2	Unit	Unit	2	3	
+481	EU-1852-XZ							False	True				Unit	Unit			
+482	UL-6017-OS			Century 21 City Walk Canberra	550	2017	11	False	True			1	Unit	Unit	1	1	
+483	CH-7015-OL							False	False	3	13		Commercial	Commercial			2318
+484	EV-0775-TG	420000	2017-10-10	McGrath Estate Agents	0	2019	21	True	True	14	9	1	Unit	Unit	1	1	
+485	PX-6155-MG	1625000	2019-04-23					False	True	8	9		Commercial	Commercial			
+486	IH-3233-PB	430000	2016-04-28	Manuka Prestige Prop Grp	500	2007	23	False	True	22	6	2	Unit	Unit		2	
+487	TN-0207-GH	695000	2019-10-29					False	True			2	Unit	Unit	2	2	
+488	PA-8392-SC			Maloney's the Estate Agent	1210	2015	36	False	True			2	Unit	Unit	2	2	
+489	CR-3207-VB	430000	2016-04-30					False	True			1	Unit	Unit	1	1	
+490	RB-8476-YY							False	True				Unit	Unit			
+491	PN-5755-TW							False	False				Unit	Unit			
+492	UR-6578-KC	15866718	2009-05-04					False	False	1	4		Commercial	Commercial			26476
+493	SJ-8042-YT	430000	2019-03-22					False	True	14	9	1	Unit	Unit	1	1	
+494	UN-1894-MM	465000	2019-05-17	PURNELL	0	2019		True	True			1	Unit	Unit	1	1	
+495	EY-3802-FC	421000	2018-06-14	BORIS.	460	2018	10	True	True	14	9	1	Unit	Unit	1	1	
+496	UL-5155-RU							False	True			1	Unit	Unit	1	1	
+497	EZ-2782-EI		2019-12-16	Peter Blackshaw Manuka Projects	695	2018	183	False	True	14	9	2	Unit	Unit	2	2	
+498	QC-1081-NQ							False	True				Unit	Unit		1	
+499	BN-2476-WS	465900	2013-10-23					False	True	14	9		Unit	Unit			
+500	UK-8690-VD							False	True				Unit	Unit			
+501	BN-7659-IU	1000000	2018-01-20	Luton Properties - Manuka	880	2015	11	False	True	14	9	2	Unit	Unit	2	3	
+502	ZT-7424-WH							False	True				Unit	Unit			
+503	BO-3532-PA	469900	2014-05-21					False	True	14	9		Unit	Unit			
+504	RK-1527-YK							False	True				Unit	Unit			
+505	BO-9801-FZ	465900	2014-02-21					False	True	14	9		Unit	Unit			
+506	IT-5364-IZ							False	True				Unit	Unit			
+507	BT-0975-JU	465900	2013-09-23					False	True	14	9		Unit	Unit			
+508	RI-5121-VV							False	True				Unit	Unit			
+509	BS-5212-JZ	640900	2013-08-29					False	True	14	9		Unit	Unit			
+510	RI-3958-NW							False	True				Unit	Unit			
+511	BS-0184-AD	630900	2014-06-19					False	True	14	9	1	Unit	Unit	1	2	
+512	RG-3366-CT							False	True				Unit	Unit			
+513	BU-1105-XW	385900	2013-10-10	Distinct Property Management	0	2019	19	True	True	14	9	1	Unit	Unit	1	1	
+514	XJ-8532-NA	2135000	2011-04-19					False	True	8	9		Commercial	Commercial			
+515	PP-9925-BR	435000	2013-08-06					False	True	22	6		Unit	Unit			
+516	FT-9976-JB	560000	2014-09-01					False	True			2	Unit	Unit	2	2	
+517	TF-8753-NN		2017-11-23	PURNELL	510	2015	153	False	True			0	Unit	Unit	1	1	
+518	DA-6781-AI		2013-08-16					False	True			1	Unit	Unit	1	1	
+519	DM-4767-PZ							False	True				Unit	Unit		1	
+520	XN-2047-FH							False	False				Unit	Unit			
+521	QD-3992-BI			Ashby Partners Real Estate - CITY		2018	21	False	True			1	Unit	Unit	1	1	
+522	KR-0684-GP							False	True				Unit	Unit			
+523	QD-3063-CN	420900	2015-05-22					False	True	14	9		Unit	Unit			
+524	QA-4768-OW							False	True				Unit	Unit			
+525	QE-7434-ZH			PURNELL	475	2017	13	False	True			0	Unit	Unit	1	1	
+526	EB-6258-PQ							False	True				Unit	Unit			
+527	WT-9390-JJ							False	True				Unit	Unit			
+528	RI-8107-YE							False	True				Unit	Unit			
+529	QB-5010-IT		2017-06-03	Total Property Management - Bright Partners	580	2015	13	False	True			2	Unit	Unit	2	2	
+530	RE-7381-SL							False	True				Unit	Unit			
+531	QC-0992-EH			inStyle Estate Agents	0	2019	4	False	True			2	Unit	Unit	2	2	
+532	RI-8495-UG							False	True				Unit	Unit			
+533	QA-2561-GM							False	True				Unit	Unit			
+534	RF-2007-YI							False	True				Unit	Unit			
+535	QB-2446-NI			PRDnationwide Canberra	635	2018	6	False	True			2	Unit	Unit	2	2	
+536	RD-0404-LJ							False	True				Unit	Unit			
+537	QA-4972-ZB			Distinct Property Management	0	2019	3	False	True			1	Unit	Unit	1	1	
+538	RG-9658-XE							False	True				Unit	Unit			
+539	QA-4869-UE							False	True				Unit	Unit			
+540	RI-0596-KY							False	True				Unit	Unit			
+541	QA-5823-SA							False	True	14	9	2	Unit	Unit	2	2	
+542	TI-7567-GQ	1450000	1992-02-03					False	True	8	9		Commercial	Commercial			
+543	OE-3864-FK	325000	2004-12-17	Key Real Estate ACT	450	2018	5	True	True	22	6	1	Unit	Unit	1	1	
+544	MK-6624-FV							False	True				Unit	Unit			
+545	MG-8358-YI			PURNELL	0	2019	64	False	True			1	Unit	Unit	1	1	
+546	EN-9316-CI			PURNELL	0	2019	10	False	True			1	Unit	Unit	1	1	
+547	XC-5632-QZ							False	False			1	House	House	1	1	
+548	JK-5709-AK							False	True				Unit	Unit			
+549	JI-1875-QM							False	False				Unit	Unit			
+550	BK-8867-TQ							False	True				Unit	Unit			
+551	RB-8606-SS							False	True				Unit	Unit			
+552	QG-8434-HY							False	True				Unit	Unit			
+553	RC-4479-RH							False	True				Unit	Unit			
+554	QI-2023-SZ			Wright Dunn Real Estate 	450	2018	20	False	True			1	Unit	Unit	1	1	
+555	XC-2331-IJ							False	True				Unit	Unit			
+556	MG-0636-TU			Berkely Residential	0	2019	1	False	True			0	Unit	Unit	1	1	
+557	XD-0109-OJ							False	True				Unit	Unit			
+558	MI-7518-OC							False	True				Unit	Unit			
+559	XE-3898-TF							False	True				Unit	Unit			
+560	MI-0197-UY		2017-07-20	Francis Properties	650	2019	31	True	True			2	Unit	Unit	2	2	
+561	CC-4842-TE							False	True				Unit	Unit			
+562	MI-1803-RA			Total Property Management - Bright	550	2015	175	False	True			1	Unit	Unit	1	1	
+563	XF-1135-ZV							False	True				Unit	Unit			
+564	MD-1527-DX	425000	2019-08-21	McGrath Woden Property Management	430	2019	10	False	True			1	Unit	Unit	1	1	
+565	QA-6691-DI							False	True				Unit	Unit			
+566	MC-5620-VP			LJ Hooker Manuka	0	2019	4	False	True			1	Unit	Unit	1	1	
+567	XD-2550-NC							False	True				Unit	Unit			
+568	MK-0560-WJ			Peter Blackshaw Canberra City Rentals	0	2019	65	False	True			2	Unit	Unit	2	2	
+569	XF-1659-SN							False	True				Unit	Unit			
+570	MK-5152-RD	425900	2014-04-22					False	True	14	9		Unit	Unit			
+571	VA-3759-MJ							False	True				Unit	Unit			
+572	JS-0103-MF	587000	2014-05-23					False	True	22	6	0	Unit	Unit	2	2	
+573	SR-2041-RO	905000	2018-11-10					False	True			2	Unit	Unit	2	3	
+574	SS-1108-AU			Strictly Rentals	470	2008	38	False	True			2	Unit	Unit	2	2	
+575	NZ-6497-VD		2014-05-06					False	True			2	Unit	Unit	2	2	
+576	OI-5532-AP							False	False				Unit	Unit			
+577	MK-5180-YC		2018-04-12					False	True			2	Unit	Unit	2	2	
+578	XE-7202-ZX							False	True				Unit	Unit			
+579	EB-9028-FZ							False	True			1	Unit	Unit	1	1	
+580	XF-0320-JN							False	True				Unit	Unit			
+581	EE-0790-MQ			Belle Property Kingston	460	2019	8	False	True			1	Unit	Unit	1	1	
+582	XH-8282-HM							False	True				Unit	Unit			
+583	EB-1279-SU			PRDnationwide Canberra	480	2019	27	False	True			1	Unit	Unit	1	1	
+584	XG-3833-EU							False	True				Unit	Unit			
+585	DY-7519-XY			Century 21 City Walk Canberra	425	2018	240	False	True			1	Unit	Unit	1	1	
+586	XK-5678-YU							False	True				Unit	Unit			
+587	DZ-4209-GM			Little Bird Properties	0	2019	26	False	True			2	Unit	Unit	2	2	
+588	XK-3096-IF							False	True				Unit	Unit			
+589	EH-0100-YR							False	True				Unit	Unit			
+590	CD-0209-TE							False	True				Unit	Unit			
+591	KK-9072-GR							False	True				Unit	Unit			
+592	XK-6559-KO							False	True				Unit	Unit			
+593	KN-2313-PW			Peter Blackshaw Tuggeranong	530	2019	290	False	True			1	Unit	Unit	1	1	
+594	WD-9385-RO							False	True				Unit	Unit			
+595	KN-8317-CG	445000	2019-11-01	Sadil Quinlan	460	2018		False	True			1	Unit	Unit	1	1	
+596	KI-6311-PY							False	True				Unit	Unit			
+597	XE-2837-YY							False	False	2	8			Other			1831
+598	GN-5356-DP			Raine & Horne Commercial Canberra	45000	2013	112	False	True				Commercial	Commercial			
+599	QB-0273-OV	220000	1996-02-02	At Home	499	2015	13	True	True	1	23	1	Unit	Unit	1	2	
+604	HC-8263-HH							False	True				Unit	Unit			
+605	AI-6648-IH		2015-02-18	Archived Peter Blackshaw Real Estate Woden & Weston Cre	560	2017	14	True	True	1	23	1	Unit	Unit	1	2	
+606	TY-9443-LN							False	True			1	Unit	Unit	1	2	
+607	BN-7385-OK	170000	1995-12-22					False	True	1	23		Unit	Unit			
+608	FK-0016-YI							False	True				Unit	Unit			
+609	JF-2357-DX			Laurrie Scheele	600	2018	4	False	True			1	Unit	Unit	1	2	
+610	FD-1653-HO							False	True	1	23		Unit	Unit			
+611	KZ-2875-OU							False	True				Unit	Unit			
+612	YQ-2206-FO							False	True				Unit	Unit		2	
+613	IH-3776-LU		2019-04-16					False	True			1	Unit	Unit	1	2	
+614	IJ-5507-AU							False	True				Unit	Unit			
+615	LE-1929-PU			Luton Properties - Manuka	430	2007		False	True			0	Unit	Unit	1	2	
+616	HY-4881-VR							False	True				Unit	Unit			
+617	LP-2136-CK							False	True				Unit	Unit		2	
+618	PU-4413-VR							False	True				Unit	Unit			
+619	ON-3185-KG	185000	1997-01-10	Cream Residential	0	2020	2	True	True	1	23	1	Unit	Unit	1	2	
+620	LX-7604-KG							False	True				Unit	Unit			
+621	QH-6440-SC	207000	1999-03-09					False	True	1	23		Unit	Unit			
+622	BR-4998-KA	559000	2014-03-21					False	True			1	Unit	Unit	1	2	
+623	KT-1535-AP	647000	2017-03-10	Maloney's the Estate Agent	490	2014	17	False	True	1	23	1	Unit	Unit	1	2	
+624	QE-8895-FT	644250	2016-09-14					False	True			1	Unit	Unit	1	2	
+626	ET-7161-WB							False	True				Unit	Unit			
+627	MZ-5950-LK							False	True				Unit	Unit			
+628	GZ-3920-DU							False	True				Unit	Unit		3	
+629	FP-3190-PS		2009-10-31					False	True			2	Unit	Unit	2	3	
+630	NT-5692-RA	760000	2016-09-08					False	True			2	Unit	Unit	2	2	
+631	KP-7367-QZ			Maloney's - the Estate Agent	450	2019	9	False	True			1	Unit	Unit	1	1	
+632	IG-8596-MK							False	True				Unit	Unit			
+633	PU-0218-GP		2015-02-19	Elders Kingston	530	2009	24	False	True			2	Unit	Unit	2	2	
+634	VQ-8093-VI							False	True				Unit	Unit			
+635	OO-9715-OE			Peter Blackshaw Real Estate Manuka	1100	2018	145	False	True			2	Unit	Unit	2	2	
+636	LQ-9621-UU							False	True			2	Unit	Unit	3	3	
+637	OE-2510-AO		2016-09-28	PURNELL	650	2015	7	False	True			2	Unit	Unit	2	2	
+638	JX-0080-GY							False	True				Unit	Unit			
+639	JJ-7464-KG	578000	2009-02-03					False	True			2	Unit	Unit	2	2	
+640	TP-1569-XP							False	True				Unit	Unit			
+641	WJ-6332-AV							False	True				Unit	Unit			
+642	SL-0173-FO			Maloney's the Estate Agent	420	2014	8	False	True			1	Unit	Unit	1	1	
+643	HT-3645-IJ							False	True			2	Unit	Unit	2	2	
+644	TY-5438-KL		2015-04-28	PURNELL	1150	2018	23	True	True			2	Unit	Unit	3	3	
+645	FB-7238-ZY	1900000	2019-09-12					False	True			2	Unit	Unit	2	3	
+646	GU-1122-NL	750000	2017-03-15					False	True			2	Unit	Unit	2	2	
+647	AW-4283-RI			LJ Hooker Woden	0	2019	32	False	True			1	Unit	Unit	1	1	
+648	AP-8865-DA							False	True			2	Unit	Unit	3	3	
+649	XV-3908-PF							False	True				Unit	Unit			
+650	GW-5018-PL							False	True			0	Unit	Unit	3	3	
+651	YM-6955-BQ		2013-05-03					False	True			2	Unit	Unit	2	2	
+652	JP-6579-PL		2019-07-19	Peter Blackshaw Real Estate Queanbeyan & Jerrabomberra	620	2014	33	False	True			2	Unit	Unit	2	2	
+653	FT-5798-TG			EnVogue Property Management	500	2018	21	False	True			0	Unit	Unit	1	1	
+654	WP-4755-WM							False	True				Unit	Unit		2	
+655	NP-5119-VP							False	True				Unit	Unit			
+656	ZU-8655-WJ							False	True				Unit	Unit			
+657	QZ-7879-KJ							False	True				Unit	Unit			
+658	UD-4507-GY							False	True				Unit	Unit			
+659	UC-2898-WI							False	True				Unit	Unit			
+660	UE-8756-RI							False	True				Unit	Unit			
+661	UB-5723-QN							False	True				Unit	Unit			
+662	UE-7858-XJ							False	True				Unit	Unit			
+663	UY-4368-CF							False	True				Unit	Unit			
+664	UX-2706-AM							False	True				Unit	Unit			
+665	UW-0839-GE							False	True				Unit	Unit			
+666	UV-7938-VR							False	True				Unit	Unit			
+667	UW-8253-ZL							False	True				Unit	Unit			
+668	UV-2505-DX							False	True				Unit	Unit			
+669	UU-6773-EU							False	True				Unit	Unit			
+670	UU-7673-FL							False	True				Unit	Unit			
+671	UT-2767-JY							False	True				Unit	Unit			
+672	ZX-4725-PE							False	True				Unit	Unit			
+673	UQ-9274-AY							False	True				Unit	Unit			
+674	UR-9960-YU							False	True				Unit	Unit			
+675	UQ-7964-WJ							False	True				Unit	Unit			
+676	ZQ-9508-SZ							False	True				Unit	Unit			
+677	ZP-4317-VG							False	True				Unit	Unit			
+678	UG-6960-DG							False	True				Unit	Unit			
+679	ZS-9831-IV							False	True				Unit	Unit			
+680	ZP-6772-TD							False	True				Unit	Unit			
+681	ZT-3528-XA							False	True				Unit	Unit			
+682	UI-8059-RJ							False	True				Unit	Unit			
+683	ZP-4157-BG							False	True				Unit	Unit			
+684	UI-0812-PY							False	True				Unit	Unit			
+685	UN-0152-WW							False	True				Unit	Unit			
+686	UM-8987-RP							False	True				Unit	Unit			
+687	UO-4534-GG							False	True				Unit	Unit			
+688	UL-8774-SM							False	True				Unit	Unit			
+689	RI-6972-CP							False	True				Unit	Unit			
+690	UO-7826-DF							False	True				Unit	Unit			
+691	UP-2333-BY							False	True				Unit	Unit			
+692	RJ-2618-KX							False	True				Unit	Unit			
+693	RC-9902-KX							False	True				Unit	Unit			
+694	RE-0900-WV							False	True				Unit	Unit			
+695	RD-1748-WP							False	True				Unit	Unit			
+696	RE-0420-TM							False	True				Unit	Unit			
+697	RG-3819-PO							False	True				Unit	Unit			
+698	RF-2182-QL							False	True				Unit	Unit			
+699	RC-4182-YK							False	True				Unit	Unit			
+700	RF-5610-RY							False	True				Unit	Unit			
+701	RH-3215-UX							False	True				Unit	Unit			
+702	XG-4891-SM							False	True				Unit	Unit			
+703	RG-8352-UL							False	True				Unit	Unit			
+704	RH-5735-BC							False	True				Unit	Unit			
+705	XI-0005-SH							False	True				Unit	Unit			
+706	XH-1569-PR							False	True				Unit	Unit			
+707	XE-6328-PQ							False	True				Unit	Unit			
+708	XG-5434-YK							False	True				Unit	Unit			
+709	XJ-3273-HL							False	True				Unit	Unit			
+710	XJ-3602-BF							False	True				Unit	Unit			
+711	XK-0654-WZ							False	True				Unit	Unit			
+712	WD-3549-MZ							False	True				Unit	Unit			
+713	XK-2882-TJ							False	True				Unit	Unit			
+714	WB-1153-YK							False	True				Unit	Unit			
+715	WD-4623-UP							False	True				Unit	Unit			
+716	WB-5047-LH							False	True				Unit	Unit			
+717	WG-4885-DH							False	True				Unit	Unit			
+718	OU-3894-HH							False	True				Unit	Unit			
+719	EX-2996-OM			Badenoch Real Estate Sales	570	2011		False	True			2	Unit	Unit	2	2	
+720	HJ-2229-WE							False	True			2	Unit	Unit	2	2	
+721	EP-8903-RE							False	True				Unit	Unit			
+722	EP-8903-RE							False	True				Unit	Unit			
+724	IQ-3419-GC							False	True				Unit	Unit			
+725	DX-1575-HL			Luton Properties - Manuka	570	2013	81	False	True			2	Unit	Unit	2	2	
+726	ZV-6124-MA							False	True				Unit	Unit			
+727	XI-3737-PG							False	True				Unit	Unit			
+728	OC-3847-RJ							False	True			2	Unit	Unit	2	2	
+729	CD-8736-EC			Civium Property Group	420	2016	28	False	False			1	House	House	1	1	
+730	JJ-0188-IE			Maloney's the Estate Agent	650	2006		False	False			2	House	House	2	3	
+731	HD-3437-BU	745000	2016-10-22					False	True			2	Unit	Unit	2	2	
+733	ES-5104-BT							False	True			1	Unit	Unit	1	1	
+734	MJ-7857-GP			LJH Tuggeranong	695	2009	13	False	True			2	Unit	Unit	2	3	
+735	FV-1227-UD							False	True			2	Unit	Unit	2	3	
+736	OJ-7969-AB							False	True				Unit	Unit			
+737	VA-2507-WI							False	True				Unit	Unit			
+738	RI-0462-XU		2015-09-04	PURNELL	575	2013	28	False	True			2	Unit	Unit	2	2	
+739	RJ-4751-VA							False	True			1	Unit	Unit	2	2	
+740	XQ-4190-SO	1155000	2014-04-05	Berkely residential	850	2010		False	True			2	Unit	Unit	2	3	
+742	HM-3113-OU			Maloney's - the Estate Agent	1320	2015	7	False	False			1	House	House	2	2	
+743	QD-6407-RE			Belle Property Kingston	675	2020	316	False	True			2	Unit	Unit	2	2	
+744	BF-7560-LV							False	True			2	Unit	Unit	2	2	
+745	GV-5136-QW							False	True				Unit	Unit			
+746	YJ-2625-VC							False	True				Unit	Unit			
+747	QJ-9331-YR		2013-11-08					False	True			2	Unit	Unit	2	2	
+748	XS-5075-BW			Wright Dunn Real Estate 	600	2018	13	False	True			0	Unit	Unit	2	2	
+749	PI-3078-JK							False	True				Unit	Unit			
+751	EI-5816-MD							False	False				Unit	Unit			
+752	XN-1334-RO							False	False				Unit	Unit			
+753	YO-0719-IE							False	False				Unit	Unit			
+754	VU-2690-PP			Homefinders Real Estate	620	2018	42	False	False			1	Unit	Unit	2	2	
+755	DH-2852-VR							False	False				Unit	Unit			
+756	BW-5401-SX							False	True	8	13		Commercial	Commercial			
+757	BJ-3244-RJ							False	False				Unit	Unit			
+758	SD-1343-KO							False	False				Unit	Unit			
+759	FB-2807-BZ	650000	2006-01-16					False	True	6	12		Commercial	Commercial			
+760	OY-4457-WZ			CBRE Canberra		2020	965	False	False				Commercial	Commercial			
+761	WF-4513-KH			Badenoch Real Estate Rentals	520	2010	19	False	True			1	Unit	Unit	1	2	
+762	ET-7632-EW							False	False				Unit	Unit			
+763	MG-2822-XI	277500	2002-10-18					False	True	6	12		Commercial	Commercial			
+765	OH-6354-YB							False	True			1	Unit	Unit	2	2	
+766	AT-5230-ZS							False	False				Unit	Unit			
+767	AY-2508-OS	900000	1993-04-14					False	True	6	12		Commercial	Commercial			
+768	KE-5423-AF							False	True				Unit	Unit			
+769	GK-1729-UK							False	True				Unit	Unit			
+770	AU-8284-EP		2017-03-23	Luton Properties - Manuka	580	2014	138	False	True			1	Unit	Unit	2	2	
+771	SV-7342-MT							False	False				Unit	Unit			
+772	TD-9757-BJ							False	True				Unit	Unit			
+773	DD-0573-YV							False	False				House	House			
+774	LL-7078-LY		2017-08-15					False	True			1	Unit	Unit	1	2	
+775	OM-9257-FU							False	False				Unit	Unit			
+776	HM-7204-PN							False	True				Unit	Unit			
+777	UA-3297-XT			Peter Blackshaw Tuggeranong	510	2017	14	False	True			1	Unit	Unit	1	2	
+778	CO-6446-CO							False	False				Unit	Unit			
+779	CW-9093-KV							False	True				Unit	Unit			
+782	JE-4853-BK							False	True				Unit	Unit			
+783	XK-3587-GQ							False	False				Unit	Unit			
+784	VX-4428-LA							False	True				Unit	Unit			
+785	QV-3531-IR							False	False				Unit	Unit			
+786	NH-0740-TX							False	True				Unit	Unit			
+787	FC-9990-DN							False	False				Unit	Unit			
+788	VG-7871-XB							False	True				Unit	Unit			
+789	KE-2586-YA							False	False				Unit	Unit			
+790	NI-3617-CZ							False	False				Unit	Unit			
+791	KE-6124-EF							False	False				Unit	Unit			
+792	JE-7787-EL							False	True				Unit	Unit			
+793	RK-6395-JY							False	False				Unit	Unit			
+794	QW-9434-CG							False	True				Unit	Unit			
+795	PK-4057-EG							False	False				Unit	Unit			
+796	GS-7058-IQ							False	False				Unit	Unit			
+797	NE-0000-UP							False	False				House	House			
+798	QU-6102-TQ							False	True				Unit	Unit			
+802	OK-3477-EM							False	False				Commercial	Leisure			
+805	SQ-9836-AM							False	False				House	House			
+806	FJ-7841-KT							False	False				Unit	Unit			
+807	IS-7381-EZ							False	False				Unit	Unit			
+808	EN-3056-AM							False	False				Unit	Unit			
+809	TT-1965-SX							False	True				Unit	Unit		2	
+810	SW-9501-OZ							False	False				Unit	Unit			
+811	QW-6631-KN							False	True				Unit	Unit			
+812	AH-5985-XP							False	False				Unit	Unit			
+813	YX-8762-LS							False	True				Unit	Unit		2	
+814	YX-2847-KH							False	False				House	House			
+816	TG-0971-VG							False	True				Unit	Unit			
+817	OO-8588-KU							False	True				Commercial	Commercial			
+818	CH-1237-HY							False	False				Unit	Unit			
+819	OC-4708-RK							False	False				Unit	Unit			
+820	JB-2209-EB							False	True				Unit	Unit			
+821	QW-6422-SY							False	True	8	13		Commercial	Commercial			
+822	JL-0956-LT							False	False				Unit	Unit			
+823	SD-3102-BE							False	True				Unit	Unit			
+824	GP-5292-OA							False	False				House	House			
+826	RG-2447-MB							False	False				Unit	Unit			
+827	LV-6699-YO							False	False				Unit	Unit			
+828	OO-2110-XR							False	True			1	Unit	Unit	2	2	
+829	PQ-6204-ZG							False	False				Unit	Unit			
+830	SG-0446-FD							False	True				Unit	Unit			
+831	NB-0193-RK							False	False				Unit	Unit			
+832	EP-8115-UT							False	False				Unit	Unit			
+833	SP-1279-YK			Peter Blackshaw Real Estate Manuka	570	2015	21	False	True			1	Unit	Unit	2	2	
+834	TC-7064-MF							False	False				Unit	Unit			
+835	SF-4920-CI							False	True				Unit	Unit			
+836	CL-3340-TB							False	False				Unit	Unit			
+837	RS-1511-EM							False	False				Unit	Unit			
+838	JD-7071-BN							False	True				Unit	Unit			
+839	VZ-7018-UF							False	False				Unit	Unit			
+840	SK-0910-KX							False	True				Unit	Unit			
+841	SV-9200-OB							False	False				Unit	Unit			
+842	WV-5688-NB							False	False				Unit	Unit			
+843	KN-6851-DG							False	True				Unit	Unit			
+844	HB-9468-HK							False	False				Unit	Unit			
+845	MI-5731-BO	440000	1992-11-30					False	True	6	12		Commercial	Commercial			
+846	UB-8402-YA	14750000	2007-06-22					False	False	19	6		Commercial	Commercial			4181
+847	MT-2836-PQ							False	False				Unit	Unit			
+848	KL-2855-TZ							False	True				Unit	Unit			
+849	VG-6480-AQ							False	False				Unit	Unit			
+850	KS-3720-OM	240000	2008-12-16					False	True	6	12		Commercial	Commercial			
+851	BA-9645-FD	31750	2011-05-11					False	False	6	19		House	House			14711
+852	XC-5849-WT							False	False				House	House			
+853	BH-9417-BL							False	False				House	House			
+854	MH-6197-NR							False	False				House	House			
+855	KV-9446-PU	485000	2011-07-19					False	True	4	42		Unit	Unit			
+856	HY-3752-RH	428000	2017-01-20	Distinct Property Management	510	2019	5	True	True			1	Unit	Unit	1	1	
+857	DD-2835-KS							False	False				House	House			
+858	PT-4835-QX	435000	2019-01-03					False	True	4	42	1	Unit	Unit	1	1	
+859	EH-8202-CP		2017-06-15	Total Property Management - Bright	400	2015	160	False	True			1	Unit	Unit	1	1	
+860	ZG-1981-BA							False	False				House	House			
+861	KS-0093-FU	485000	2011-07-26					False	True	4	42		Unit	Unit			
+862	LB-3856-TX		2015-06-02	PRD Leader Real Estate	500	2013	7	False	True			1	Unit	Unit	1	1	
+863	TC-5544-VF	485000	2010-04-21					False	True	4	42		Unit	Unit			
+864	DK-7554-YO	470000	2019-10-29	Ray White Canberra	550	2019	7	False	False			1	House	House	1	1	
+865	PS-2298-YA	458000	2019-05-24	Peter Blackshaw Canberra City Rentals	570	2018	12	False	True	4	42	1	Unit	Unit	1	1	
+866	HN-4906-BY	450000	2019-02-20	Canberra Property Partners	550	2019	3	True	True			1	Unit	Unit	1	1	
+867	KR-6299-SW	475000	2009-11-16					False	True	4	42		Unit	Unit			
+868	RA-1927-ED			Maloney's - the Estate Agent	475	2013	29	False	True			1	Unit	Unit	1	1	
+869	LY-0504-NU	457500	2018-07-09					False	True	4	42		Unit	Unit			
+870	DA-2862-CN			PRDnationwide Canberra	430	2016	8	False	True			1	Unit	Unit	1	1	
+871	XW-2885-MK	403000	2017-03-20	Badenoch Real Estate Sales	470	2019	7	True	True	4	42	1	Unit	Unit	1	1	
+872	SX-0906-YF			Key Real Estate ACT	465	2018	6	False	True			1	Unit	Unit	1	1	
+873	PR-9853-OV	425000	2014-05-12	PRDnationwide Canberra	500	2018	12	True	True	4	42	1	Unit	Unit	1	1	
+874	TW-9192-YJ							False	True				Unit	Unit			
+875	LT-8639-XT	425000	2017-06-15					False	True	4	42	1	Unit	Unit	1	1	
+876	PP-8123-OW			Real Estate Australia	0	2019	56	False	True			0	Unit	Unit	1	1	
+877	PU-4486-OS		2019-07-04	PRD Leader Real Estate	650	2014	64	False	True	4	42	2	Unit	Unit	2	2	
+878	AU-3457-EP							False	True				Unit	Unit			
+879	KT-1507-CI	480000	2017-12-05	BORIS.	550	2018	7	True	True	4	42	1	Unit	Unit	1	1	
+880	VN-6312-WZ			Independent Property Management	465	2018	20	False	True			1	Unit	Unit	1	1	
+881	FJ-7180-WR							False	False				House	House			
+882	PV-3397-FS	470000	2019-10-29					False	True	4	42		Unit	Unit			
+883	LN-2882-JC							False	True				Unit	Unit			
+884	TD-1372-CC	450000	2019-02-27					False	True	4	42	1	Unit	Unit	1	1	
+885	QL-0926-CJ			PRDnationwide Canberra	500	2015	42	False	True			1	Unit	Unit	1	1	
+886	PU-8384-GQ	438000	2019-02-13	PRDnationwide Canberra	600	2017	6	False	True	4	42	2	Unit	Unit	2	2	
+887	PU-3849-JX	579000	2019-01-22	Ray White Canberra	520	2015	97	False	True			2	Unit	Unit	2	2	
+888	VR-1576-SJ		2016-11-15	PURNELL	0	2019	36	True	True	4	42	1	Unit	Unit	1	1	
+889	OC-4029-ZC		2018-04-24					False	True			2	Unit	Unit	1	1	
+890	MV-9758-SU	465000	2010-06-09					False	True	4	42		Unit	Unit			
+891	SX-8947-HO			One Agency Gamarra & Co	0	2019	10	False	True			1	Unit	Unit	1	1	
+892	HN-9917-CH	465000	2019-09-13					False	True	4	42	1	Unit	Unit	1	1	
+893	TW-3122-ET			Berkely residential	500	2012		False	True			1	Unit	Unit	1	1	
+894	PK-8990-SY	470000	2011-04-23					False	True	4	42		Unit	Unit			
+895	HY-2674-LH			Distinct Property Management	410	2015	21	False	True			1	Unit	Unit	1	1	
+896	VP-4269-CF	485000	2013-03-13	Berkely residential	500	2013	105	True	True	4	42	1	Unit	Unit	1	1	
+897	XH-1333-WI			Berkely Residential	510	2018	17	False	True			2	Unit	Unit	2	1	
+898	MV-9319-JX	435000	2019-01-03	Harcourts Prime Residential	0	2019	194	True	True	4	42	2	Unit	Unit	2	2	
+899	TL-5411-OP	615000	2019-02-21					False	True			2	Unit	Unit	2	2	
+900	EI-4456-HV	610000	2016-03-30					False	True	4	42	2	Unit	Unit	2	2	
+901	AZ-4499-DN			Berkely Residential	595	2013	10	False	True			2	Unit	Unit	2	2	
+902	SS-1739-PO	480000	2017-09-08	PRDInner North	595	2012	156	False	True	4	42	1	Unit	Unit	1	1	
+903	TT-9599-YA			Peter Blackshaw Canberra City Rentals	470	2018	8	False	True			1	Unit	Unit	1	1	
+905	EH-8895-TF	495000	2013-02-12	Cream Residential	445	2018	28	True	True	4	42	1	Unit	Unit	1	1	
+906	UU-4350-LF			LJ Hooker Canberra City	470	2019	217	False	True			1	Unit	Unit	1	1	
+907	LS-9410-AI	460000	2018-03-28	Peter Blackshaw Real Estate Manuka	585	2017	44	False	True	4	42	2	Unit	Unit	2	2	
+908	BE-2425-VY							False	True				Unit	Unit			
+909	EJ-9839-EN	495000	2013-01-17					False	True	4	42	1	Unit	Unit	1	1	
+910	TI-8490-ZN			McGrath Estate Agents Property Management	500	2019	8	False	True			1	Unit	Unit	1	1	
+911	EJ-8950-PA	485000	2013-04-09	Total Property Management - Bright	500	2017	14	True	True	4	42	1	Unit	Unit	1	1	
+912	RB-7361-WP			Total Property Management - Bright	430	2015		False	True			1	Unit	Unit	1	1	
+913	SS-3323-EC	425000	2015-05-25	BORIS.	0	2019	62	True	True	4	42	1	Unit	Unit	1	1	
+914	OR-0819-HM	471000	2018-02-08					False	True			1	Unit	Unit	1	1	
+915	QI-4815-AR	465000	2010-04-22	Distinct Property Management	430	2017	14	True	True	4	42	1	Unit	Unit	1	1	
+916	AW-4536-HB		2019-05-22	McGrath Estate Agents	400	2015	10	False	True			1	Unit	Unit	1	1	
+917	JT-8598-TO	433000	2017-05-24					False	True	4	42		Unit	Unit			
+918	UQ-5682-SM		2016-08-05	Blue Property Marketing	505	2011	7	False	True			2	Unit	Unit	2	1	
+919	FR-3446-MP	610000	2019-07-04	Little Bird Properties	625	2018	36	False	True	4	42	2	Unit	Unit	2	2	
+920	MG-6711-BS							False	True				Unit	Unit			
+921	DT-5106-WM	570000	2012-03-22	LJ Hooker Manuka	0	2019	44	True	True	4	42	1	Unit	Unit	2	2	
+922	ZK-1569-XR	620000	2018-12-19	PRDnationwide Canberra	650	2012	142	False	True			2	Unit	Unit	2	2	
+923	AI-5786-QE	500000	2012-03-21	Cream Residential	0	2019	27	True	True	4	42	1	Unit	Unit	1	1	
+924	AT-2613-TA			PRDnationwide Canberra	480	2016	27	False	True			1	Unit	Unit	1	1	
+925	MO-2139-OU	485000	2010-06-09	Independent Property Management	0	2019	12	True	True	4	42	1	Unit	Unit	1	1	
+926	EL-8466-ZF			Total Property Management - Bright	450	2019		False	True			1	Unit	Unit	1	1	
+927	VV-8630-RL							False	False				House	House			
+928	RD-6715-OD	612500	2019-05-15	Impact Property Management	595	2018	44	False	True	4	42	2	Unit	Unit	2	2	
+929	NZ-3250-FT							False	True				Unit	Unit			
+930	GJ-0670-PQ		2015-12-17					False	True	4	42	2	Unit	Unit	2	3	
+931	NX-7462-IX							False	True				Unit	Unit			
+932	ZV-2493-WL	560000	2012-05-07	EnVogue Property Management	475	2018	9	True	True	4	42	1	Unit	Unit	1	1	
+933	JG-0492-OR			Key Real Estate ACT	435	2015	1	False	True			1	Unit	Unit	1	1	
+934	FG-1354-ZE		2016-06-06					False	True	4	42	3	Unit	Unit	2	3	
+935	TK-7733-WF			Distinct Property Management	950	2019	12	False	True			2	Unit	Unit	1	3	
+936	KA-9245-UB	579000	2019-02-01					False	True	4	42	4	Unit	Unit	2	2	
+937	QD-1871-KQ	590000	2016-03-21	Total Property Management - Bright	660	2019	45	True	True			2	Unit	Unit	2	2	
+938	MV-4710-AL	485000	2018-04-23	Badenoch Real Estate Rentals	560	2011	41	False	True	4	42	2	Unit	Unit	2	2	
+939	SW-4846-YV			Berkely Residential	600	2012	65	False	True			2	Unit	Unit	2	2	
+940	EL-0241-XT		2017-10-20	PRDnationwide Canberra	490	2017	174	False	True	4	42	1	Unit	Unit	1	1	
+941	TI-8753-WE		2018-04-18	LJH Manuka	515	2011		False	False			1	House	House	1	1	
+942	FP-4405-YJ	470000	2012-07-16	Little Bird Properties	0	2019	46	True	True	4	42	2	Unit	Unit	2	2	
+943	EL-4118-YF			Peter Blackshaw Manuka	595	2019	31	False	False			2	House	House	2	2	
+944	LV-5831-DZ	430000	2011-10-05	PRDnationwide Canberra	800	2013	133	True	True	4	42	2	Unit	Unit	2	3	
+945	PJ-6972-TS							False	True				Unit	Unit			
+946	FL-8853-RL		2013-11-06	BORIS.	495	2018	8	True	True	4	42	1	Unit	Unit	1	1	
+947	IP-1116-JZ			PRDnationwide Canberra	500	2019	7	False	True			1	Unit	Unit	1	1	
+948	ZL-1153-YV	485000	2010-06-30	PRDnationwide Canberra	450	2013	33	True	True	4	42	1	Unit	Unit	1	1	
+949	CJ-3076-BB	458000	2019-05-24	ParkTrent Properties Group Wollongong	440	2014	183	False	True			1	Unit	Unit	1	1	
+951	FQ-5479-EU	460000	2016-11-15	LJ Hooker Dickson	850	2016	7	False	True	4	42	2	Unit	Unit	2	3	
+952	AG-1851-FY							False	True				Unit	Unit			
+953	SG-9118-FC		2017-05-17	Luton Properties - Manuka	585	2011		False	True	4	42	2	Unit	Unit	2	2	
+954	SK-4751-DC			Luton Properties - Manuka	545	2013	29	False	True			1	Unit	Unit	2	2	
+955	EK-6782-CV	465000	2019-09-13	Ray White Canberra	630	2016	17	False	True	4	42	2	Unit	Unit	2	2	
+956	KW-1203-KI			PRD Leader Real Estate	540	2013	80	False	True			2	Unit	Unit	2	2	
+957	MV-4972-MA	475000	2012-10-24	Maloney's the Estate Agent	520	2020	16	True	True	4	42	1	Unit	Unit	1	1	
+958	TG-0898-OC			Peter Blackshaw Real Estate Gungahlin	515	2017	5	False	True			1	Unit	Unit	1	1	
+959	MM-8681-TL	470000	2012-07-16	Cream Residential	595	2016	30	True	True	4	42	2	Unit	Unit	2	2	
+960	VY-0447-VF			PURNELL	560	2013	63	False	True			2	Unit	Unit	2	2	
+961	SV-3851-NZ	595000	2011-06-25					False	True	4	42		Unit	Unit			
+962	YK-5675-YE			PRDnationwide Canberra	950	2011	34	False	True			3	Unit	Unit	2	3	
+963	WO-8740-AW	610000	2016-04-07					False	True	4	42		Unit	Unit			
+964	KW-3482-FE			PRDnationwide Canberra	650	2019	8	False	True			2	Unit	Unit	2	2	
+965	HN-3100-OP	465000	2013-01-11					False	True	4	42		Unit	Unit			
+966	TA-2740-EC	855000	2019-10-11	Cream Residential	750	2016	14	False	True			2	Unit	Unit	2	2	
+967	SV-3675-GK	590000	2010-05-18					False	True	4	42		Unit	Unit			
+968	VP-7333-EQ							False	True				Unit	Unit			
+969	FK-9866-ZT	615000	2019-01-18					False	True	4	42		Unit	Unit			
+970	VC-2490-AY	462000	2019-09-16					False	True	4	42	1	Unit	Unit	1	1	
+971	XE-2386-HP			Total Property Management - Bright	470	2019	42	False	True			1	Unit	Unit	1	1	
+972	AX-6551-BJ							False	False				House	House			
+973	JB-2935-XG	485000	2012-07-16	Berkely Residential	490	2017	33	True	True	4	42	1	Unit	Unit	2	1	
+974	MU-7071-QS		2018-09-10	Total Property Management - Bright	440	2017	7	False	True			1	Unit	Unit	1	1	
+975	WF-7782-WK							False	False				House	House			
+976	SK-4301-VK	440000	2019-02-18	Civium Property Group	465	2017	17	False	True	4	42	1	Unit	Unit	1	1	
+977	SK-1208-KI			Key Real Estate ACT	0	2019	16	False	True			1	Unit	Unit	1	1	
+978	KU-2343-PR							False	False				House	House			
+979	QC-7954-FH	428000	2017-01-20					False	True	4	42		Unit	Unit			
+980	BT-1705-IR	425000	2014-05-12	PRD Leader Real Estate	480	2013	104	False	True			1	Unit	Unit	2	1	
+981	BM-2508-QC							False	False				House	House			
+982	GS-7805-BS	510000	2008-12-15					False	True	1	23		Unit	Unit			
+983	NV-7241-KB	388000	2005-05-04	Dwyer Dunn Property Consultants	590	2011		True	True	1	23	0	Unit	Unit	1	2	
+984	XS-1344-SH							False	True				Unit	Unit			
+985	LB-0794-NA							False	True	1	23		Unit	Unit			
+986	CG-8872-VU			McIntyre Property	560	2019	3	False	True			1	Unit	Unit	1	2	
+987	IV-1900-GB							False	True				Unit	Unit			
+988	UN-7929-RM							False	True				Unit	Unit			
+989	LC-5559-NI	320000	2002-08-09					False	True	1	23		Unit	Unit			
+990	UV-9812-CR	550000	2013-11-28	Peter Blackshaw Real Estate Manuka	475	2018	13	True	True	1	23	1	Unit	Unit	1	2	
+991	HY-8394-OB							False	True				Unit	Unit			
+993	XE-5486-QG	260000	2000-07-24					False	True	1	23		Unit	Unit			
+994	ZR-2802-IL							False	True				Unit	Unit			
+996	NX-1130-UL			McGrath Woden Property Management	565	2019	5	False	True			0	Unit	Unit	1	2	
+997	UK-8737-ZL							False	True			1	Unit	Unit	1	2	
+998	FY-8687-CC	695000	2016-11-22	Luton Properties - Manuka	520	2015	15	False	True	1	23	1	Unit	Unit	1	2	
+999	YJ-7698-SG							False	True				Unit	Unit			
+1001	TY-0392-WL	374000	2010-08-05	LJ Hooker Woden	0	2020	25	True	True	1	23	1	Unit	Unit	1	2	
+1002	MP-2402-FY							False	True				Unit	Unit			
+1004	IV-5384-SX			Maloney's the Estate Agent	520	2020	65	False	True			1	Unit	Unit	1	2	
+1005	GZ-0898-QG							False	True				Unit	Unit			
+1006	BU-8154-AU	930000	2004-05-28					False	False	1	24	0	House	House	1	4	1110
+1007	GZ-3157-IX	495000	2017-08-07					False	True	1	23	1	Unit	Unit	1	2	
+1008	DJ-7181-ST							False	True				Unit	Unit			
+1009	GL-8199-YU	585000	2015-02-17					False	True	1	23		Unit	Unit			
+1010	PE-3907-FO							False	False				House	House			
+1011	XV-8245-QL	419000	2016-06-15					False	True	1	23	1	Unit	Unit	1	2	
+1012	VE-2938-AQ							False	True				Unit	Unit			
+1013	JK-1173-GW	320000	1998-09-29					False	False	21	24		House	House			985
+1014	VY-7740-RI							False	True				Unit	Unit			
+1015	VN-5994-WD							False	True				Unit	Unit			
+1016	OV-2887-MU			Hayman Partners	850	2019	29	False	False			2	House	Townhouse	1	3	9272
+1017	UR-2840-YT	442500	2017-10-27					False	True	1	23	1	Unit	Unit	1	2	
+1018	JL-3202-YZ							False	True				Unit	Unit			
+1019	LM-7873-AG							False	False				House	House			
+1020	RP-6522-JC	320000	2004-09-29					False	True	1	23	1	Unit	Unit	1	2	
+1021	DJ-9420-RF							False	True				Unit	Unit			
+1022	VS-6916-ZG		2010-07-20	PRDnationwide Canberra	600	2017	10	True	False			2	House	Townhouse	2	2	
+1023	QZ-0174-VV	310000	2008-02-12	Hayman Partners	410	2019	4	True	True	1	23	1	Unit	Unit	1	1	
+1024	FF-1830-FW							False	True				Unit	Unit			
+1025	SB-3355-ZQ	230000	1991-04-11					False	False	19	24		House	House			
+1026	WQ-5247-CM	500000	2012-06-18	PURNELL	420	2014	15	True	True	1	23	1	Unit	Unit	1	2	
+1027	AK-3175-SZ							False	True				Unit	Unit			
+1028	BM-6782-HT		2016-06-30	Little Bird Properties	0	2019	3	True	False			1	House	Townhouse	2	2	
+1029	RP-0967-CT	228000	2001-05-04	Hodgkinson Real Estate 	450	2016	22	True	True	1	23	1	Unit	Unit	1	2	
+1030	ZX-8787-WW							False	True				Unit	Unit			
+1031	RQ-3087-PG	505000	2001-05-19	Civium Property Group	650	2015	5	True	False	1	25	0	House	House	1	3	955
+1032	QF-9052-SO	327000	2007-11-22					False	True	1	23	1	Unit	Unit	1	1	
+1033	UJ-6373-HY							False	True				Unit	Unit			
+1034	RY-2568-MJ			Little Bird Properties	620	2019	13	False	False			1	House	Townhouse	2	2	
+1035	YZ-5719-JN	202000	2000-01-18	Bertram Ellis	400	2009	1	True	True	1	23	1	Unit	Unit	1	2	
+1036	AD-9504-WE	350000	1998-07-22					False	False	2	25		House	House			929
+1037	PY-8998-GY							False	False				House	House			
+1038	UW-1345-KV							False	True				Unit	Unit			
+1039	IN-2753-JY			Luton Properties Woden	620	2010	42	False	False			1	House	Townhouse	2	2	
+1040	SM-4786-UX	700000	2017-10-11					False	True	1	23		Unit	Unit			
+1041	CD-0419-FO							False	True				Unit	Unit			
+1042	RN-1952-AX	845000	2003-04-11					False	False	3	25		House	House		3	929
+1043	RO-4976-XQ	468000	2018-06-22					False	True	1	23	0	Unit	Unit	1	2	
+1044	EZ-0479-IK			Maloney's the Estate Agent	340	2005	7	False	False			2	House	Townhouse	2	2	
+1045	VG-9334-GM	465000	2019-02-04					False	True	1	23	1	Unit	Unit	1	2	
+1046	XJ-3010-IC	356200	1999-09-25					False	False	4	25		House	House		2	895
+1047	UP-4086-UM	462000	2019-04-29					False	True	1	23		Unit	Unit			
+1048	ZE-9086-PH			Total Property Management - Bright Partners	530	2012	13	False	False			1	House	Townhouse	2	3	
+1049	TL-3079-PO	380000	2015-12-01	LJ Hooker Manuka	380	2016	14	True	True	1	23	1	Unit	Unit	1	2	
+1050	SO-2572-XO							False	True			0	Unit	Unit	1	2	
+1051	ZG-4470-KX							False	False			1	House	Townhouse	2	2	
+1052	ZN-3432-KR	215000	2000-03-13					False	True	1	23		Unit	Unit			
+1053	BN-5598-BG	533000	2016-02-23					False	True	1	23	1	Unit	Unit	1	2	
+1054	LU-0075-WQ							False	False				House	House			
+1055	GU-2195-TT							False	False			2	House	House	2	4	1120
+1056	JJ-6058-AD							False	False				House	House			
+1057	KB-6576-IM	360000	2003-01-31					False	True	1	23		Unit	Unit			
+1058	XA-7759-UR							False	False				House	House			
+1059	MJ-8679-JX			Luton Properties - Kippax	595	2015	132	False	False			0	House	Townhouse	2	2	
+1060	TL-5396-BX							False	False				House	Townhouse		2	
+1061	PG-6963-GB							False	False			1	House	Townhouse	2	2	
+1062	VN-5057-HV	695000	2012-02-10					False	False	1	18		Unit	Unit			
+1063	GS-9846-SE	720000	2016-10-20					False	False			1	House	Townhouse	2	2	
+1064	QC-8746-OP							False	True	1	23		Unit	Unit			
+1065	AY-8857-VW		2014-11-27					False	False			1	Unit	Unit	2	2	
+1066	YH-3093-YV			Peter Blackshaw Manuka	520	2014	5	False	False			1	House	Townhouse	2	2	
+1067	QV-6296-OU							False	False				House	Townhouse			
+1068	ZX-1390-GV							False	False				Unit	Unit			
+1069	QM-5370-JV							False	False				Unit	Unit			
+1070	OV-2853-EO							False	False			2	House	Townhouse	2	2	
+1071	ZB-3924-CE			Dwyer Dunn Property Consultants	520	2014	1	False	False			2	House	Townhouse	2	2	
+1072	RN-0128-IN							False	False				Unit	Unit			
+1073	SP-8819-RZ			Capital First National	375	2006	7	False	False			1	House	Townhouse	2	2	
+1074	SN-7503-DX							False	False				Unit	Unit			
+1075	SG-1774-QV							False	False				Unit	Unit			
+1076	JR-9665-OU			Bolton & Co O'Connor	0	2019	135	False	False			1	House	House	2	2	
+1077	VJ-2232-JB							False	False				Unit	Unit			
+1078	QU-1172-VJ							False	False				Unit	Unit			
+1079	IT-7269-RD			Peter Blackshaw Manuka Projects	680	2019	28	False	False			2	House	House	2	2	9272
+1080	HQ-4484-LW	559000	2014-03-20					False	True	1	23		Unit	Unit			
+1081	KF-1838-XF							False	False				Unit	Unit			
+1082	GV-5929-AR							False	False				Unit	Unit			
+1083	BG-7259-UP			LJ Hooker Dickson	595	2017	30	False	False			2	House	Townhouse	2	2	
+1084	IM-2057-OY							False	False				Unit	Unit			
+1085	HQ-0879-YR							False	False				Unit	Unit			
+1086	EX-5728-RM							False	False				House	House			
+1087	BG-8596-IZ							False	False				Unit	Unit			
+1088	AY-7074-MS							False	False				Unit	Unit			
+1089	ZN-4363-UB			Maloney's the Estate Agent	960	2015	12	False	False			1	House	Townhouse	2	2	
+1090	SW-8850-YN							False	True				Unit	Unit			
+1091	NU-3129-YK	389999	2012-08-25	Badenoch Real Estate Rentals	350	2008	28	False	True			1	Unit	Unit	1	1	
+1092	AD-2578-NS							False	False				Unit	Unit			
+1093	NC-7410-UX							False	True				Unit	Unit			
+1094	BV-6493-NE							False	True			2	Unit	Unit	2	3	
+1095	AN-8683-VY							False	False				Unit	Unit			
+1096	YJ-9572-DM							False	False			2	House	Townhouse	2	2	9272
+1097	SG-6874-YM							False	True				Unit	Unit			
+1098	NU-1822-BZ			Archived Peter Blackshaw Real Estate Woden & Weston Cre	780	2017	56	False	True			2	Unit	Unit	2	3	
+1099	IC-3239-XY							False	False				Unit	Unit			
+1100	QV-6254-SC							False	True				Unit	Unit			
+1101	NT-7518-YU							False	True				Unit	Unit			
+1102	HW-5341-UC							False	False				Unit	Unit			
+1103	ZS-2644-DT			PURNELL	595	2017	23	False	False			1	House	Townhouse	2	2	
+1104	ZF-2606-SH	647000	2017-03-10					False	True	1	23		Unit	Unit			
+1105	RG-7691-UO							False	True				Unit	Unit			
+1106	BZ-8728-LG			Total Property Management - Bright	740	2017	70	False	True			2	Unit	Unit	1	3	
+1107	KH-4519-DT							False	False				Unit	Unit			
+1108	KO-6589-UG							False	True				Unit	Unit			
+1109	KL-5540-LF							False	True				Unit	Unit			
+1110	JM-6608-UJ							False	False				Unit	Unit			
+1111	QA-3337-NS	729000	2009-07-01					False	False			2	House	House	2	3	
+1112	EF-9471-JE							False	True				Unit	Unit			
+1113	IJ-6960-UU		2017-04-03					False	True			0	Unit	Unit	1	2	
+1114	FV-9362-GG							False	False			2	House	Townhouse	2	2	
+1115	US-5730-VX							False	True				Unit	Unit			
+1116	IH-6346-HJ			Peter Blackshaw Real Estate Manuka	495	2015	12	False	True			1	Unit	Unit	2	2	
+1117	LX-3690-GQ							False	False				Unit	Unit			
+1118	MN-9192-WC							False	True				Unit	Unit			
+1119	IL-7346-ET	735000	2018-09-11	Luton Properties - Manuka	630	2015	59	False	True			1	Unit	Unit	2	3	
+1120	NO-6281-GX							False	False				Unit	Unit			
+1121	DP-2770-TE			McGrath Dickson	620	2015	30	False	True			1	Unit	Unit	2	3	
+1122	DQ-0762-GW		2011-03-11					False	True			2	Unit	Unit	2	3	
+1123	JC-6673-UI	615000	2018-11-23					False	True			1	Unit	Unit	2	2	
+1124	KN-6247-IQ							False	True				Unit	Unit			
+1125	VB-4629-AB							False	True			1	Unit	Unit	2	2	
+1126	LK-6703-AK	644250	2016-09-13					False	True	1	23		Unit	Unit			
+1127	II-8099-CU	650000	2014-08-13	Total Property Management - Bright	700	2016	77	True	True			2	Unit	Unit	1	3	
+1128	JA-9373-DD							False	True			1	Unit	Unit	1	2	
+1129	KI-4729-AI							False	True			1	Unit	Unit	1	2	
+1130	FN-6264-ZD			Luton Properties Woden	580	2015	31	False	True			1	Unit	Unit	2	2	
+1131	IU-3886-FT							False	True				Unit	Unit			
+1132	VY-7269-ZQ							False	True				Unit	Unit			
+1133	AA-9866-RQ			Hayman Partners	1000	2019	153	False	False			2	House	House	2	4	
+1134	PJ-9192-OF	1905000	2019-09-21	Elders Kingston	525	2004	42	False	False	5	28	1	House	House	2	2	957
+1135	FF-7743-EA	876000	2003-03-15					False	False	24	26		House	House			1471
+1136	DS-3899-UV							False	False			4	House	House	2	4	
+1137	DR-8040-XI							False	False				House	House			
+1138	DU-5395-VQ							False	False				House	House			
+1139	KG-5100-FL							False	False				House	House			
+1140	DP-7448-EI							False	False	20	26		House	House			1116
+1141	YC-5197-JR	1390000	2014-03-22					False	False	4	28	2	House	House	3	3	976
+1142	UK-6955-FJ	532500	2013-06-02					False	False	25	26		House	House			991
+1143	OA-4086-BS							False	False				House	House			
+1144	CV-1239-UU							False	False				House	House			
+1145	PK-7099-AH		2012-08-20					False	True			3	Unit	Unit	2	3	
+1146	UR-4912-VP							False	True				Unit	Unit			
+1147	QQ-1254-HR							False	False				Unit	Unit			
+1148	KP-3553-XF							False	False				House	House			
+1150	CY-6113-YS	505000	2016-11-24					False	True			1	Unit	Unit	1	2	
+1151	OY-4162-TZ							False	False				Unit	Unit			
+1152	ZF-4182-IM			Hodgkinson Real Estate 	0	2020	314	False	True			0	Unit	Unit	2	3	
+1153	XQ-0569-KK		2014-05-01	Maloney's - the Estate Agent	950	2019	65	True	True			2	Unit	Unit	2	3	
+1154	QG-7294-YE							False	True				Unit	Unit			
+1155	VE-2398-OS	881000	2015-03-14					False	True			2	Unit	Unit	2	3	
+1156	YO-5478-WV		2012-11-29	Independent Property Management	600	2018	20	True	True			2	Unit	Unit	2	2	
+1157	LN-0683-OE							False	True				Unit	Unit			
+1158	QI-5021-IC							False	True				Unit	Unit			
+1159	LO-6856-QL		2015-11-23					False	True			2	Unit	Unit	2	3	
+1160	QI-3286-DU	765000	2018-04-14					False	True			2	Unit	Unit	2	2	
+1161	DZ-7737-KW			Total Property Management - Bright Partners	560	2017	42	False	True			2	Unit	Unit	1	2	
+1162	CF-9127-TM							False	True				Unit	Unit			
+1163	MH-7279-PR			Badenoch Real Estate Sales	680	2010		False	True			2	Unit	Unit	2	3	
+1164	LN-9950-RE							False	True				Unit	Unit			
+1165	GD-6841-AD							False	True			2	Unit	Unit	2	2	
+1166	LP-1386-XN							False	True				Unit	Unit			
+1167	LM-1746-JI							False	True				Unit	Unit			
+1168	PE-5028-CB			Badenoch Real Estate Rentals	600	2009	20	False	True			2	Unit	Unit	2	3	
+1169	JY-5662-RI	665000	2015-01-20					False	False			2	House	House	2	2	
+1170	KY-3597-FO			Maloney's the Estate Agent	1220	2018	13	False	True			2	Unit	Unit	2	2	
+1171	LK-6810-TT			Berkely Residential	965	2016	146	False	True			2	Unit	Unit	3	3	
+1172	JG-2026-LC							False	True				Unit	Unit			
+1173	FH-4739-KE			Total Property Management - Bright Partners	575	2017	27	False	True			2	Unit	Unit	2	3	
+1175	SP-9729-PA			Maloney's - the Estate Agent	410	2014	52	False	True			1	Unit	Unit	1	2	
+1176	VR-5824-BM			PURNELL	500	2017	20	False	True			0	Unit	Unit	1	2	
+1178	FH-0926-AP							False	True				Unit	Unit			
+1179	FI-2781-IG							False	True				Unit	Unit		2	
+1180	BV-8339-UN	1500000	2019-04-24	Hayman Partners	795	2019	35	True	False	2	24	1	House	House	2	4	989
+1181	OW-5474-VT			McIntyre Property	720	2018	75	False	True			2	Unit	Unit	2	3	
+1182	FI-5870-NA							False	True				Unit	Unit			
+1183	PI-0977-HR			Luton Properties Woden	455	2011	42	False	True			1	Unit	Unit	1	1	
+1184	AB-2331-JQ			Dwyer Dunn Property Consultants	440	2009		False	True			1	Unit	Unit	1	2	
+1185	FJ-6462-TC							False	True				Unit	Unit			
+1186	FV-5308-DZ							False	False				Unit	Unit			
+1187	LC-3503-FH	1300000	2012-12-04					False	False	9	24	2	House	House	2	4	911
+1188	KT-3229-DY			PURNELL	410	2016	326	False	True			1	Unit	Unit	1	1	
+1189	EZ-9649-HM							False	True				Unit	Unit			
+1190	FB-1375-ZJ			LJ Hooker Manuka	440	2020	320	False	True			1	Unit	Unit	1	1	
+1191	FC-4365-AM							False	True				Unit	Unit		1	
+1193	KS-6072-JN							False	True			1	Unit	Unit	1	1	
+1194	FT-2185-CC	397500	2012-04-04	Maria Selleck Properties	450	2015	227	True	True			1	Unit	Unit	1	1	
+1196	PT-6013-TV			PURNELL	350	2016	9	False	True			0	Unit	Unit	1	1	
+1198	XS-4453-BZ			Total Property Management - Bright	400	2020	69	False	True			1	Unit	Unit	1	1	
+1199	KQ-4945-SD			Bolton & Co O'Connor	430	2018	398	False	True			0	Unit	Unit	1	1	
+1200	YW-7244-XB	356000	2016-11-09	Luton Properties - Manuka	450	2008	1	False	True			1	Unit	Unit	1	1	
+1201	VH-3812-KX							False	False				Unit	Unit			
+1202	HA-2367-DZ							False	True				Unit	Unit		3	
+1203	JY-9365-CW							False	True				Commercial	Commercial			
+1204	KD-0446-GD							False	False				Unit	Unit			
+1205	OS-6673-YL							False	False				House	House			
+1206	PW-6800-QW			Little Bird Properties	0	2019	33	False	True			1	Unit	Unit	1	1	
+1207	BO-9180-XB	12800000	2017-05-09					False	False	12	6		Commercial	Commercial			3828
+1208	FF-1178-RN							False	True				Unit	Unit		2	
+1209	CQ-3760-EE		2013-10-28	Elders Kingston	320	2007		False	True			1	Unit	Unit	1	2	
+1210	ZW-4944-IL							False	False				House	House			
+1211	FB-8721-AQ			Peter Blackshaw Real Estate Manuka	425	2016	5	False	True			1	Unit	Unit	1	2	
+1212	IT-3708-SI		2013-04-24					False	True			1	Unit	Unit	1	2	
+1213	FF-5334-AJ							False	True				Unit	Unit			
+1214	GY-8975-CD							False	True				Unit	Unit			
+1215	WG-6407-ZZ		2019-09-06	LJ Hooker Manuka	425	2010	18	False	True			1	Unit	Unit	1	2	
+1216	GZ-0412-CH							False	True				Unit	Unit			
+1217	WL-5221-WQ			Maloney's the Estate Agent	510	2019	8	False	True			1	Unit	Unit	1	2	
+1218	HA-1204-RS							False	False				Unit	Unit			
+1219	FZ-0169-LV			Peter Blackshaw Manuka	450	2013	28	False	True			1	Unit	Unit	1	2	
+1220	AJ-0559-SV							False	True				Commercial	Commercial			
+1221	AG-2199-NW							False	False				Unit	Unit			
+1222	EH-5531-SM	290000	1993-03-05	Badenoch Real Estate Sales		2009	5	True	False	8	24	2	House	House	2	4	1075
+1223	LC-1882-OV							False	True			1	Unit	Unit	1	2	
+1225	FD-6530-VE		2018-02-03					False	True			2	Unit	Unit	2	3	
+1226	GY-2933-WK							False	True				Unit	Unit			
+1228	EW-4175-KW			Total Property Management - Bright	450	2017	7	False	True			1	Unit	Unit	1	2	
+1229	LM-6030-BZ			Blue Property Marketing	580	2013	59	False	True			2	Unit	Unit	2	3	
+1230	NU-1683-XK		2018-06-05	Total Property Management - Bright	450	2016		False	True			1	Unit	Unit	1	2	
+1231	NV-3280-MB							False	True				Unit	Unit			
+1232	JH-0389-RT		2017-08-18	Belle Property Kingston	750	2018	21	True	True			1	Unit	Unit	2	3	
+1233	KP-1237-EN		2010-03-15	LJH Manuka		2010		True	True			2	Unit	Unit	2	3	
+1234	CZ-7000-OC			Total Property Management - Bright Partners	500	2013	126	False	False			2	House	House	2	3	
+1235	DI-9660-CP							False	True				Unit	Unit			
+1236	DG-2121-HT							False	False				Unit	Unit			
+1237	GI-1393-DJ							False	False				House	House			
+1238	GS-7368-IZ		2014-07-07	Hayman Partners Projects	675	2019	103	True	True			2	Unit	Unit	2	3	
+1239	TL-7772-GQ							False	False				Unit	Unit			
+1240	WJ-6417-AB	1915000	2014-12-06					False	False	7	24	4	House	House	3	4	1208
+1241	KI-3851-GV							False	False				House	House			
+1242	HB-9277-MY	520000	2019-11-28	For Sale By Owner	550	2020	8	True	True			1	Unit	Unit	1	2	
+1243	TN-6971-DA							False	False				Unit	Unit			
+1244	VK-1378-JP							False	False				House	House			
+1245	GY-5545-GB			Maloney's the Estate Agent	360	2005	35	False	True			1	Unit	Unit	1	2	
+1246	MK-4593-LW							False	False				Unit	Unit			
+1247	JL-2503-NA	1305000	2016-05-28	home.byholly	860	2018	206	True	False	6	24	0	House	House	1	3	1045
+1248	ZO-6731-OK							False	True				Unit	Unit			
+1249	KP-7750-BX		2016-10-20	Total Property Management - Bright	850	2018	336	True	True			2	Unit	Unit	2	3	
+1250	SQ-5957-UB	613000	2007-12-05	Maloney's the Estate Agent	430	2006	7	False	True			2	Unit	Unit	2	2	
+1251	ZX-6940-SO			Maloney's the Estate Agent	585	2019	28	False	True			1	Unit	Unit	2	2	
+1252	IA-1722-RQ			Maloney's the Estate Agent	2651	2015	62	False	True			2	Unit	Unit	2	2	
+1253	FZ-1284-OD			Total Property Management - Bright	850	2019	7	False	False			2	Unit	Unit	2	3	
+1254	VT-1011-XY			Wright Dunn Real Estate 	480	2018	94	False	True			1	Unit	Unit	1	2	
+1255	ST-9711-NR							False	False				Unit	Unit			
+1256	IL-7778-CU							False	False				House	House			
+1257	KO-8353-EM							False	True				Unit	Unit			
+1258	RL-4492-LU	785000	2019-11-22					False	False			2	Unit	Unit	2	2	
+1259	MD-5049-MU		2017-04-21	Peter Blackshaw Manuka	550	2014		False	True			2	Unit	Unit	2	2	
+1260	DO-7129-PK							False	True			2	Unit	Unit	2	3	
+1261	KP-0398-AS			Maloney's the Estate Agent	1340	2018	16	False	True			2	Unit	Unit	2	2	
+1262	OT-7958-XV							False	True				Unit	Unit			
+1263	XS-2535-BK			Peter Blackshaw Real Estate Manuka	610	2016	17	False	True			2	Unit	Unit	2	2	
+1264	FO-3271-OJ		2009-10-06					False	True			2	Unit	Unit	2	3	
+1265	OT-7606-SG			Distinct Property Management	670	2019	16	False	True			2	Unit	Unit	2	2	
+1266	QJ-8067-GD		2012-11-15					False	True			2	Unit	Unit	2	2	
+1269	WL-6581-KN							False	False				House	House			
+1270	KE-5902-XM							False	False				House	House			
+1271	RZ-6722-XS							False	False				House	House			
+1272	BI-7509-VY							False	False				House	House			
+1273	NM-5653-ZS							False	False				House	House			
+1274	YL-3779-JU	850000	2014-05-26					False	False	13	33		Commercial	Retail			7122
+1275	EO-6208-IS							False	True				Commercial	Commercial			
+1276	QD-4788-BR							False	True				Unit	Unit			
+1277	VS-1330-ZM							False	True				Commercial	Commercial			
+1278	OP-5733-GL			Office Hub		2015	27	False	True				Commercial	Commercial			
+1279	US-5389-JF							False	False				Unit	Unit			
+1280	KA-9483-TT							False	False				Unit	Unit			
+1281	XT-3068-RF							False	False				Unit	Unit			
+1282	TV-4790-OK							False	False				Unit	Unit			
+1283	GO-5576-MV							False	False				House	House			
+1284	MR-1282-BJ							False	True				Unit	Unit			
+1285	UC-6589-GZ	760000	2011-08-04					False	True	5	12		Commercial	Commercial			
+1286	ME-5868-VA	380000	2012-01-20					False	True	2	23		Commercial	Commercial			
+1288	NS-9875-YW							False	True				Unit	Unit			
+1289	RO-8523-XE	1480000	2011-08-04	Raine & Horne Commercial Canberra		2016	243	True	True	5	12		Commercial	Commercial			
+1290	TZ-2428-WH	300000	2016-09-16	Office Hub		2015	59	False	True	2	23	2	Commercial	Commercial	2	2	
+1292	RG-5096-QQ							False	True				Unit	Unit			
+1293	UQ-8663-NI	1380000	2011-08-23					False	True	5	12		Commercial	Commercial			
+1294	UI-0636-NW							False	True				Unit	Unit			
+1296	TA-4082-HS							False	True				Unit	Unit			
+1297	MA-8637-IP	936738	2012-01-10					False	True	5	12		Commercial	Commercial			
+1298	PW-7010-LW	370000	2004-01-27					False	True	2	23	2	Commercial	Commercial			
+1299	BA-4069-AO			LJ Hooker Commercial Canberra		2014	101	False	True				Commercial	Commercial			
+1300	QD-3287-QZ			LJ Hooker Commercial Canberra		2018	45	False	True				Commercial	Commercial			
+1301	UC-9718-HO	770000	2015-11-24					False	True	5	12	4	Commercial	Commercial			
+1302	OF-4151-DS	195000	2008-01-14					False	True	2	23		Commercial	Commercial			
+1304	UA-9698-FV	959000	2004-10-06					False	True	5	12		Commercial	Commercial			
+1305	VT-3455-WV	400000	2016-01-19					False	True	2	23		Commercial	Commercial			
+1307	PX-7477-MQ							False	True				Unit	Unit			
+1308	QF-5629-LY	453970	2004-07-20					False	True	5	12		Commercial	Commercial			
+1309	DA-4816-FZ	815000	2011-02-19					False	False			2	Unit	Unit	2	3	
+1310	YK-5005-SJ	800000	2018-11-23					False	True	2	23		Commercial	Commercial			
+1312	KS-2611-OU							False	True				Unit	Unit			
+1313	UX-6092-QH	950000	2018-11-08					False	True	5	12	7	Commercial	Commercial			
+1314	LQ-4870-KM			PURNELL	850	2017	69	False	True			0	Unit	Unit	2	3	
+1315	MS-1012-JT	840000	2002-05-17					False	True	2	23		Commercial	Commercial			
+1316	MM-3441-MD							False	True				Unit	Unit			
+1317	MU-1767-UQ							False	True				Unit	Unit			
+1318	UD-8983-GN							False	True				Unit	Unit			
+1319	IW-5399-KW							False	False				Unit	Unit			
+1320	OL-6767-IP	605000	2010-05-06					False	True	2	23		Commercial	Commercial			
+1321	TB-4037-HS							False	False			2	Unit	Unit	2	2	
+1322	DI-5622-JX	400000	2005-10-04					False	True	2	23	2	Commercial	Commercial			
+1324	NA-5585-VY							False	True				Unit	Unit			
+1325	GZ-5354-WN							False	True				Unit	Unit			
+1326	WQ-0682-DP			Raine & Horne Comm Canberra	187340	2013	7	False	True			2	Commercial	Commercial			
+1327	QC-4310-UG							False	True				Unit	Unit			
+1328	JA-4075-TU							False	True				Commercial	Commercial			
+1329	QZ-5292-MI	352000	2005-12-01					False	True	2	23		Commercial	Commercial			
+1330	IL-6120-UI							False	False				Unit	Unit			
+1331	VZ-2307-KG							False	False				House	House			
+1332	VZ-2307-KG							False	False				House	House			
+1333	EL-5227-UZ							False	False				Unit	Unit			
+1334	ZD-8117-HM							False	False				Unit	Unit			
+1335	FK-5275-GA							False	False				House	House			
+1336	RT-0838-MN			CTC Property Group	0	2019	60	False	True			2	Unit	Unit	2	2	
+1337	OK-2543-JG	460000	2016-08-30					False	True	2	23		Commercial	Commercial			
+1338	UG-2885-AG	850000	2017-10-18	Luton Properties - Manuka	825	2018	16	True	True			2	Unit	Unit	2	3	
+1339	EN-8126-ZD							False	False				House	House			
+1340	SZ-5882-UF			Luton Properties - Manuka	750	2010	36	False	False			2	Unit	Unit	2	3	
+1341	FC-0823-UO							False	False				Unit	Unit			
+1342	YT-4171-WM							False	False				Land	Land			
+1343	SY-9399-JP			Archived Peter Blackshaw Real Estate Woden & Weston Cre	660	2017	24	False	False			2	Unit	Unit	2	2	
+1344	DB-7719-KA			PURNELL	520	2014	4	False	False			3	Unit	Unit	2	2	
+1345	AM-9230-FO			Maloney's the Estate Agent	1380	2018	10	False	False			2	Unit	Unit	2	3	
+1346	AO-6233-JF			Luton Properties - Manuka	850	2011	28	False	False			2	House	House	2	3	
+1347	PY-7057-KE	465000	2020-01-09	First National Capital	430	2010	13	False	False			1	House	House	1	1	
+1348	CU-4499-JM							False	False				Unit	Unit			
+1349	IY-6751-CT							False	True				Unit	Unit			
+1350	QA-5118-SO							False	True				Unit	Unit			
+1351	IZ-9981-IM							False	True				Unit	Unit			
+1352	QY-9613-ZN	352000	2005-12-01					False	True	2	23		Commercial	Commercial			
+1353	QV-6124-ZW							False	False				Unit	Unit			
+1354	CD-6105-OI							False	False				House	House			
+1355	GT-6453-JS							False	False				Unit	Unit			
+1356	CP-4733-TP							False	False				Unit	Unit			
+1358	CU-4169-GM							False	False				Unit	Unit			
+1359	CQ-0690-ZL			Luton Properties Woden	620	2016	19	False	False			2	Unit	Unit	2	3	
+1360	SW-4242-QF							False	False				Unit	Unit		3	
+1361	SX-4454-MG			Peter Blackshaw Real Estate Manuka	680	2015	47	False	False			1	Unit	Unit	2	2	
+1362	UE-0838-OE		2017-10-04	Peter Blackshaw Real Estate Manuka	560	2015	82	False	False			2	Unit	Unit	2	2	
+1363	CO-2600-WP							False	False			2	Unit	Unit	2	3	
+1364	CP-8937-NG	715000	2005-09-24					False	False			2	Unit	Unit	2	3	
+1365	TD-9016-MR		2016-07-22					False	False			1	Unit	Unit	1	1	
+1366	KS-0319-YY		2018-11-27					False	False			2	Unit	Unit	2	2	
+1367	KS-9940-ZS							False	False				Unit	Unit			
+1368	AK-1053-ZR							False	True				Unit	Unit			
+1369	QB-3093-EB							False	True				Unit	Unit			
+1370	KX-6705-OF							False	True				Unit	Unit			
+1371	UC-5630-GJ	1266000	2013-11-01	CBRE Canberra		2017	420	True	True	2	23	7	Commercial	Commercial			
+1372	YS-4543-UO							False	False				Unit	Unit			
+1373	DA-7959-UM							False	False				Unit	Unit			
+1374	ZA-1279-BJ							False	False				Unit	Unit			
+1376	KV-6908-BL			LJ Hooker Manuka	0	2020	26	False	False			2	Unit	Unit	2	3	
+1377	RE-9578-NX	320000	2001-03-05	PURNELL	850	2018	58	True	True	6	17	2	Unit	Unit	2	3	
+1378	CT-2350-YY		2013-12-20	PRD Leader Real Estate		2009	79	False	True	6	17	2	Unit	Unit	2	2	
+1379	CS-5664-ZS	870000	2015-11-21					False	True	6	17		Unit	Unit		1	
+1380	KV-2784-HE	765000	2018-04-14	Total Property Management - Bright Partners	620	2015	26	False	True	6	17	2	Unit	Unit	2	2	
+1381	KV-0940-YV	440000	2003-08-12	Maloney's the Estate Agent	1260	2018	25	True	True	6	17	2	Unit	Unit	2	2	
+1382	DO-0617-KI	330000	2001-03-08					False	True	6	17		Unit	Unit			
+1383	KW-9628-IA	592000	2011-03-08	Total Property Management - Bright Partners	650	2013		True	True	6	17	2	Unit	Unit	2	2	
+1384	KX-1768-QN	320000	2003-08-11					False	True	6	17		Unit	Unit			
+1385	KW-7195-QA	705000	2016-10-07					False	True	6	17	2	Unit	Unit	2	2	
+1386	RB-3537-ZK							False	True				Unit	Unit			
+1387	QB-0416-JX							False	True				Unit	Unit			
+1388	YM-1026-SC							False	True				Unit	Unit			
+1389	UB-6801-RK	377500	2013-11-08	Total Property Management - Bright Partners	40600	2015	358	True	True	2	23		Commercial	Commercial			
+1390	CS-3566-XF							False	False				Unit	Unit			
+1392	DN-8250-JH	440000	2002-06-14					False	True	6	17		Unit	Unit			
+1393	NU-6118-RQ	506000	2010-09-04	Peter Blackshaw Canberra City Rentals	0	2019	28	True	True	6	17	2	Unit	Unit	2	3	
+1394	KY-1345-DV	365000	2001-03-06					False	True	6	17		Unit	Unit			
+1395	KZ-3369-SG	290000	2010-12-20					False	True	6	17		Unit	Unit			
+1396	LH-3159-NE	300000	2001-03-08	LJ Hooker Manuka	0	2019	14	True	True	6	17	2	Unit	Unit	2	2	
+1397	KZ-7452-XY	370000	2002-04-24					False	True	6	17	0	Unit	Unit	2	2	
+1398	ZK-8455-VO	410000	2001-03-08					False	True	6	17		Unit	Unit		3	
+1399	UN-0442-PW	365000	2001-03-05	Maloney's the Estate Agent	1300	2018	14	True	True	6	17	2	Unit	Unit	2	2	
+1400	OS-2403-VE	590000	2014-09-03	Peter Blackshaw Manuka	685	2019	105	True	True	6	17	2	Unit	Unit	2	2	
+1401	DO-0385-IW	390000	2001-04-20	Maloney's the Estate Agent	1080	2015	41	True	True	6	17	2	Unit	Unit	2	2	
+1402	BO-3620-BN							False	True				Unit	Unit			
+1403	ZQ-0534-II	1152000	2011-11-04					False	True	5	12		Commercial	Commercial			
+1404	UB-7244-LH	265000	2013-06-18					False	True	2	23		Commercial	Commercial			
+1405	GA-7954-RG							False	False				Unit	Unit			
+1407	RN-5938-PI	845000	2011-07-11	LJ Hooker Manuka	750	2011	7	False	True	6	17	2	Unit	Unit	2	3	
+1408	DH-4265-AM	349000	2006-07-11	Peter Blackshaw Real Estate Manuka	650	2017	28	True	True	6	17	2	Unit	Unit	2	2	
+1409	ZG-4498-JI	282750	2001-07-09					False	True	6	17		Unit	Unit			
+1410	UF-0709-OW	320000	2001-03-06	LJ Hooker Manuka	600	2018	6	True	True	6	17	2	Unit	Unit	2	2	
+1411	ZN-2907-OI	1310000	2015-10-31					False	True	6	17	2	Unit	Unit	2	3	
+1412	DF-9270-PW	520000	2017-08-22					False	True	6	17		Unit	Unit			
+1413	LB-3662-AD							False	True				Unit	Unit			
+1414	TX-9003-WL	920000	2011-11-04					False	True	5	12		Commercial	Commercial			
+1415	OF-6856-XA	290000	2014-03-28					False	True	2	23		Commercial	Commercial			
+1416	SM-8995-AX							False	False				Unit	Unit			
+1419	MY-7905-HD							False	True				Unit	Unit			
+1420	ZQ-0353-EU	1003000	2011-11-04					False	True	5	12	5	Commercial	Commercial			
+1421	MQ-7344-NN	820000	2018-08-03					False	True	2	23		Commercial	Commercial			
+1422	HW-9905-RQ							False	False				House	House			
+1423	XA-8363-WM							False	True				Unit	Unit			
+1424	EE-6106-QW							False	True				Unit	Unit			
+1425	OT-8100-RA	1060000	2015-03-31					False	True	5	12		Commercial	Commercial			
+1426	VZ-4958-LJ	820000	2018-08-03					False	True	2	23		Commercial	Commercial			
+1427	AD-1318-GX							False	True				Unit	Unit			
+1428	JK-9408-FA							False	False				Unit	Unit			
+1429	EB-5597-PC							False	False				Unit	Unit			
+1430	KP-3966-PK							False	False				House	House			
+1431	UH-1872-QQ	340000	1994-07-20					False	False	10	24		House	House			1096
+1432	NA-3424-UN							False	False				House	House			
+1433	VJ-4181-IO		2003-10-25					False	False	13	28		House	House		3	
+1434	NS-4032-IG							False	False				House	House			
+1435	RU-4600-LP	975000	2006-12-02					False	False	12	28	0	House	House	2	4	957
+1436	NB-5604-DE	1150000	2010-11-18					False	False	11	28	0	House	House	1	3	976
+1437	KV-0642-PL							False	False				House	House			
+1438	WO-6122-NF	950000	2006-04-24					False	False	10	28	0	House	House	2	3	976
+1439	RU-6999-KX	340000	1991-03-16					False	False	9	28		House	House			
+1440	WK-9621-CC							False	False				House	House			
+1441	MH-1048-JI							False	True				Unit	Unit			
+1442	LC-1552-JW							False	True				Unit	Unit			
+1443	LC-1552-JW							False	True				Unit	Unit			
+1444	ZM-4842-TR							False	True				Unit	Unit			
+1445	FZ-7317-SD							False	False				Unit	Unit			
+1446	NI-6857-ZX	423000	2017-01-17	Luton Properties - Manuka	440	2016	16	False	True	1	41	1	Unit	Unit	1	1	
+1447	PV-7355-YD	47074	2016-12-14	ParkTrent Properties Group - Canber	715	2017	21	True	True	2	27	2	Unit	Unit	2	2	
+1448	MP-5977-GV							False	True				Unit	Unit			
+1450	UW-7194-JG			PRDnationwide Canberra	650	2020	3	False	True			2	Unit	Unit	2	2	
+1451	KM-2744-RI							False	True				Unit	Unit			
+1452	KM-2744-RI							False	True				Unit	Unit			
+1453	JY-2600-CZ							False	True				Unit	Unit			
+1454	PU-3976-CE	488000	2019-03-22					False	True			1	Unit	Unit	1	1	
+1455	UX-5823-SE		2018-08-23	Total Property Management - Bright Partners	560	2015	91	False	True	2	27	2	Unit	Unit	2	2	
+1456	PF-7978-UP	489000	2018-05-15					False	True			1	Unit	Unit	1	1	
+1457	CG-2109-FJ		2014-09-14	PRD Canberra	650	2019	30	True	True			2	Unit	Unit	2	2	
+1458	CG-2109-FJ		2014-09-14	PRD Canberra	650	2019	30	True	True			2	Unit	Unit	2	2	
+1459	JT-0856-AU							False	True				Unit	Unit			
+1460	KM-0384-PD	477000	2019-03-08	Key Real Estate ACT	0	2019	14	True	True	1	41	1	Unit	Unit	1	1	
+1461	SO-2349-NG	605000	2015-06-23	Total Property Management - Bright	890	2018	28	True	True	2	27	2	Unit	Unit	1	3	
+1463	SL-4459-XO							False	True				Unit	Unit			
+1464	MI-9175-WH		2015-07-13	Rod Meates Property - Kingston	875	2017	7	True	True			2	Unit	Unit	2	3	
+1465	MI-9175-WH		2015-07-13	Rod Meates Property - Kingston	875	2017	7	True	True			2	Unit	Unit	2	3	
+1466	CB-0413-JV			Element Property Services	580	2019	12	False	True			0	Unit	Unit	1	1	
+1467	HK-3092-PI		2014-10-14	Luton Properties - Manuka	480	2016	24	True	True	2	27	1	Unit	Unit	1	1	
+1468	TY-2096-LJ							False	True			2	Unit	Unit	2	2	
+1469	SF-4521-NF			Dwyer Dunn Property Consultants	600	2012	21	False	True			1	Unit	Unit	2	2	
+1470	SF-4521-NF			Dwyer Dunn Property Consultants	600	2012	21	False	True			1	Unit	Unit	2	2	
+1471	TN-7504-CJ	762000	2017-08-14	Distinct Property Management	715	2018	8	True	True	1	41	2	Unit	Unit	2	2	
+1472	RL-1001-YW		2014-02-20	PRDnationwide Canberra	670	2016	37	True	True	2	27	2	Unit	Unit	2	2	
+1473	DW-5988-KS			PRD Leader Real Estate	650	2011		False	True			2	Unit	Unit	1	2	
+1474	NT-8230-VH			Berkely residential	785	2019	29	False	True			0	Unit	Unit	2	3	
+1475	NT-8230-VH			Berkely residential	785	2019	29	False	True			0	Unit	Unit	2	3	
+1476	NR-7801-SC							False	True				Unit	Unit			
+1477	RS-6956-LK		2016-10-12					False	True	2	27	1	Unit	Unit	1	1	
+1478	SC-9245-GD			Peter Blackshaw Real Estate Manuka	490	2015	33	False	True			1	Unit	Unit	1	1	
+1479	FP-7738-UA			Rod Meates Property - Kingston	480	2019		False	True			1	Unit	Unit	1	1	
+1480	FP-7738-UA			Rod Meates Property - Kingston	480	2019		False	True			1	Unit	Unit	1	1	
+1481	HB-2615-OH	465000	2019-08-19	Hodgkinson Real Estate 	0	2019		True	True	1	41	1	Unit	Unit	1	1	
+1482	UF-4954-EC	696600	2008-04-03	LJ Hooker Woden	620	2017	50	True	True	2	27	2	Unit	Unit	1	2	
+1483	JX-1584-WG	470000	2013-05-27	Peter Blackshaw Real Estate Queanbeyan & Jerrabomberra	480	2020	29	True	True			1	Unit	Unit	1	1	
+1484	TS-7171-YT	655000	2015-07-08	Luton Properties - Dickson	580	2015	38	True	True			2	Unit	Unit	2	2	
+1485	TS-7171-YT	655000	2015-07-08	Luton Properties - Dickson	580	2015	38	True	True			2	Unit	Unit	2	2	
+1486	CP-8377-UT		2014-09-12	Distinct Property Management	495	2020	329	True	True			1	Unit	Unit	1	1	
+1487	VF-9445-YK	490000	2010-04-23	Total Property Management - Bright	575	2017	42	True	True	2	27	1	Unit	Unit	1	2	
+1488	JY-1520-RG							False	True				Unit	Unit			
+1489	VR-1193-CU			PRDnationwide Canberra	800	2012	185	False	True			2	Unit	Unit	2	3	
+1490	VR-1193-CU			PRDnationwide Canberra	800	2012	185	False	True			2	Unit	Unit	2	3	
+1491	IQ-1335-UP	488000	2019-03-22					False	True	1	41	1	Unit	Unit	1	1	
+1492	PK-5054-JO	1011000	2010-12-08	Cream Residential	760	2018	20	True	True	2	27	2	Unit	Unit	2	3	
+1493	IW-7552-HB		2017-05-16	PRD Leader Real Estate	650	2011	35	False	True			1	Unit	Unit	1	1	
+1494	HZ-6671-UR							False	True				Unit	Unit			
+1495	HZ-6671-UR							False	True				Unit	Unit			
+1496	DY-5166-LD	410000	2013-07-22					False	True			1	Unit	Unit	1	1	
+1497	RT-3992-FO	695000	2008-07-03					False	True	2	27	1	Unit	Unit	1	1	
+1498	UO-1769-CL			PRD Leader Real Estate	700	2011		False	True			1	Unit	Unit	1	1	
+1499	PF-0030-BC							False	True				Unit	Unit			
+1500	PF-0030-BC							False	True				Unit	Unit			
+1501	NH-1284-LE			Dwyer Dunn Property Consultants	520	2018	28	False	True			0	Unit	Unit	1	1	
+1502	PK-2060-BB	670000	2019-06-21	Luton Properties - Manuka	640	2016	75	False	True	2	27	2	Unit	Unit	2	2	
+1508	FB-9000-BQ	762000	2017-08-14					False	True			2	Unit	Unit	2	2	
+1509	YV-8169-DY			McGrath Dickson	850	2018	32	False	True			2	Unit	Unit	2	3	
+1510	YV-8169-DY			McGrath Dickson	850	2018	32	False	True			2	Unit	Unit	2	3	
+1511	IR-4791-MX			Office Hub		2020	358	False	True				Commercial	Commercial			
+1512	CO-4179-EF			One Agency Gamarra & Co Projects	920	2019	7	False	True			2	Unit	Unit	2	2	
+1513	GJ-8933-KS	66471	2016-12-14	PRDnationwide Canberra	500	2017	5	True	True	2	27	1	Unit	Unit	1	1	
+1514	QK-8805-RS							False	True				Commercial	Commercial			
+1515	QJ-4639-MC							False	True				Unit	Unit			
+1516	KI-0793-HZ			StepInside Properties	0	2019	20	False	True			1	Unit	Unit	1	1	
+1517	KI-0793-HZ			StepInside Properties	0	2019	20	False	True			1	Unit	Unit	1	1	
+1518	KX-6376-HJ			Peter Blackshaw Real Estate Tuggeranong Projects	680	2019	15	False	False			2	House	House	2	2	
+1519	SM-1882-ZN	465000	2008-04-02	Maloney's the Estate Agent	1000	2016	320	True	True	2	27	1	Unit	Unit	1	1	
+1520	DL-9043-TA							False	True			2	Unit	Unit	2	2	
+1521	BH-9583-SZ		2014-05-09					False	True			2	Unit	Unit	2	2	
+1522	BH-9583-SZ		2014-05-09					False	True			2	Unit	Unit	2	2	
+1523	XF-9291-MM							False	True				Unit	Unit			
+1524	JE-6488-MV	618000	2018-02-27	PRDnationwide Canberra	600	2016	23	False	True	2	27	2	Unit	Unit	2	2	
+1525	HC-6119-CB			Key Real Estate ACT	0	2019	225	False	True			1	Unit	Unit	1	1	
+1526	IX-6851-EL		2017-07-15					False	True			2	Unit	Unit	2	3	
+1527	IX-6851-EL		2017-07-15					False	True			2	Unit	Unit	2	3	
+1528	BW-9627-IW		2017-07-21					False	True			1	Unit	Unit	1	1	
+1529	SN-1754-EO	625000	2018-08-30					False	True	2	27		Unit	Unit			
+1530	AP-0051-BT		2016-04-21	PRDnationwide Canberra	400	2013	7	False	True			1	Unit	Unit	1	1	
+1531	HQ-8077-HW			PRD Leader Real Estate	750	2011		False	True			2	Unit	Unit	2	2	
+1532	HQ-8077-HW			PRD Leader Real Estate	750	2011		False	True			2	Unit	Unit	2	2	
+1533	EV-7042-EJ							False	True				Unit	Unit			
+1534	EZ-9834-TI	795000	2010-01-13					False	True	2	27	2	Unit	Unit	2	3	
+1535	IH-5774-PZ		2014-11-28					False	True			4	Unit	Unit	2	2	
+1536	UE-6749-ZC			Badenoch Real Estate Rentals	825	2011	78	False	True			2	Unit	Unit	2	3	
+1537	UE-6749-ZC			Badenoch Real Estate Rentals	825	2011	78	False	True			2	Unit	Unit	2	3	
+1538	TO-0064-BB							False	True				Unit	Unit			
+1539	UF-5237-BQ	400000	2014-10-14	PRD Leader Real Estate	450	2011		False	True	2	27	1	Unit	Unit	1	1	
+1540	BB-1370-OI		2016-11-09	Dwyer Dunn Property Consultants	560	2013	490	False	True			1	Unit	Unit	1	1	
+1541	JZ-6807-YU			Total Property Management - Bright Partners	495	2012		False	True			1	Unit	Unit	1	1	
+1542	JZ-6807-YU			Total Property Management - Bright Partners	495	2012		False	True			1	Unit	Unit	1	1	
+1543	HQ-9997-LJ	489000	2018-05-15	Hodgkinson Real Estate 	410	2013	82	False	True	1	41	1	Unit	Unit	1	1	
+1544	HY-5691-GR		2016-05-13	PRD Leader Real Estate	640	2013	138	False	False			2	House	House	2	2	
+1545	PX-3615-HZ							False	True				Unit	Unit			
+1546	ZF-5931-LH	1995000	2012-10-12					False	True			2	Unit	Unit	4	3	
+1547	ZF-5931-LH	1995000	2012-10-12					False	True			2	Unit	Unit	4	3	
+1548	DQ-0252-QW			ParkTrent Properties Group Wollongong	560	2011	217	False	True			0	Unit	Unit	1	1	
+1549	HA-3383-DB	580000	2015-10-27	BORIS.	0	2020	327	True	True	2	27	0	Unit	Unit	1	1	
+1550	IH-4101-JP		2019-08-06					False	True			2	Unit	Unit	2	2	
+1551	XE-3310-ZZ		2014-12-06					False	True			2	Unit	Unit	4	4	
+1552	XE-3310-ZZ		2014-12-06					False	True			2	Unit	Unit	4	4	
+1553	CA-8872-AN							False	True				Unit	Unit			
+1554	SO-5068-KV		2016-02-25	Distinct Property Management	670	2016	10	True	True	2	27	2	Unit	Unit	2	2	
+1555	HP-8709-LY							False	True			2	Unit	Unit	2	2	
+1556	YV-7208-RA							False	True				Unit	Unit			
+1557	TD-3762-LA	800000	2009-09-17	Civium Property Group	625	2011	25	True	True	2	27	2	Unit	Unit	2	2	
+1558	NT-7075-QY		2015-06-26					False	True			1	Unit	Unit	1	1	
+1559	DR-7000-OU			Cream Residential	430	2016	12	False	True			1	Unit	Unit	1	1	
+1560	LJ-3685-NR	695000	2008-06-28					False	True	2	27	2	Unit	Unit	2	3	
+1561	OI-1024-XC							False	True				Unit	Unit			
+1562	FA-5393-YV			Total Property Management - Bright Partners	670	2018	15	False	True			2	Unit	Unit	2	2	
+1563	FA-5393-YV			Total Property Management - Bright Partners	670	2018	15	False	True			2	Unit	Unit	2	2	
+1564	TO-9151-FK			Office Hub		2019	73	False	True				Commercial	Commercial			
+1565	GD-2795-PI			Independent Property Management	0	2019	8	False	True			1	Unit	Unit	1	1	
+1566	VI-8238-PM			Independent Property Management	580	2017	70	False	True			2	Unit	Unit	2	2	
+1567	SB-0706-DI							False	True				Commercial	Commercial			
+1569	EF-2215-JX	480000	2019-08-13	LJH Manuka		2019	110	False	True			1	Unit	Unit	1	1	
+1570	WI-0699-MN			Carter and Co Agents	0	2020	9	False	True			1	Unit	Unit	1	1	
+1571	JB-7956-KM	442000	2016-05-02	BORIS.	550	2019	34	True	True	2	27	1	Unit	Unit	1	1	
+1572	VQ-4084-WB							False	True			1	Unit	Unit	2	2	
+1573	DY-8475-QB			Distinct Property Management	495	2016	7	False	True			1	Unit	Unit	1	1	
+1574	TQ-5245-VV	485000	2016-10-12					False	True	2	27	0	Unit	Unit	2	2	
+1575	WS-8956-AO		2018-05-11	Peter Blackshaw Manuka Projects	540	2018	7	False	True			1	Unit	Unit	1	1	
+1576	NO-1085-CU							False	True				Unit	Unit			
+1577	OJ-3564-LQ	545000	2009-09-30	LJH Manuka	550	2019	8	True	True	2	27	1	Unit	Unit	1	1	
+1578	OS-8391-CV		2017-07-28	BORIS. - Manuka	520	2019	25	True	True			0	Unit	Unit	1	1	
+1579	HQ-0535-FA	424000	2018-06-18	LJ Hooker Canberra City	480	2011		False	True	1	41	1	Unit	Unit	1	1	
+1580	WK-1198-XP		2016-04-14	PURNELL	675	2018	23	True	True	2	27	2	Unit	Unit	2	2	
+1581	OR-4585-KY		2015-09-26					False	True			2	Unit	Unit	2	2	
+1582	OA-9334-LU		2016-11-03					False	True			0	Unit	Unit	2	2	
+1583	IS-0301-PG	618000	2014-08-26	Hayman Partners Projects	0	2019	43	True	True	2	27	2	Unit	Unit	2	2	
+1584	HM-5795-XO			Independent Property Management	570	2018	11	False	True			2	Unit	Unit	2	2	
+1585	GA-2908-LV		2016-02-01					False	True			2	Unit	Unit	2	3	
+1586	FO-6274-OF	485000	2010-05-18					False	True	2	27		Unit	Unit			
+1587	BE-9416-XW		2019-03-29	Berkely Residential	1125	2012		False	True			3	Unit	Unit	2	3	
+1588	KL-4463-DC							False	True				Unit	Unit			
+1589	OL-6010-SR	670000	2014-02-19	Independent Property Management	460	2019	11	True	True	2	27	1	Unit	Unit	1	1	
+1590	AD-2497-BB							False	True				Unit	Unit			
+1591	KE-8705-VK			Cream Residential	545	2019	54	False	True			0	Unit	Unit	1	1	
+1592	RC-7404-DZ							False	True				Unit	Unit			
+1593	XA-7168-KM	468000	2015-10-08					False	True	1	41	1	Unit	Unit	1	1	
+1594	SM-5383-YO	470000	2017-05-15					False	True	1	41		Unit	Unit			
+1595	AU-0544-VE	477000	2019-02-28	BORIS.	0	2019	7	True	True			1	Unit	Unit	1	1	
+1596	JX-5772-CA		2010-11-10	LJ Hooker Manuka	730	2010	121	True	True			2	Unit	Unit	2	3	
+1597	JX-5772-CA		2010-11-10	LJ Hooker Manuka	730	2010	121	True	True			2	Unit	Unit	2	3	
+1598	OF-2837-FL							False	True				Commercial	Commercial			
+1599	LA-7290-LF			PRDnationwide Canberra	450	2019	19	False	True			1	Unit	Unit	1	1	
+1600	BO-8440-YM	605000	2015-06-01					False	True			2	Unit	Unit	2	2	
+1601	LR-2328-OT							False	True				Unit	Unit			
+1602	KK-5526-MH			Private	650	2011	4	False	True			1	Unit	Unit	1	1	
+1603	LJ-6005-HS				850	2014	119	False	True			2	Unit	Unit	2	2	
+1604	UL-2087-PY	16960000	2009-06-16					False	False	2	15		Commercial	Commercial			40961
+1605	LR-7219-DT		2015-04-09	PRDInner North		2011	32	False	True			2	Unit	Unit	2	3	
+1606	YG-6554-TF							False	True				Unit	Unit			
+1607	EX-8456-JF							False	True				Unit	Unit			
+1608	EX-8456-JF							False	True				Unit	Unit			
+1609	WJ-6288-EH							False	True				Unit	Unit			
+1610	AF-7791-OI							False	True			1	Unit	Unit	1	1	
+1611	SN-5318-FV	2440000	2011-09-01					False	True	2	27		Unit	Unit			
+1612	TV-5695-SZ							False	True				Unit	Unit			
+1614	GC-3252-LR			Total Property Management - Bright	620	2016	7	False	True			2	Unit	Unit	1	2	
+1615	NG-2995-KM		2015-10-28					False	False			2	House	House	2	2	
+1616	NG-2995-KM		2015-10-28					False	False			2	House	House	2	2	
+1617	JX-6154-RV							False	True				Unit	Unit			
+1618	MM-5364-NG							False	True			2	Unit	Unit	2	2	
+1619	YP-1511-JX	40644	2016-12-14	Dwyer Dunn Property Consultants	450	2019		True	True	2	27	1	Unit	Unit	1	1	
+1620	TK-5459-PI							False	True				Unit	Unit			
+1621	GH-8649-AC							False	True				Unit	Unit			
+1622	FJ-5727-NC			Peter Blackshaw Canberra City Rentals	850	2019	40	False	True			2	Unit	Unit	2	3	
+1623	FJ-5727-NC			Peter Blackshaw Canberra City Rentals	850	2019	40	False	True			2	Unit	Unit	2	3	
+1624	YP-8711-CH							False	True				Unit	Unit			
+1625	YP-8711-CH							False	True				Unit	Unit			
+1626	ZC-8094-BO							False	True				Unit	Unit			
+1627	UD-9313-XL	1572725	2008-05-14					False	True	2	27		Unit	Unit			
+1628	QG-0224-UR							False	True				Unit	Unit			
+1630	QK-2361-IQ							False	True				Unit	Unit			
+1631	VV-8551-RQ			Sadil Quinlan Properties	450	2017	173	False	True			1	Unit	Unit	1	1	
+1632	GS-8665-QX							False	True				Unit	Unit			
+1633	GS-8665-QX							False	True				Unit	Unit			
+1634	JI-5673-VD							False	True				Unit	Unit			
+1635	TI-8559-RS		2019-08-21					False	True			1	Unit	Unit	1	1	
+1636	UA-5892-PD	3717230	2008-04-22	Maloney's the Estate Agent	520	2019	5	True	True	2	27	1	Unit	Unit	1	1	
+1637	YB-4237-LU							False	True				Commercial	Commercial			
+1638	XN-9803-YD							False	True				Unit	Unit			
+1639	WT-3325-GZ							False	True				Unit	Unit			
+1640	WT-3325-GZ							False	True				Unit	Unit			
+1641	ST-2281-LB							False	True				Unit	Unit			
+1642	ZA-4362-SY			Luton Properties - Manuka	480	2016	41	False	True			1	Unit	Unit	1	1	
+1643	WA-0359-CK		2018-03-01					False	True	2	27	2	Unit	Unit	2	2	
+1645	LI-7065-BQ	665000	2016-05-03					False	False	3	26			Other Residential			
+1646	NH-0930-WG							False	False				House	House			
+1647	XN-7206-KK	415000	1999-03-06					False	False	7	28		House	House		3	813
+1648	KS-9626-XR	372000	2004-11-19					False	False	3	26			Other Residential		2	
+1649	KH-6468-RY							False	False				House	House			
+1650	AK-0821-DF	1485000	2018-02-17					False	False	23	26	2	House	House	1	2	815
+1651	UL-0630-NQ	621000	2000-02-26					False	False	12	26		House	House		4	1115
+1652	YY-2725-HC	1850000	2014-06-17					False	False	11	26	2	House	House	3	4	1115
+1653	EO-1997-IH							False	False	3	26			Other Residential			
+1654	CZ-3395-NH	850000	2004-04-13					False	False	9	26	0	House	House	2	3	976
+1655	XO-6281-JW	1610000	2009-09-23					False	False	7	26		House	House			976
+1656	TJ-7469-LD	995000	2003-07-18					False	False	5	26		House	House		4	961
+1658	GT-5229-QZ	570000	2009-04-14					False	False	3	26	1		Other Residential	2	3	
+1659	XQ-2098-GH							False	False				House	House			
+1660	JT-7187-EX	930000	2014-11-15	Peter Blackshaw Real Estate Manuka	770	2016	19	True	False	12	24	1	Unit	Unit	2	4	
+1661	VR-0077-GP	1510000	2018-04-14					False	False	13	24		Unit	Unit			
+1662	IY-2040-JI				230	2005	220	False	False			1	House	Townhouse	1	1	
+1663	OK-0850-GK	455000	1997-02-07					False	False	16	24		House	House			1045
+1664	JJ-7327-KL	1275000	2010-05-08	Archived Peter Blackshaw Real Estate Woden & Weston Cre	970	2016	21	True	False	17	24	2	House	House	2	4	1045
+1665	OJ-1973-FX	274000	1996-11-01					False	False	10	25		House	House			869
+1666	RQ-6210-XE	1930000	2019-07-12	Hayman Partners	1000	2019	29	True	False	18	24	2	House	House	3	5	989
+1667	SD-3963-MH							False	False			1	House	House	1	1	
+1668	CM-0426-SF			McGrath Estate Agents	250	2015	7	False	False			1	House	House	1	1	
+1669	LM-7781-ZQ	930000	2014-11-15					False	False			0	House	House	2	4	
+1670	HU-0872-PX							False	False				Unit	Unit			
+1671	YI-5461-HQ	290000	1993-07-19	Berkely residential	800	2016	98	True	False	12	24	2	House	House	3	4	1072
+1672	CR-4184-AA			Berkely Residential	750	2016	188	False	False			2	House	House	3	4	
+1673	UL-2395-RB	1325000	2011-07-20	Archived Peter Blackshaw Real Estate Woden & Weston Cre	1050	2017	52	True	False	14	28	2	House	House	3	4	813
+1674	WK-3588-OL		2018-04-14					False	False	13	24	2	House	House	2	3	
+1675	RF-9527-JG							False	False			2	House	Townhouse	2	2	
+1676	SA-8317-NM	1430000	2015-11-01					False	False	1	28	1	House	House	2	4	1215
+1677	CN-7249-ZB							False	False				House	House			
+1678	VA-3908-JR	1050000	2011-09-16					False	False	15	24		House	House			869
