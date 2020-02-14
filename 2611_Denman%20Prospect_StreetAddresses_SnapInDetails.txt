@@ -1,0 +1,511 @@
+StreetAddressID	DomainPropertyId	LastSalePrice	LastSaleDate	LastRentalAgency	LastRentalPrice	LastRentalYear	RentDaysOnMarket	isPotentialInvestment	isPropertyInBuilding	lotNumber	planNumber	parking	propertyCategory	propertyType	bathrooms	bedrooms	BlockSize
+64297	JN-9883-XF	498000	2018-04-06					False	False	20	24	2	Land	Land	2	4	692
+64298	HL-5595-FI	480000	2017-10-01					False	False	8	23		Land	Land			539
+64299	EY-3831-ML	545000	2015-10-17					False	False	1	24		Land	Land			805
+64300	GQ-2540-CP	475000	2019-03-29					False	False	7	23		Land	Land			540
+64302	WJ-0746-QC	503500	2017-12-21					False	False	5	23		Land	Land			540
+64303	ML-3837-YS	500000	2018-04-16					False	False	24	25	2	Land	Land	3	4	590
+64304	KE-4238-IX	470000	2017-06-28					False	False	4	23		Land	Land			540
+64305	GE-3791-KS	487000	2015-10-17					False	False	1	25	2	Land	Land	3	5	641
+64306	UO-6691-GO	400000	2016-03-16					False	False	3	23		House	House			525
+64307	EC-2806-YH	405000	2016-02-12					False	False	2	23		Land	Land			615
+64308	CO-6603-YZ	510000	2019-09-30					False	False	9	62		Land	Land			
+64310	NT-2294-IN	425000	2019-01-16					False	False	4	62		Land	Land			
+64312	YV-8779-HY	510000	2017-11-10					False	False	3	62		Land	Land			
+64314	ZX-4647-SG	510000	2018-06-28					False	False	2	62		Land	Land			
+64316	PA-6157-QN	520000	2018-06-28					False	False	1	62		Land	Land			
+64318	XR-0050-MS	460000	2018-02-22					False	False	13	63		Land	Land			
+64320	CH-2284-FL	450000	2017-09-07					False	False	8	62		Land	Land			
+64322	TU-4195-CA	520000	2018-04-18					False	False	7	62		Land	Land			
+64324	EO-3661-RW	425000	2019-03-06					False	False	6	62		Land	Land			
+64326	OP-2909-XG	510000	2017-08-11					False	False	5	62		Land	Land			
+64327	CB-0344-MY	555000	2017-02-22					False	False	10	22		Land	Land			579
+64329	BJ-2997-FC	555000	2017-10-27					False	False	11	22		Land	Land			579
+64331	FL-5562-OX	555000	2018-04-09					False	False	12	22	2	Land	Land	2	4	579
+64332	GZ-3600-VT	585000	2017-03-15					False	False	9	21		Land	Land			639
+64333	MN-0669-SL	595000	2016-06-02					False	False	13	22		Land	Land			653
+64335	OF-0816-WQ	610000	2018-05-04					False	False	14	22		Land	Land			
+64337	TU-8552-LY	485000	2016-05-16					False	False	6	22		Land	Land			638
+64338	QO-6598-ZG	595000	2018-07-13					False	False	15	22		Land	Land			
+64339	ER-0681-LR	999500	2017-05-25					False	False	6	21		House	House			508
+64341	QJ-5524-IR	880000	2018-03-29					False	False	5	21	2	House	House	2	4	508
+64345	UZ-5592-EQ	555000	2016-04-14					False	False	3	21		Land	Land			508
+64346	XQ-9585-HC	520000	2017-03-20					False	False	19	22		Land	Land			
+64347	MC-5907-MN							False	False			2	House	House	3	4	
+64348	FJ-5963-SI	435000	2017-06-02					False	False	15	21	2	Land	Land	2	4	
+64350	FT-8604-UI	570000	2016-04-14					False	False	1	21		Land	Land			592
+64351	II-6102-DQ	1140000	2019-12-17					False	False	7	22	2	House	House	3	4	
+64352	TJ-4963-CM	435000	2016-04-14					False	False	14	21	2	Land	Land	2	4	631
+64353	HL-5857-QF	545000	2017-05-24					False	False	8	22		House	House			645
+64354	JF-7365-OD	505000	2016-03-04					False	False	13	21		Land	Land			636
+64355	FL-1605-QI	545000	2017-06-20					False	False	9	22		Land	Land			650
+64357	FY-4981-OA	670000	2019-02-08					False	False	7	9		Land	Land			540
+64358	BX-0528-QT	925000	2018-04-19					False	False	21	8	2	House	House	2	4	540
+64359	MI-6864-NN							False	False	6	9		House	House			618
+64360	JN-6808-XO	500000	2017-08-24					False	False	1	8		Land	Land			618
+64361	DR-0725-VP	555000	2016-08-31					False	False	5	7		Land	Land			600
+64362	TN-9169-UQ	395000	2016-03-29					False	False	11	8		Land	Land			618
+64363	BY-7021-GU	510000	2015-10-17					False	False	4	7		Land	Land			600
+64364	IZ-9965-RQ	485000	2018-06-29					False	False	12	8		Land	Land			563
+64365	UQ-0531-FM	510000	2015-10-17					False	False	3	7	2	House	House	3	4	600
+64366	FO-8215-HZ	465000	2017-03-17					False	False	13	8	2	Land	Land	3	4	640
+64367	DH-1343-VF	500000	2018-12-07					False	False	2	7	2	Land	Land	3	4	600
+64368	DG-7979-RH	490000	2016-11-25					False	False	14	8		Land	Land			640
+64369	WG-5575-TX	470000	2016-04-13					False	False	15	8		Land	Land			640
+64370	NV-8961-GA	490000	2016-09-23					False	False	16	8		House	House			640
+64371	WB-4297-UF	508000	2017-09-25					False	False	17	8	2	House	House	2	4	640
+64372	QF-9985-TO	495000	2018-06-12					False	False	15	6		Land	Land			579
+64373	JZ-9161-TU	460000	2016-03-07					False	False	18	8		Land	Land			640
+64374	DX-4954-QF	495000	2017-05-05					False	False	14	6		Land	Land			600
+64375	PJ-1952-HP	445000	2016-09-06					False	False	19	8		Land	Land			548
+64376	ZP-5807-TL	505000	2018-02-21					False	False	13	6		Land	Land			600
+64377	NG-6429-EH	485000	2016-09-16					False	False	20	8	2	House	House	3	4	618
+64379	DV-5295-NY	505000	2016-05-27					False	False	11	6		Land	Land			600
+64380	JQ-9316-TW	560000	2019-10-10					False	False	8	9		Land	Land			618
+64382	BW-6695-NB	1050000	2017-08-25					False	False	9	9		House	House			600
+64384	JT-2460-WQ	385000	2016-03-15					False	False	10	9		Land	Land			600
+64385	LL-0046-YI	920000	2019-10-24					False	False	8	6	2	House	House	3	4	480
+64386	DY-9769-FX	385000	2016-02-29	Belle Property Kingston	850	2018	32	True	False	11	9	2	House	House	2	4	600
+64388	LI-0852-VX	840000	2017-05-24					False	False	12	9		House	House			600
+64390	RJ-6478-LS	390000	2016-02-29					False	False	13	9		House	House			618
+64391	AP-9863-RZ	490000	2017-07-07					False	False	5	6		Land	Land			540
+64399	CN-0334-TR	470000	2019-02-28					False	False	1	60		Land	Land			
+64400	FO-3161-FU	470000	2019-04-12					False	False	5	57		Land	Land			
+64401	NT-7392-LX	470000	2018-08-23	Red Brick Properties	0	2019	51	True	False	24	60	2	House	House	2	4	
+64402	IT-9520-YU	480000	2019-09-03					False	False	6	57		Land	Land			
+64403	YV-5432-PF							False	False				Land	Land			
+64404	ZF-7784-AL			Manage Me - Property Sales	0	2019	14	False	False	7	57	2	House	House	2	4	
+64406	UL-9634-QZ							False	False	8	57		House	House			
+64408	CW-7329-EC	580000	2018-10-23					False	False	9	57		Land	Land			
+64410	ET-0874-MR							False	False	19	60		House	House			
+64411	BP-3350-HL							False	False	18	60		House	House			
+64412	CH-5856-XI	430000	2017-07-18					False	False	28	60		Land	Land			
+64413	TR-8640-FJ							False	False			2	House	House	2	4	
+64414	EQ-0710-TT	420000	2019-08-27					False	False	26	60		Land	Land			
+64415	CB-4876-OX	415000	2019-06-25					False	False	4	57		Land	Land			
+64420	IH-1237-YX	520000	2017-02-28					False	False	8	45	2	House	House	3	4	
+64422	VV-7829-TN	520000	2016-10-18					False	False	9	45		Land	Land			
+64423	WR-2842-JE	440000	2016-08-25					False	False	9	46		House	House			
+64424	ZC-4923-TC	560000	2017-02-15					False	False	10	45		Land	Land			
+64425	XN-0478-FC	440000	2018-04-27					False	False	4	45		Land	Land			
+64426	BV-6617-SO	875000	2018-12-20					False	False	14	46	2	House	House	2	4	
+64427	IZ-7800-GD	470000	2017-11-01					False	False	5	45	2	Land	Land	2	4	
+64428	WE-7552-BV	450000	2018-02-08					False	False	13	46		Land	Land			
+64429	JF-8374-FD	470000	2017-11-27					False	False	6	45	2	Land	Land	2	4	
+64430	NH-5120-EU	450000	2018-02-08					False	False	12	46		Land	Land			
+64431	II-0941-JB	470000	2017-09-12					False	False	7	45		Land	Land			
+64432	OW-6820-YJ							False	False	11	46		Land	Land			
+64434	BN-5226-VA							False	False			2	House	House	2	3	
+64436	BS-1676-KV							False	False			2	House	House	2	3	
+64443	IE-0843-AX							False	False			2	House	House	2	3	
+64475	SV-1231-WN	540000	2017-09-21					False	False	12	61		Land	Land			
+64476	VB-5428-XR	450000	2017-12-12					False	False	8	61		Land	Land			
+64477	YP-5973-WX	510000	2019-08-09					False	False	11	61		Land	Land			
+64478	BO-4648-OC	510000	2018-06-01					False	False	9	61		Land	Land			
+64479	PV-2047-DD	690000	2017-08-21					False	False	10	61		Land	Land			
+64503	EQ-2624-TR	898600	2018-03-23	Cream Residential	0	2019	25	True	True	18	59	2	Unit	Unit	2	3	
+64504	WU-9446-WG							False	False			2	House	Townhouse	2	3	
+64505	KB-0453-UU	495000	2018-02-20					False	True	18	59		Unit	Unit			
+64506	PA-9430-GT	495000	2018-02-05					False	True	18	59		Unit	Unit			
+64507	NH-8858-YI	510000	2019-03-01					False	True	18	59		Unit	Unit			
+64508	IK-6326-ZY	495000	2018-08-07	Hathaway Real Estate	0	2019	12	True	True	18	59	1	Unit	Unit	2	2	
+64509	MA-7980-CV	495000	2018-08-13					False	True	18	59		Unit	Unit			
+64510	OU-0956-MS	495000	2018-10-10					False	True	18	59		Unit	Unit			
+64511	PX-6730-YG	895000	2018-02-23					False	True	18	59		Unit	Unit			
+64515	ZP-0349-HR	526900	2018-03-16					False	True	18	59		Unit	Unit			
+64523	TM-6670-UZ	525000	2018-04-13					False	True	18	59		Unit	Unit			
+64525	UA-5173-IQ	525000	2018-04-16	Hathaway Real Estate	0	2019	46	True	True	18	59	2	Unit	Unit	2	2	
+64526	WT-4225-EQ	525000	2018-02-20					False	True	18	59		Unit	Unit			
+64527	ZS-1023-UX	525000	2018-02-13	Hathaway Real Estate	0	2019	5	True	True	18	59	2	Unit	Unit	2	2	
+64528	WO-4569-MR	525000	2018-02-07					False	True	18	59		Unit	Unit			
+64529	AM-8690-AU	898700	2018-03-28					False	True	18	59		Unit	Unit			
+64530	DT-0620-VJ	895000	2018-02-09					False	True	18	59	2	Unit	Unit	3	3	
+64533	YQ-7375-DZ	405000	2019-08-26					False	False	3	55		Land	Land			
+64535	GE-9403-KU							False	False			2	House	House	2	4	
+64536	UO-3664-AZ							False	False	19	58		House	House			
+64547	CJ-5855-KE	415000	2018-09-05					False	False	3	57		House	House			
+64555	IT-0154-SI	480000	2017-07-28					False	False	1	50		Land	Land			
+64557	WN-9875-PZ	480000	2018-06-14					False	False	2	50		Land	Land			
+64560	XK-2879-VJ	530000	2018-02-05					False	False	3	50		Land	Land			
+64562	JN-1624-VV	480000	2017-12-21					False	False	4	50		Land	Land			
+64564	JI-9611-LR							False	False	5	50		House	House			
+64577	ZA-6293-LO							False	False	7	53		House	House			
+64579	UI-4159-XN	520000	2017-10-04					False	False	8	53		Land	Land			
+64581	DE-6836-AA							False	False	9	53	2	House	House	2	4	
+64582	BH-4451-VV	500000	2018-08-07					False	False	16	54		Land	Land			
+64583	BD-9795-MY	510000	2016-11-11					False	False	10	53		Land	Land			
+64584	LJ-9887-RD	460000	2018-08-01					False	False	15	54		Land	Land			
+64585	RC-5042-AQ	520000	2018-08-24					False	False	11	53		Land	Land			
+64593	RC-4852-ZR	520000	2019-11-18					False	False	21	14		Land	Land			624
+64594	VG-7667-FR	590000	2018-07-13					False	False	13	14		Land	Land			618
+64595	VA-0485-BA	600000	2017-04-19					False	False	22	14		Land	Land			644
+64597	SZ-8974-LS	590000	2017-06-14					False	False	24	14		Land	Land			615
+64598	AE-4378-IF	560000	2018-01-30					False	False	25	14		Land	Land			540
+64599	NP-4228-WA	590000	2018-08-10					False	False	1	14		Land	Land			613
+64600	TY-0424-KU	455000	2019-04-18					False	False	7	13		Land	Land			482
+64602	GO-3331-UB	455000	2019-04-18					False	False	6	13		Land	Land			482
+64607	EF-4733-AO	521000	2015-10-17					False	False	3	22		Land	Land			646
+64608	WH-8698-DG	425000	2016-01-27					False	False	2	22		Land	Land			651
+64609	MJ-8421-MO	555000	2018-05-09					False	False	1	22		Land	Land			579
+64610	AQ-2202-IH	610000	2017-05-29					False	False	32	22		Land	Land			
+64611	KY-3225-JF	585000	2017-10-11					False	False	31	22		Land	Land			
+64612	LL-8241-KK	610000	2018-02-26					False	False	30	22		Land	Land			
+64613	JT-9245-TN	450000	2018-02-08					False	False	11	45		Land	Land			
+64614	UJ-9629-AH	560000	2017-06-13					False	False	29	22		Land	Land			
+64615	PJ-6709-BS	850000	2019-07-25	Capital Partner Real Estate	820	2019	40	True	False	12	45	2	House	House	2	4	
+64616	KD-2640-WP	550000	2018-06-05					False	False	28	22		Land	Land			
+64617	MJ-4202-SB	825000	2019-06-07					False	False	13	45		House	House			
+64618	TH-1807-XZ	490000	2018-03-01					False	False	27	22		Land	Land			
+64619	QG-7472-NU	890000	2019-08-19					False	False	14	45	2	House	House	2	4	
+64620	BZ-7025-DK	550000	2019-03-19					False	False	26	22	2	House	House	3	4	
+64621	QT-0543-RG	610000	2018-03-09					False	False	25	22		Land	Land			
+64622	RK-1248-KH	570000	2017-10-31					False	False	10	44		Land	Land			
+64623	TM-9781-BA	570000	2018-04-10					False	False	24	22		Land	Land			
+64624	NX-9297-WL	510000	2017-11-08					False	False	11	44		Land	Land			
+64625	CS-1813-DH	590000	2017-12-12					False	False	12	44		Land	Land			
+64626	TW-9609-CV	520000	2015-10-17					False	False	4	22		Land	Land			651
+64628	YR-1032-XK							False	False	5	42		House	House			
+64629	GF-2264-PV	390000	2017-03-02					False	False	3	42		Land	Land			
+64630	PM-6979-RF	445000	2019-03-15					False	False	2	42		Land	Land			
+64633	TO-7782-JN	385000	2016-09-10					False	False	9	42		Land	Land			
+64634	EM-3263-BR	445000	2018-03-01					False	False	8	42		Land	Land			
+64653	NZ-6680-IZ	440000	2018-08-27					False	False	8	55	2	House	House	3	3	
+64654	VE-9182-IB	510000	2018-03-16					False	False	10	57		Land	Land			
+64659	YV-7816-FG	490000	2018-10-04					False	False	13	57	2	House	House	2	4	
+64660	LW-5752-TL	530000	2017-11-21					False	False	6	55		Land	Land			
+64661	GT-2036-OY	530000	2018-07-13					False	False	12	57		Land	Land			
+64662	PR-6746-PL	530000	2017-05-18					False	False	7	55		Land	Land			
+64663	HB-4273-GZ	450000	2018-04-06					False	False	11	57		Land	Land			
+64664	TS-8199-KR	395000	2016-03-29					False	False	21	10	2	Land	Land	2	3	483
+64665	LB-7274-DP	410000	2015-12-01					False	False	13	19		Land	Land			544
+64666	UA-5120-CO	450000	2016-08-17					False	False	16	10	2	House	House	2	4	540
+64667	WN-6995-TN	425000	2016-08-26	One Agency Kercher Properties	860	2019	49	True	False	14	19	2	House	House	2	4	483
+64668	AY-5226-ZJ	415000	2016-06-14					False	False	15	10		Land	Land			540
+64670	TS-7844-MO	450000	2016-08-09					False	False	14	10	2	Land	Land	2	4	540
+64671	HN-8283-NU	470000	2015-10-17					False	False	16	19	2	Land	Land	2	4	500
+64672	TQ-5937-HO	455000	2016-06-21					False	False	13	10	2	Land	Land	2	4	503
+64673	RU-3360-HS	460000	2017-07-25					False	False	12	10		Land	Land			480
+64676	QW-3028-QO	859620	2016-12-19	One Agency Scott Crossman	800	2019	23	True	False	11	10	2	House	House	2	4	480
+64678	NW-1581-YJ	1015000	2019-08-13					False	False	10	10	2	House	House	2	5	540
+64680	LB-6459-RT	510000	2018-04-26					False	False	9	10		Land	Land			600
+64682	BU-6011-WO	965000	2019-10-15					False	False	8	10	2	House	House	2	4	600
+64683	OG-9876-BB	495000	2018-01-31					False	False	7	10		Land	Land			480
+64684	GP-4351-LI	415000	2016-01-27					False	False	20	10		Land	Land			540
+64685	DZ-9034-TS	275000	2017-04-05					False	False	9	17	2	House	House	2	3	250
+64686	GL-1546-NE	455000	2019-04-18					False	False	6	10	2	House	House	2	4	480
+64687	XH-9930-GZ	695000	2018-09-12					False	False	10	17	2	House	House	3	3	250
+64688	SO-0789-QQ	435000	2017-12-01					False	False	5	10	2	Land	Land	2	4	480
+64689	BF-2076-IS	710000	2018-08-06					False	False	11	17	2	House	House	3	3	250
+64690	FR-5151-GG	890000	2018-06-21					False	False	4	10	2	House	House	2	4	540
+64691	FW-3359-JX	690000	2018-08-21					False	False	12	17		House	House			250
+64692	SN-1085-GW	450000	2017-09-05	McGrath Estate Agents	0	2020	325	True	False	3	10	2	House	House	2	4	480
+64694	BS-5434-XC	410000	2016-03-17					False	False	10	19		Land	Land			536
+64696	VU-4689-VX	435000	2019-11-15					False	False	1	10		Land	Land			498
+64700	JG-3071-MN	415000	2016-07-11					False	False	19	10		Land	Land			533
+64701	FN-8853-ND	400000	2016-05-17					False	False	11	19		House	House			483
+64702	PG-4003-BK	429000	2017-03-09	LJ Hooker Kaleen	0	2019	77	True	False	18	10	2	Land	Land	3	5	540
+64703	GL-6246-QD	410000	2015-12-14					False	False	12	19		Land	Land			544
+64704	DM-2127-FU	415000	2016-06-16					False	False	17	10		Land	Land			540
+64714	XJ-2923-PI	5765950	2018-06-20					False	False	10	59		Land	Land			
+64729	HP-0477-QI	555000	2015-11-04					False	False	16	17		Land	Land			545
+64730	IO-8468-HW	545000	2017-06-02					False	False	4	16		Land	Land			480
+64731	AT-2345-WC							False	False			2	House	House	2	4	
+64732	OR-1090-LC	545000	2016-10-21					False	False	3	16	4	House	House	3	4	480
+64733	FT-3364-FW	545000	2017-10-24					False	False	18	17		Land	Land			484
+64734	UE-7215-MG	450000	2015-10-13					False	False	2	16		Land	Land			645
+64735	KB-4636-MM	450000	2015-10-14					False	False	1	17	2	House	House	3	5	650
+64738	ZB-3483-JX							False	False	7	16		House	House			480
+64739	WT-2498-MW	540000	2016-07-22					False	False	14	17		Land	Land			545
+64740	FV-4715-JQ	565000	2016-11-25					False	False	6	16		Land	Land			540
+64741	GW-9517-SH							False	False			2	House	House	2	1	
+64742	QO-9318-QX	555000	2016-10-24					False	False	5	16		Land	Land			540
+64744	NZ-9236-RR	470000	2018-08-23	Luton Properties - Manuka	865	2019	105	True	False	9	60	2	House	House	2	4	
+64745	YC-1584-GW	460000	2018-05-24					False	False	10	60		Land	Land			
+64746	TT-3092-JQ	450000	2018-02-28					False	False	11	60		Land	Land			
+64747	JM-2762-VS	475000	2018-04-10					False	False	4	61		Land	Land			
+64748	DW-3191-SZ	535906	2019-02-05					False	False	12	60		Land	Land			
+64749	DK-1857-CU			Manage Me - Property Sales	0	2019	76	False	False	3	61	2	House	House	2	4	
+64750	KD-7552-GQ	520000	2018-02-28	Manage Me - Property Rentals	850	2019	57	True	False	13	60	2	House	House	2	4	
+64751	KT-1125-ZB	510000	2018-02-28					False	False	2	61		Land	Land			
+64752	EJ-2974-NE	400000	2019-02-28					False	False	5	60		Land	Land			
+64753	SN-3481-MK	540000	2018-02-28					False	False	14	60		Land	Land			
+64754	ER-7265-MD	470000	2018-04-10					False	False	1	61		Land	Land			
+64755	JW-4898-CA			Manage Me - Property Sales	0	2019	28	False	False	15	60	2	House	House	2	4	
+64756	RT-6369-GZ	450000	2017-12-06					False	False	6	60		Land	Land			
+64757	LW-5421-KI	510000	2017-11-28					False	False	7	60		Land	Land			
+64758	PR-8097-XR	550000	2017-06-02					False	False	8	60		Land	Land			
+64781	GO-7883-GL	460000	2017-09-26					False	False	1	20		Land	Land			515
+64782	FV-7155-ST	405000	2016-04-06					False	False	4	18		Land	Land			545
+64783	UQ-4125-CV	456000	2017-03-28					False	False	3	18	2	Land	Land	2	4	484
+64784	OP-7569-KG	570000	2016-09-08					False	False	2	18	2	House	House	4	5	650
+64785	NQ-3843-WU	460000	2015-10-17					False	False	8	18		Land	Land			484
+64786	WH-7277-NT							False	False	1	19		House	House			500
+64787	KA-9124-DE	410000	2016-03-31					False	False	7	18		Land	Land			545
+64788	OM-7039-FO	1260000	2018-02-01					False	False	6	18	2	House	House	3	4	545
+64789	WA-8845-ZV	475000	2015-10-17					False	False	5	18		Land	Land			484
+64790	GN-1829-NE	480000	2019-08-15					False	False	6	11		Land	Land			540
+64792	HX-2125-PQ							False	False			2	House	House	3	4	
+64793	LQ-1282-IO	535000	2016-04-14					False	False	3	11		Land	Land			510
+64795	RF-7490-FN	570000	2018-06-14					False	False	2	11		Land	Land			625
+64796	WY-7364-VN							False	False	14	16		House	House			480
+64797	GW-6489-UQ	565000	2017-08-04					False	False	15	16		House	House			
+64799	UK-6691-UY	540000	2018-06-19					False	False	5	15		Land	Land			480
+64800	AX-2849-UA	540000	2018-02-07					False	False	17	16		Land	Land			480
+64801	IL-8935-GV	540000	2017-07-03					False	False	4	15		Land	Land			480
+64802	FV-5194-NQ	540000	2017-11-14					False	False	18	16		Land	Land			480
+64803	MA-6752-ZW	420000	2016-08-31					False	False	3	15		Land	Land			480
+64805	DW-4720-NW	450000	2015-10-16					False	False	1	16		Land	Land			645
+64806	RZ-8311-EB	420000	2015-10-02					False	False	2	15		Land	Land			480
+64807	DH-6802-VP	470000	2015-10-02					False	False	1	15		Land	Land			600
+64808	PH-6482-CS	460000	2016-11-22					False	False	32	21		Land	Land			611
+64811	DO-2420-UY	450000	2019-11-01					False	False	14	9		Land	Land			540
+64813	KM-9134-HZ	470000	2018-04-04					False	False	21	22	2	Land	Land	3	4	
+64814	VT-5588-LF	540000	2017-09-18					False	False	42	15		Land	Land			
+64815	KL-2035-KJ	470000	2018-07-02					False	False	22	22	2	Land	Land	2	4	
+64816	YC-4308-OB	470000	2017-09-27					False	False	41	15		Land	Land			
+64817	IQ-6798-XK	500000	2017-12-19					False	False	23	22		Land	Land			
+64818	FX-2394-YE	470000	2017-02-15					False	False	40	15		Land	Land			
+64819	IX-6196-ZJ	540000	2017-05-18					False	False	39	15		Land	Land			
+64820	LC-6796-MZ	485000	2019-10-15					False	False	9	11		Land	Land			540
+64821	ZF-0940-AF	540000	2018-08-30					False	False	38	15		Land	Land			
+64822	ZF-6806-JC	465000	2017-02-01					False	False	13	44		Land	Land			
+64823	JM-5093-KI	520000	2017-08-08					False	False	37	15		Land	Land			
+64824	JI-5955-HR	540000	2017-11-23					False	False	14	44		Land	Land			
+64825	ZJ-4764-CQ	470000	2018-02-20					False	False	15	44		Land	Land			
+64826	GA-8750-BW							False	False			2	Land	Land	2	4	
+64827	ZG-8086-CS	470000	2018-08-13					False	False	16	44		Land	Land			
+64828	ZR-7645-ZQ	440000	2017-04-26					False	False	35	15		Land	Land			
+64829	KC-1961-IR	500000	2017-03-24					False	False	1	9		Land	Land			618
+64831	AP-1331-EZ	430000	2017-03-06					False	False	34	15		Land	Land			
+64832	AN-8501-WD	455000	2019-05-02					False	False	18	44		Land	Land			
+64833	OY-2447-IG	470000	2017-02-23					False	False	33	15		Land	Land			
+64834	PB-5615-ZJ	470000	2018-07-27					False	False	19	44		House	House			
+64835	PG-3781-UR	490000	2017-08-24					False	False	32	15		Land	Land			
+64836	TJ-4471-QF	620000	2018-11-15					False	False	1	44		Land	Land			
+64837	AA-6877-PF	520000	2019-07-18					False	False	31	15		Land	Land			
+64838	BF-1397-FK	465000	2019-09-03					False	False	8	11	2	Land	Land	3	4	540
+64841	OO-0684-KN	470000	2019-06-06					False	False	7	11		Land	Land			458
+64843	WY-7364-VN							False	False	14	16		House	House			
+64844	GW-6489-UQ	565000	2017-08-04					False	False	15	16		House	House			
+64846	AX-2849-UA	540000	2018-02-07					False	False	17	16		Land	Land			
+64847	FV-5194-NQ	540000	2017-11-14					False	False	18	16		Land	Land			
+64848	DW-4720-NW	450000	2015-10-16					False	False	1	16		Land	Land			
+64849	PH-6482-CS	460000	2016-11-22					False	False	32	21		Land	Land			
+64850	DO-2420-UY	450000	2019-11-01					False	False	14	9		Land	Land			
+64851	KC-1961-IR	500000	2017-03-24					False	False	1	9		Land	Land			
+64916	XU-7102-HY	620000	2018-12-07					False	False	21	50		Land	Land			
+64917	FS-5586-WP	640000	2018-12-14					False	False	20	50		Land	Land			
+64918	WY-9810-CN	480000	2017-11-24					False	False	19	50		Land	Land			
+64920	XB-9435-EP	520000	2018-11-23					False	False	18	50		Land	Land			
+64922	XJ-3815-IO	440000	2019-07-24					False	False	16	50		Land	Land			
+64924	IX-0861-SG	450000	2019-02-21					False	False	14	50		House	House			
+64925	XH-2796-JR	530000	2019-01-21					False	False	13	50		Land	Land			
+64927	WA-7352-ZZ	460000	2018-04-09					False	False	12	50		Land	Land			
+65055	NP-9474-PX	450000	2016-09-01					False	False	15	53		Land	Land			
+65057	WR-2459-CO	450000	2016-09-01					False	False	14	53		Land	Land			
+65059	KL-0721-UC	420000	2018-06-21					False	False	13	53	2	Land	Land	2	3	
+65061	PB-6113-FP	470000	2018-02-08					False	False	12	53		Land	Land			
+65069	TN-2069-HT	410000	2019-09-25					False	False	1	55		Land	Land			
+65070	FN-5983-BP							False	False	8	54		House	House			
+65071	NQ-6625-NU	495000	2018-11-14					False	False	10	55		Land	Land			
+65072	YC-6177-XL	520000	2017-11-29					False	False	9	54		Land	Land			
+65073	CH-0311-YW							False	False	10	54	2	House	House	2	3	
+65074	UL-8875-AN	460000	2018-08-02					False	False	11	54		Land	Land			
+65079	FL-4185-JN							False	False	6	54		House	House			
+65080	GM-0532-RD	520000	2018-10-10					False	False	12	55		Land	Land			
+65081	IG-7738-EO	460000	2017-11-10					False	False	7	54		Land	Land			
+65082	OQ-6697-RV	495000	2019-10-16					False	False	11	55		Land	Land			
+65083	GA-3128-BS	675000	2018-02-12					False	False	6	15	2	House	House	3	3	248
+65084	ZA-1074-WR	714000	2018-02-26					False	False	7	15	4	House	House	2	3	250
+65085	FL-1202-UB	714000	2018-06-21					False	False	8	15	2	House	House	3	3	250
+65086	KG-4085-ZZ	699000	2018-04-05					False	False	9	15		House	House			248
+65124	TN-3117-RB	420000	2016-09-10					False	False	1	45		Land	Land			
+65125	FL-7895-ZZ	479000	2018-04-26					False	False	6	44		Land	Land			
+65126	NV-6638-SK	500000	2016-09-10					False	False	16	45		Land	Land			
+65127	XZ-0777-IB	520000	2017-10-30					False	False	7	44		Land	Land			
+65128	YU-3570-RK	470000	2018-02-08					False	False	15	45		Land	Land			
+65129	ZI-2850-AV	460000	2017-12-08					False	False	8	44		Land	Land			
+65130	UP-1780-EZ	560000	2017-11-13					False	False	9	44		Land	Land			
+65132	CJ-3902-PU	510000	2017-02-07					False	False	20	45		Land	Land			
+65133	TB-9806-SR	460000	2017-03-07					False	False	3	44		Land	Land			
+65134	XI-4483-ND	500000	2016-09-10					False	False	19	45		Land	Land			
+65136	ET-0317-DI	440000	2016-09-10					False	False	18	45		Land	Land			
+65137	BZ-1774-HQ	460000	2018-10-10					False	False	5	44		Land	Land			
+65138	GT-8598-WK	500000	2016-09-10					False	False	17	45		Land	Land			
+65140	YE-3829-BZ	510000	2018-11-07					False	False	14	13		Land	Land			557
+65142	SU-5957-DC	590000	2016-08-19					False	False	16	13		Land	Land			806
+65143	RK-1154-DD	545000	2017-07-20					False	False	10	13		Land	Land			625
+65144	QW-6796-WJ	505000	2017-11-06					False	False	5	12		Land	Land			
+65145	AA-1572-BH	475000	2018-12-11					False	False	11	13		Land	Land			482
+65147	SB-8748-WZ	455000	2019-08-09					False	False	12	13		Land	Land			482
+65148	KM-3479-OE	435000	2019-05-28					False	False	3	12		Land	Land			405
+65163	WD-1719-HS	460000	2019-05-03					False	False	8	19		Land	Land			494
+65164	ZE-2441-KV	920000	2018-04-12					False	False	13	20		House	House			540
+65165	UI-7880-VV	419990	2016-11-18					False	False	3	19		Land	Land			483
+65166	PE-8510-JU							False	False	14	20		House	House			480
+65167	UG-9808-KB	419000	2017-07-26					False	False	2	19	2	Land	Land	2	4	500
+65169	HN-2424-YU	460000	2016-08-04					False	False	16	20	0	House	House	2	4	497
+65170	HB-4380-UY	465000	2016-06-21					False	False	9	20		Land	Land			543
+65171	PI-4620-GQ	456000	2018-11-20					False	False	7	19		Land	Land			536
+65172	BK-8002-TX	420000	2015-12-17					False	False	10	20		Land	Land			540
+65173	EY-5859-FW							False	False				Land	Land			
+65174	ZY-6387-GF	410000	2016-06-28					False	False	11	20	2	Land	Land	3	4	480
+65175	BV-9127-KY	506000	2015-10-17					False	False	5	19		Land	Land			544
+65176	ZZ-6810-XI	435000	2017-02-14					False	False	12	20	2	Land	Land	2	3	480
+65177	LB-8579-XT	945000	2019-08-08					False	False	4	19	2	House	House	2	4	544
+65185	OT-7344-JW	585000	2019-08-09					False	False	3	14		Land	Land			774
+65212	IN-6766-RF							False	False			2	House	House	2	4	
+65213	UT-3424-PB							False	False	13	64		House	House			
+65214	JC-7105-OA	510000	2018-01-11					False	False	12	64		Land	Land			
+65216	JL-3070-AG	610000	2017-07-13					False	False	11	64		Land	Land			
+65217	AL-5533-KM							False	False	11	62		House	House			
+65218	KA-3972-MS	470000	2018-08-27					False	False	12	62		Land	Land			
+65219	EJ-1259-KP	460000	2018-09-28					False	False	10	63		Land	Land			
+65222	QE-1398-BK	440000	2018-09-11					False	False	15	62		Land	Land			
+65223	MG-2726-QH	450000	2018-06-29					False	False	14	61		Land	Land			
+65225	XS-3313-LM	430000	2018-06-07					False	False	13	61		Land	Land			
+65227	SM-7118-WR	460000	2017-06-23					False	False	17	64		Land	Land			
+65228	LK-8510-EE							False	False	18	62		House	House			
+65229	SJ-0982-VP	430000	2018-04-09					False	False	7	61		Land	Land			
+65230	NC-5019-KI	550000	2018-08-10					False	False	19	62		Land	Land			
+65231	OA-3032-MN							False	False	6	61		House	House			
+65232	SC-8549-GT	490000	2018-05-23					False	False	5	61		House	House			
+65233	TA-4039-LO	480000	2017-08-30					False	False	11	63		Land	Land			
+65234	XI-5849-NJ							False	False	16	64		House	House			
+65235	ME-2069-QU	480000	2018-11-28					False	False	12	63		Land	Land			
+65236	EK-3580-GT	520000	2018-04-27					False	False	15	64		Land	Land			
+65237	GZ-8200-HO	450000	2017-03-20					False	False	14	64		Land	Land			
+65239	JG-8758-KN	490000	2019-09-12					False	False	19	11		House	House			540
+65241	YL-0729-YZ	555000	2017-10-06					False	False	21	11		Land	Land			540
+65243	BK-0331-BZ	570000	2017-06-29					False	False	1	11		Land	Land			625
+65244	LE-4747-AU	525000	2017-02-02					False	False	9	13		Land	Land			540
+65245	FR-0444-OI	545000	2017-03-28					False	False	8	13		Land	Land			618
+65246	WM-7978-QV							False	False			2	House	House	2	4	
+65249	JL-3704-TE	550000	2017-07-21					False	False	12	14		House	House			540
+65251	AI-8682-OG	590000	2017-06-08					False	False	11	14		Land	Land			618
+65281	DK-1730-HA	550000	2017-08-30					False	False	17	11		House	House			540
+65289	GP-4907-AS	400000	2016-03-15					False	False	23	25		Land	Land			641
+65290	TP-2134-XP	495000	2015-11-29					False	False	5	24		Land	Land			771
+65291	FU-5856-ZF	995000	2017-07-31					False	False	18	25	2	House	House	3	4	579
+65292	LE-7836-HD	495000	2015-11-29					False	False	6	24		Land	Land			779
+65293	BG-7351-ZI	988000	2019-04-08					False	False	17	25		House	House			543
+65294	TO-2163-EI	515000	2016-05-16					False	False	7	24		House	House			787
+65295	LF-2875-SL	395000	2016-04-28					False	False	16	25		Land	Land			579
+65296	WB-9003-WM	533000	2015-10-17					False	False	8	24		Land	Land			794
+65297	JB-0634-FX	380000	2016-04-22					False	False	15	25	2	House	House	2	4	514
+65298	VF-2008-WK	539990	2017-10-20					False	False	9	24		Land	Land			802
+65299	BX-4922-AQ							False	False	14	25		House	House			514
+65300	PH-8409-YV	400000	2016-10-12					False	False	10	24		Land	Land			810
+65301	IV-7007-YA	430000	2015-10-16					False	False	13	25		Land	Land			708
+65302	PX-1049-FI	1300000	2019-07-19					False	False	12	25		House	House			650
+65303	UJ-8859-BX	380000	2016-01-29					False	False	11	25		Land	Land			708
+65304	NC-6297-QT	650000	2018-03-16					False	False	11	49		Land	Land			
+65305	SQ-3447-GI	470000	2017-04-04					False	False	10	25	2	House	House	3	4	514
+65306	SL-0384-YJ	630000	2017-07-20					False	False	10	49		Land	Land			
+65307	TU-0486-SX	475000	2017-02-09	Harcourts Prime Residential	1250	2019	96	True	False	9	25	2	House	House	3	5	514
+65308	CA-4048-TX	1035000	2019-07-30					False	False	22	25	2	House	House	3	4	579
+65309	MV-6599-BL	660000	2016-11-25					False	False	9	49		Land	Land			
+65310	IW-4367-KM	440000	2016-06-22					False	False	8	25		Land	Land			579
+65311	SL-3541-PW	598000	2016-09-10					False	False	8	49		Land	Land			
+65312	QR-4882-KM	451000	2019-08-08					False	False	7	25		Land	Land			543
+65313	NA-5593-XM		2020-01-15					False	False	7	49		Land	Land			
+65314	EB-4832-RE	450000	2019-04-17					False	False	6	25		Land	Land			543
+65315	SD-4019-CP	620000	2016-12-16					False	False	6	49		Land	Land			
+65316	SE-1635-DW	480000	2018-02-01					False	False	5	25		Land	Land			514
+65317	SL-9650-CW	545000	2016-10-20					False	False	5	49		Land	Land			
+65318	VJ-9447-JC							False	False	4	25	2	House	House	2	4	514
+65319	JF-4954-MN	539000	2015-10-17					False	False	2	24		Land	Land			748
+65320	MY-1954-LT	620000	2016-11-30					False	False	4	49	4	House	House	2	4	
+65321	IV-3933-IV	463000	2015-10-17					False	False	3	25		Land	Land			579
+65322	SH-9420-AA	575000	2017-10-27					False	False	3	49		Land	Land			
+65323	TP-1798-FS	485000	2016-12-15					False	False	2	25		Land	Land			579
+65324	MW-2494-RR	575000	2018-01-10					False	False	2	49		Land	Land			
+65325	SG-5848-PO	600000	2016-10-20					False	False	1	49		Land	Land			
+65326	JF-5291-MN	488795	2016-11-25					False	False	21	25		Land	Land			579
+65327	JV-0066-PY	515000	2016-08-08					False	False	3	24		Land	Land			756
+65328	KX-6473-AC	380000	2016-03-29					False	False	20	25		Land	Land			514
+65329	NQ-4575-ZK	510000	2016-03-15					False	False	4	24		Land	Land			764
+65330	UO-7568-VC	958000	2019-07-26					False	False	19	25	2	House	House	2	5	514
+65339	CV-4359-QC	405000	2018-12-20					False	False	6	63		Land	Land			
+65343	YE-4998-FM	450000	2018-04-09					False	False	2	63	2	House	House	3	5	
+65345	JN-0801-KG	260000	2019-02-28					False	False	4	60		Land	Land			
+65346	ZO-9168-XS	260000	2014-02-28					False	False	3	60		Land	Land			
+65347	FT-2948-PW	260000	2019-02-28					False	False	2	60		Land	Land			
+65350	AG-9112-ML	395000	2016-03-29					False	False	10	8		Land	Land			618
+65351	JE-8559-LI	440000	2017-03-02					False	False	26	10		House	House			444
+65352	ON-9544-NF	1020000	2019-07-12					False	False	5	8		House	House			640
+65353	LC-7590-JR	360000	2016-01-05					False	False	27	10		Land	Land			450
+65354	TP-1919-AD	395000	2016-03-29					False	False	4	8		Land	Land			640
+65355	DI-1589-JK	365000	2016-02-29					False	False	28	10		Land	Land			450
+65356	JD-1593-AM	539900	2019-10-04					False	False	3	8		Land	Land			640
+65357	PD-6483-NF	780000	2018-10-10					False	False	29	10		House	House			375
+65358	IZ-1805-RJ	995000	2019-08-29					False	False	2	8	2	House	House	2	4	547
+65359	JN-8274-HA	365000	2017-05-04					False	False	30	10		Land	Land			375
+65361	OW-6568-GP	410000	2018-08-13					False	False	22	10		Land	Land			400
+65362	LS-5898-JI	1025000	2019-02-06					False	False	31	10	2	House	House	2	4	375
+65364	DZ-4464-CJ	360000	2016-08-15					False	False	32	10		Land	Land			450
+65366	WR-8338-WT							False	False			0	Land	Land	2	4	
+65367	CV-9738-LM	495000	2017-06-15					False	False	5	9		Land	Land			
+65368	LJ-1768-ON	440000	2015-10-17					False	False	34	10		Land	Land			415
+65369	PC-1732-KQ	495000	2016-04-27					False	False	4	9		Land	Land			600
+65370	FS-7093-OM	465000	2015-10-17					False	False	35	10	2	Land	Land	2	4	479
+65371	QC-1300-NH	510000	2016-03-31					False	False	3	9		Land	Land			600
+65372	JD-3035-MG	475000	2019-02-06					False	False	9	8		Land	Land			563
+65373	WS-5930-ZP	475000	2019-05-15					False	False	36	10	2	Land	Land	2	4	479
+65374	GO-9181-GG	1125000	2019-09-12					False	False	2	9	3	House	House	3	4	600
+65375	GF-8112-SZ							False	False	37	10		House	House			330
+65376	NS-5868-WR	440000	2017-03-30					False	False	38	10		Land	Land			400
+65377	HT-7520-JP	440000	2016-11-22					False	False	39	10		Land	Land			400
+65378	QD-4979-DF	440000	2016-11-25					False	False	40	10		Land	Land			401
+65379	WU-0423-KW	764000	2018-04-10					False	False	23	10		House	House			375
+65380	FR-4035-XR							False	False	41	10		House	House			330
+65381	PV-5457-MH	390000	2018-11-01					False	False	42	10		Land	Land			330
+65382	KZ-8166-LP							False	False	43	10		House	House			330
+65383	PP-2556-SC	425000	2017-08-09					False	False	44	10		Land	Land			400
+65384	JA-4932-KG	395000	2016-03-29					False	False	8	8		Land	Land			640
+65385	ZC-7698-TE	764000	2018-04-10					False	False	24	10		House	House			375
+65386	IX-1784-UZ	395000	2016-03-29					False	False	7	8		Land	Land			640
+65387	AA-2833-LB	764000	2018-04-10					False	False	25	10		House	House			375
+65388	TS-4352-DL	395000	2016-03-29					False	False	6	8		Land	Land			640
+65389	SC-8638-HM	520000	2016-12-13					False	False	9	47		Land	Land			
+65390	FS-3447-IK	480000	2018-03-09					False	False	1	47		Land	Land			
+65391	GN-3812-YY							False	False	8	46		Land	Land			
+65392	DH-8884-GM	430000	2017-11-02					False	False	7	46		Land	Land			
+65393	AD-1190-SQ	430000	2018-06-07					False	False	6	46		Land	Land			
+65394	GL-1638-OQ	470000	2018-07-06	Capital Partner Real Estate	760	2019		True	False	5	46	2	House	House	3	4	
+65395	QG-1677-PR	470000	2018-06-07					False	False	4	46		Land	Land			
+65396	MG-4510-MX	560000	2017-12-20					False	False	3	46		Land	Land			
+65397	TC-8918-CV							False	False	6	47		House	House			
+65398	MG-7120-UI	540000	2019-08-02					False	False	7	47		Land	Land			
+65399	LM-5150-RX	535000	2019-10-10					False	False	8	47		Land	Land			
+65400	QK-0696-SZ	435000	2017-05-22					False	False	11	24		Land	Land			810
+65401	TV-8740-NG	555000	2015-10-17					False	False	12	24		Land	Land			802
+65402	GM-2965-MZ	560000	2015-10-17					False	False	13	24		Land	Land			794
+65403	DS-3701-CT	440000	2016-09-29					False	False	14	24	2	Land	Land	2	4	787
+65404	KE-1656-FS	450000	2016-04-04					False	False	15	24		Land	Land			779
+65405	WD-8234-NR	450000	2016-03-04					False	False	16	24		Land	Land			771
+65406	LP-3740-LT	450000	2016-03-17					False	False	17	24		Land	Land			764
+65407	KC-0456-RU	450000	2016-03-08					False	False	18	24		Land	Land			756
+65408	NU-9565-LV	450000	2016-04-01					False	False	19	24		Land	Land			748
+65409	TO-2781-QB	390000	2015-12-18					False	False	9	23		Land	Land			485
+65410	TZ-5373-MN	499990	2016-12-06					False	False	7	20	2	Land	Land	2	4	556
+65411	TQ-7911-SD	550000	2018-04-05					False	False	10	23		House	House			615
+65412	FN-2027-NU							False	False			2	House	House	2	3	
+65413	JI-9530-GC	405000	2016-07-27					False	False	5	20		Land	Land			
+65414	TK-7022-WY	445000	2017-04-18					False	False	17	21	2	Land	Land	3	4	643
+65415	HK-0781-CC	490000	2016-04-27					False	False	4	20		Land	Land			558
+65416	ON-6335-KP	985115	2016-06-15					False	False	18	21		House	House			656
+65417	BZ-8580-CG	930000	2018-10-02					False	False	3	20	2	House	House	2	4	496
+65418	BV-8565-BD	450000	2016-03-17					False	False	19	21		Land	Land			651
+65419	OV-7155-ED	470000	2019-03-07					False	False	2	20		Land	Land			512
+65420	IG-8542-QQ	450000	2016-06-01					False	False	20	21		Land	Land			656
+65421	LZ-9040-QG							False	False	21	21	2	House	House	2	5	583
+65423	WL-9830-VU	565000	2016-06-08					False	False	23	21		Land	Land			583
+65424	ZI-2190-HB	585000	2016-12-20					False	False	24	21		Land	Land			659
+65425	BB-1125-AY	1075000	2018-01-25					False	False	25	21		House	House			656
+65426	HJ-8516-HT	1100000	2018-05-14					False	False	26	21		House	House			590
+65427	IU-1642-MB	950000	2019-06-27					False	False	27	21	2	House	House	2	4	524
+65428	DP-0770-UV	425000	2015-10-16					False	False	28	21	2	House	House	2	4	524
+65429	PG-8719-GK	425000	2015-10-16					False	False	29	21	2	House	House	3	4	525
+65430	EE-8021-XM	998000	2019-09-23					False	False	30	21	2	House	House	4	4	524
+65431	JB-9544-BK	1277500	2018-06-27					False	False	31	21	2	House	House	2	4	524
