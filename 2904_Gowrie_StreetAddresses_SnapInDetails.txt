@@ -1,0 +1,1177 @@
+StreetAddressID	DomainPropertyId	LastSalePrice	LastSaleDate	LastRentalAgency	LastRentalPrice	LastRentalYear	RentDaysOnMarket	isPotentialInvestment	isPropertyInBuilding	lotNumber	planNumber	parking	propertyCategory	propertyType	bathrooms	bedrooms	BlockSize
+152326	OO-7850-JD	197000	2000-04-06					False	False	22	221		House	House			835
+152327	HB-5176-UW							False	False	6	220		House	House			727
+152328	UF-8168-RM	157500	1994-03-18					False	False	21	221		House	House			859
+152329	QM-4721-XD	592500	2019-04-23					False	False	7	220	2	House	House	1	3	742
+152330	CC-8586-JV	420000	2006-10-18					False	False	20	221		House	House			837
+152331	ZD-5681-NH	144000	1993-11-30					False	False	1	219		House	House			699
+152332	IK-7956-YP							False	False				House	House			
+152333	ON-8237-EP	125000	1997-12-04					False	False	2	219	4	House	House	2	3	687
+152334	FQ-2186-XM							False	False				House	House			
+152335	UN-6676-QV	180000	1998-06-03					False	False	1	220		House	House			950
+152336	QG-1648-YE							False	False	3	219		House	House			677
+152337	FN-0712-KB							False	False				House	House			
+152338	KS-8705-VV	720000	2014-10-31					False	False	4	219	2	House	House	2	5	682
+152339	JL-7570-DN							False	False				House	House			
+152340	LC-7403-YU			Sadil Quinlan		2011	14	False	False			0	House	House	1	1	
+152341	ON-4849-XO	156000	1991-10-15					False	False	5	219		House	House			
+152342	EN-3724-RL	470000	2006-12-22					False	False	15	221		House	House		4	765
+152343	QE-5671-AV							False	False				House	House			
+152344	TJ-2501-GA	485000	2017-11-19					False	False	14	221	2	House	House	1	3	905
+152345	BV-7939-NQ	720000	2015-12-12					False	False	7	219	2	House	House	3	4	745
+152346	CC-6371-YH	190000	1992-06-23					False	False	13	221		House	House			920
+152347	QG-3636-EH	600000	2017-11-20					False	False	8	219		House	House			755
+152348	YT-1629-QK	535000	2011-04-20	Maloney's the Estate Agent	1060	2017	66	True	False	9	219	2	House	House	2	4	796
+152349	QF-6158-YI	555000	2015-10-20					False	False	10	219	2	House	House	2	3	940
+152350	EG-8056-QS	160000	1997-06-20					False	False	2	220		House	House			744
+152351	OS-7343-AC	650000	2019-09-03		450	2006	182	False	False	3	220	3	House	House	3	5	755
+152352	IK-7808-DW							False	False				House	House			
+152353	TL-4449-TW	346500	2002-05-01					False	False	4	220	2	House	House	2	4	709
+152354	ML-3990-YU							False	False				House	House			
+152355	RL-2793-LW	335000	2007-12-11					False	False	2	258		Unit	Unit			
+152356	EO-5611-HG	375000	2007-09-21					False	False	5	258		Unit	Unit			
+152357	YS-4115-CX	640000	2018-06-14	Independent Property Management	600	2018	19	True	False	9	258	0	House	House	2	4	936
+152358	VD-7884-RP	137500	1994-08-30					False	False	6	258		House	House			1273
+152359	KB-1654-DA	405000	2008-05-16					False	False	5	258	1	Unit	Unit	1	3	
+152360	FO-2606-HC	141000	1993-07-28	Strictly Rentals	370	2007	21	True	False	2	258	1	House	House	1	3	1134
+152361	VG-9851-LF	530000	2016-09-06					False	False	8	258	1	House	House	2	4	931
+152362	VC-7734-JJ							False	False				House	House			
+152363	YI-8510-ET	539000	2015-03-11					False	False	7	258	3	House	House	2	4	1028
+152364	RE-7434-WJ	645000	2009-12-24	McGrath Woden Property Management	650	2019	10	True	False	4	258	3	House	House	2	4	810
+152366	JA-6797-XA	389000	2004-06-08					False	False	3	255	0	House	House	2	4	859
+152367	OE-1755-YI							False	False				House	House			
+152368	TM-8089-DV	445000	2006-12-19					False	False	6	254		House	House		4	828
+152369	LB-3911-BJ	597500	2017-11-15					False	False	1	255	2	House	House	2	4	742
+152370	VE-6706-LD	135000	1999-11-04					False	False	7	254		House	House			948
+152371	JA-4995-JQ							False	False	8	232		House	House			918
+152372	MU-7727-SU	126000	1999-01-15					False	False	17	231		House	House			735
+152373	RQ-0998-GU	222000	2002-06-21					False	False	3	232		House	House			754
+152374	OQ-4825-CT	520000	2016-05-10					False	False	18	231	2	House	House	1	4	788
+152375	SA-8902-WS	180000	1991-03-06					False	False	2	232		House	House			
+152376	DF-3436-HP	430000	2014-03-29					False	False	19	231	2	House	House	1	3	827
+152377	XK-5039-UG	416500	2009-09-15	Capital First National	385	2009	24	False	False	1	232	2	House	House	2	3	871
+152378	HU-9892-NO	650000	2018-02-12					False	False	13	231	2	House	House	2	4	956
+152379	HY-4712-FC	320000	2005-09-05					False	False	7	232		House	House			700
+152380	TI-6790-SR	140000	1996-03-20					False	False	14	231		House	House			770
+152381	EF-6097-YO			Badenoch Real Estate Sales	400	2011	21	False	False	6	232	1	House	House	1	3	700
+152382	MV-6975-SE							False	False	15	231		House	House			745
+152383	HM-4379-KT	130000	2001-05-01					False	False	5	232		House	House			780
+152384	PZ-5244-CK							False	False				House	House			
+152385	PX-0764-LU							False	False				House	House			
+152386	VC-1336-JK	132500	2000-02-23					False	False	34	234		House	House			815
+152387	YK-6371-WB	160000	1998-04-03					False	False	30	234		House	House			959
+152388	RY-8150-ZC	315000	2003-12-24		330	2006	21	True	False	3	248	1	House	House	1	3	726
+152389	JR-1207-FM							False	False				House	House			
+152390	RY-7286-YM	525000	2012-07-23					False	False	2	248	1	House	House	2	4	679
+152391	UJ-6169-VL	435000	2016-06-24					False	False	32	234	1	House	House	1	3	917
+152392	KK-4169-CQ							False	False				House	House			
+152393	OU-1643-EF	147000	1995-09-25					False	False	33	234		House	House			760
+152394	TQ-3996-VO							False	False				House	House			
+152395	UA-3723-KB	480000	2003-02-04					False	False	12	267		House	House		3	827
+152396	TW-9137-ER							False	False				House	House			
+152397	KY-6316-PV	370000	2001-11-30					False	False	13	267		House	House			967
+152398	EE-8781-CA	420000	2003-09-03					False	False	14	267		House	House			824
+152399	SF-8285-PB	535000	2017-08-28					False	False	14	205	2	House	House	1	3	1079
+152400	WD-8093-MF	655000	2014-07-18	Lovell Residential - Canberra	695	2012	14	False	False	9	205	2	House	House	4	4	1091
+152401	DP-6323-YY	350000	2002-11-11					False	False	8	205		House	House		4	959
+152402	ZG-3564-DU							False	False	4	202		House	House			885
+152403	RQ-5921-PX	141000	1999-11-22					False	False	7	205		House	House			955
+152404	SF-0158-MQ	199000	1999-12-23					False	False	5	202		House	House			921
+152405	MJ-0843-VX	288450	2002-08-02					False	False	6	205		House	House		4	1085
+152406	IW-5076-AA	629000	2013-05-02					False	False	6	202	3	House	House	2	4	797
+152407	DF-1170-RS	555000	2012-11-14					False	False	5	205		House	House		4	884
+152408	WL-5334-FC							False	False	1	204		House	House			1038
+152409	KH-1121-DK	225000	1995-03-01					False	False	7	202		House	House			800
+152410	OE-5527-RR	295500	2000-12-01					False	False	4	205	0	House	House	3	4	1189
+152411	GC-1195-JY							False	False				House	House			
+152412	KG-9207-TQ							False	False	3	205		House	House			
+152413	RQ-6166-YV	732000	2019-02-28					False	False	1	205	2	House	House	2	3	1767
+152414	SG-6843-CK	730000	2019-05-29					False	False	2	205	2	House	House	2	4	987
+152415	VL-4115-SE	400000	2011-07-13	Professionals Woden	480	2011	16	True	False	6	201	2	House	House	1	3	1075
+152416	IZ-6217-EB							False	False				House	House			
+152417	GF-7721-EP							False	False				House	House			
+152418	KM-6787-UM	452000	2014-02-12					False	False	4	201	2	House	House	1	3	766
+152419	HW-2412-LR	540000	2016-06-28					False	False	3	201	2	House	House	1	3	997
+152420	UA-4506-OK	600000	2009-12-15					False	False	2	201	0	House	House	3	4	1310
+152421	CB-3644-OX	688889	2009-01-17					False	False	1	201	5	House	House	2	4	1223
+152422	SH-5499-BD	184000	1997-01-24					False	False	12	205		House	House			1099
+152423	UM-3966-PW	665000	2014-02-05					False	False	11	205	3	House	House	2	4	1422
+152424	YX-1575-ZQ	549950	2014-07-17					False	False	10	204	3	House	House	2	4	937
+152425	UJ-4946-MN	152000	2001-12-20					False	False	10	205		House	House		2	1258
+152426	WH-7790-FX	635000	2013-06-19					False	True	12	226		Unit	Unit			
+152427	TB-7034-PZ	780000	2010-03-12					False	True	12	226	2	Unit	Unit	2	4	
+152428	TI-5531-YS	535000	2017-02-07					False	False	1	285		House	House			929
+152429	WP-3238-AU							False	False				House	House			
+152430	MB-7522-WU	345000	2004-12-03					False	False	3	285		House	House		3	846
+152431	BX-3882-FM							False	False	4	285		House	House			793
+152432	OP-1132-QS	579000	2005-10-10					False	True	12	226		Unit	Unit			
+152433	LY-0246-KP	112000	1997-03-07					False	False	5	285		House	House			782
+152434	MZ-9272-HX	440500	2015-01-13	Elders Woden	340	2005	21	False	False	6	285	2	House	House	2	3	771
+152435	VP-1248-KC	180000	1994-06-28					False	False	7	285		House	House			980
+152436	JN-5986-LC	782000	2020-01-24					False	False	12	226	2	Unit	Unit	2	4	
+152437	CB-3411-GY	2620000	2004-03-16					False	False	2	246		Commercial	Development Site			760
+152438	LB-0372-MP	565000	2006-06-23	Edge Real Estate	680	2018	16	True	True	12	226	2	Unit	Unit	2	4	
+152439	QB-1122-QO	730000	2017-07-29					False	True	12	226	2	Unit	Unit	2	3	
+152440	ZF-1098-GC	641000	2016-02-22					False	False	3	246	2	House	House	2	4	895
+152441	OS-2027-UH	725000	2016-06-07					False	True	12	226	2	Unit	Unit	3	3	
+152442	AA-9006-IP	783000	2016-12-15					False	True	12	226	2	Unit	Unit	3	4	
+152443	KK-1054-UW	470000	2009-02-01					False	False	4	246		House	House			929
+152444	LS-5594-CU							False	False				House	House			
+152445	XL-4351-GV							False	False				House	House			
+152446	EX-1665-JO	675000	2019-01-23	Edge Real Estate	0	2019	33	True	True	12	226	2	Unit	Unit	2	3	
+152448	DT-4474-QD	750000	2019-11-29					False	False			2	House	Townhouse	2	3	
+152449	VX-1889-BX		2010-07-15	Fox PM	580	2017	14	True	False	5	246	2	House	House	2	4	993
+152450	LX-0187-RV	520000	2005-08-30					False	True	12	226		Unit	Unit			
+152451	ZG-3169-LQ	555000	2005-06-30					False	True	12	226		Unit	Unit			
+152452	UV-3387-XM	745000	2015-08-21					False	True	12	226	2	Unit	Unit	2	3	
+152453	OG-1075-PX	625000	2010-07-31					False	False	6	246	0	House	House	3	5	816
+152454	ZM-6421-EW	650000	2015-02-27					False	True	12	226	2	Unit	Unit	2	3	
+152455	YK-4270-ZO	506000	2019-02-20					False	False	8	249	0	House	House	1	3	892
+152456	IM-1276-LK	440000	2005-07-20					False	True	12	226	2	Unit	Unit	2	3	
+152457	SY-4041-TB	159000	1993-08-16					False	False	7	246	2	House	House	3	5	900
+152458	IK-4629-HA	730000	2015-01-22					False	True	12	226	2	Unit	Unit	3	4	
+152459	IH-3705-RZ	705000	2017-09-21					False	True	12	226	2	Unit	Unit	2	3	
+152460	SY-8731-QK	700000	2017-11-01					False	True	12	226	2	Unit	Unit	2	3	
+152461	SV-8853-BF	399000	2005-07-07					False	True	12	226		Unit	Unit			
+152462	TA-2495-WL	740000	2016-04-11					False	True	12	226	2	Unit	Unit	2	3	
+152463	CC-0019-SH	164000	2000-07-03					False	False	1	247		House	House			904
+152464	LF-5469-ZK	710000	2017-09-28	Peter Blackshaw Tuggeranong	540	2016	16	False	True	12	226	2	Unit	Unit	2	3	
+152465	QT-0770-ST	565000	2006-02-21					False	True	12	226		Unit	Unit			
+152466	VE-6286-YR							False	True				Unit	Unit			
+152467	NE-1019-JE							False	False				House	House			
+152468	LQ-6556-NZ	768000	2016-12-29	Independent Property Management	560	2015	54	False	True	12	226	2	Unit	Unit	2	4	
+152469	YF-7312-GI							False	False				House	House			
+152470	VA-3468-UU	390000	2016-04-14					False	False	13	236		House	House			849
+152471	YH-2803-AT							False	False				House	House			
+152472	FS-0701-SE	139999	2001-05-08					False	False	2	238		House	House			1089
+152473	YF-5035-PM							False	False				House	House			
+152474	MP-5064-YO							False	False				House	House			
+152475	RR-2624-EW							False	False				House	House			
+152476	ME-9890-AL	769500	2019-04-18					False	True	12	226	2	Unit	Unit	3	4	
+152477	EE-7084-HR	118000	1997-01-31					False	False	4	238		House	House		3	896
+152478	TJ-6200-RU	261000	2003-09-09					False	False	9	236		House	House			981
+152479	BU-0036-ZU	445000	2005-03-04					False	False	5	238		House	House		4	851
+152480	YF-5421-LB							False	False				House	House			
+152481	AA-3722-DS	615000	2019-07-16					False	False	2	234	4	House	House	2	4	1021
+152482	EF-7936-HD	131500	1997-04-14					False	False	1	234		House	House			927
+152483	KB-5484-QO	565000	2006-05-09					False	True	12	226		Unit	Unit			
+152484	SB-5103-NG	550000	2019-10-19					False	False	13	233	2	House	House	2	4	1115
+152485	HM-7740-TE	660000	2018-08-22					False	False	12	233	2	House	House	3	4	724
+152486	TC-6386-SG							False	False	11	233		House	House			788
+152487	FR-9894-MK	359000	2007-06-26					False	False	1	283	6	House	House	1	3	986
+152488	HM-2812-MD	235160	2002-08-26					False	False	10	233		House	House			996
+152489	FG-4063-TN	730000	2012-10-23					False	True	12	226	2	Unit	Unit	3	4	
+152490	VQ-2212-OZ	182000	1994-11-04					False	False	17	283		House	House			1337
+152491	MP-4959-ZT	562500	2012-03-15					False	False	9	233	2	House	House	2	4	824
+152492	SJ-7053-QF		2019-12-14					False	False	3	283	1	House	House	2	4	826
+152493	LZ-8607-SS	440000	2013-02-28					False	False	4	283		House	House			824
+152494	NR-4461-JL	500000	2012-05-31	Colin McIntyre Property - Chisholm	550	2010	7	False	False	5	283	2	House	House	2	3	
+152495	GA-3287-KS	165000	2001-03-16					False	False	9	232		House	House			978
+152496	YU-8216-FV	650000	2018-03-24					False	False	6	283	8	House	House	2	4	830
+152497	PJ-3694-TJ	625000	2005-05-04	Paul & Robyn Sutton Properties	750	2018	68	True	True	12	226	2	Unit	Unit	3	4	
+152498	PY-4279-PR							False	False				House	House			
+152499	RE-4661-TZ	500000	2018-08-03					False	False	2	284		House	House			940
+152500	IO-2673-BJ							False	False				House	House			
+152501	MA-9282-HO	195000	2002-11-27					False	False	3	284		House	House			823
+152502	AI-0248-TK	477000	2013-04-09					False	False	10	231	2	House	House	1	3	790
+152503	PN-5954-DA	575000	2005-09-22					False	True	12	226		Unit	Unit			
+152504	NA-4436-RV	635000	2019-07-03					False	False	4	284	2	House	House	2	4	841
+152505	TB-0494-QE	535000	2019-06-01	One Agency Sandy Morris	0	2020	125	True	False	9	231	1	House	House	2	3	928
+152506	RD-7360-GG							False	False				House	House			
+152507	TB-6497-JZ	410000	2007-09-29					False	False	6	284		House	House		3	815
+152508	JC-0447-SY	155000	2001-02-28					False	False	7	284		House	House			824
+152509	LV-6679-QD	125000	1991-02-13					False	False	8	284		House	House			1168
+152510	OJ-8589-UN							False	False				Unit	Unit			
+152511	QK-3110-FX							False	False				House	House			
+152512	FI-1676-IB	129950	2000-11-14					False	False	22	225		House	House			803
+152513	QQ-1592-HB							False	False				House	House			
+152514	QK-6583-BV							False	False				House	House			
+152515	TT-3357-YL	170000	2003-04-23					False	False	4	224			Other Residential			665
+152516	QR-8811-TP							False	False				House	House			
+152517	RN-7695-OY	88000	1998-11-20					False	False	3	224		House	House			1083
+152518	ZE-1737-MA	118000	1993-07-15					False	False	20	225		House	House			785
+152519	FZ-9077-GC	124000	2002-06-14					False	False	2	224		House	House			958
+152520	RO-1340-AP	90000	1998-06-26					False	False	21	225		House	House			813
+152521	QI-8944-UD							False	False				House	House			
+152522	QU-7629-SW	459000	2007-08-21					False	False	5	264		House	House			940
+152523	XZ-8377-LO	550000	2014-04-17					False	False	10	263	2	House	House	2	4	696
+152524	YD-3380-HO	619000	2014-10-16					False	False	11	263	2	House	House	2	5	758
+152525	SV-7263-UW	550000	2015-10-08					False	False	6	263	2	House	House	2	4	884
+152526	DZ-5861-TD	471000	2008-12-17					False	False	4	264		House	House			924
+152527	RE-2408-YR	150000	2001-08-13					False	False	7	263		House	House			840
+152528	PT-1036-XI	495000	2007-02-02					False	False	3	264	2	House	House	1	4	825
+152529	GJ-5292-VJ							False	False	8	263		House	House			840
+152530	SV-9530-YZ							False	False				House	House			
+152531	XG-4472-WS	212500	2002-09-27					False	False	9	263		House	House		6	997
+152532	SW-4584-NG							False	False				House	House			
+152533	SI-7067-IE							False	False				House	House			
+152534	RC-4310-RT							False	False				House	House			
+152535	RI-6103-FA							False	False				House	House			
+152536	RC-4190-BN	457200	2018-11-20					False	False	3	259		House	House			796
+152537	RK-3755-IY							False	False				House	House			
+152538	RG-6997-SU							False	False				House	House			
+152539	RB-8878-AL							False	False				House	House			
+152540	FJ-9809-ZF	99950	1996-12-23					False	False	1	259		House	House			1140
+152541	RC-6648-KQ							False	False				House	House			
+152542	FE-8924-EQ	580000	2015-12-01					False	False	17	213	2	House	House	2	4	802
+152543	SF-0764-GJ	455000	2014-07-10					False	False	3	206		House	House			983
+152544	FE-0036-YJ	202000	1998-03-18					False	False	18	213		House	House			871
+152545	KJ-3692-YD	198000	2000-11-10					False	False	4	206		House	House		4	877
+152546	YZ-5542-MC	143000	1993-05-03					False	False	19	213		House	House			853
+152547	RQ-5227-OP	180000	2001-04-19					False	False	5	206		House	House			803
+152548	OJ-6641-GJ	180000	1999-09-24	LJH Tuggeranong	480	2010		True	False	20	213	4	House	House	2	4	790
+152549	BG-0581-GV	425000	2014-09-17	Colin McIntyre Property - Chisholm	490	2011	28	False	False	6	206	2	House	House	1	3	763
+152550	NB-9134-LC	175000	1995-04-19					False	False	21	213		House	House			862
+152551	KF-7089-KT	640000	2018-08-14	Peter Blackshaw Tuggeranong	510	2016	7	False	False	7	206	2	House	House	2	3	741
+152552	RN-9554-YK	380000	2004-03-17					False	False	1	230		House	House		4	873
+152553	KV-1943-OY	540000	2016-08-27					False	False	22	213	2	House	House	2	3	834
+152554	MC-2416-ZR							False	False	8	206		House	House			771
+152555	BJ-4179-RK							False	False			4	House	House	1	3	
+152556	HO-9345-ES	650000	2019-03-29					False	False	19	212	2	House	House	2	4	953
+152557	WX-5338-AW	390000	2007-03-13					False	False	1	207		House	House			956
+152558	KH-5468-IY	212000	2002-03-28					False	False	2	207		House	House			1081
+152559	EE-1538-RL	390000	2007-02-02					False	False	3	207	2	House	House	1	4	1100
+152560	RU-1300-VA	170000	1996-08-20					False	False	16	211		House	House			840
+152561	BX-4207-GU							False	False				House	House			
+152562	LH-6759-HY							False	False	17	211		House	House			798
+152563	SI-0740-YH							False	False	5	207		House	House			885
+152564	KO-8646-JS	168000	1992-12-08					False	False	18	211		House	House			798
+152565	BO-6123-II							False	False	19	211		House	House			793
+152566	ST-6556-SJ	516000	2012-09-23					False	False	20	211	0	House	House	2	4	791
+152567	BT-6725-FC							False	False	21	211		House	House			793
+152568	UM-7098-UQ							False	False	22	211		House	House			781
+152569	FC-0758-YU	155000	1999-12-23					False	False	23	211		House	House			754
+152570	JY-7175-II	250000	1999-08-13					False	False	24	211	3	House	House	3	4	730
+152571	OB-2969-FA			Wright Dunn Real Estate 	530	2015	98	False	False			2	House	House	2	4	
+152572	WO-6430-SI	333000	2002-04-29					False	False	25	211		House	House		4	739
+152573	UN-2166-PQ	245520	1998-08-21					False	False	26	211		House	House			778
+152574	MS-0051-FT							False	False	27	211		House	House			890
+152575	SF-1182-DW	616000	2012-08-18					False	False	28	211	2	House	House	3	4	876
+152577	ZA-2009-QR							False	False	29	211		House	House			1126
+152578	MV-4748-UU	840000	2017-11-10					False	False	13	220	2	House	House	4	5	922
+152579	TA-2066-HU	170000	2000-07-31					False	False	30	211	2	House	House	2	4	863
+152580	BU-2793-SC	550500	2016-07-29					False	False	12	220	4	House	House	3	4	745
+152581	LA-8533-OC							False	False				House	House			
+152582	KH-3898-WR							False	False	11	220		House	House			755
+152583	YS-9263-HA							False	False	32	211		House	House			775
+152584	ZD-5050-XK	404000	2007-10-09					False	False	10	220		House	House			683
+152585	SE-0923-MN	670000	2016-10-14					False	False	33	211	2	House	House	2	4	771
+152586	QR-9446-HL	460500	2009-11-25					False	False	9	220	2	House	House	1	3	779
+152587	ZD-6793-WI	430000	2004-05-21					False	False	8	220	4	House	House	2	4	
+152588	CD-5260-WR							False	False	28	219		House	House			731
+152589	UO-0171-JU	680000	2018-05-14					False	False	11	217	2	House	House	2	4	928
+152590	GU-0710-BW							False	False				House	House			
+152591	UN-8011-RC	470000	2010-08-24	PRD Leader Real Estate	385	2009	31	False	False	12	217	0	House	House	2	3	721
+152592	OP-9151-FC	265000	1999-09-30					False	False	26	219		House	House		4	753
+152593	OG-9860-ZR	573288	2018-10-18					False	False	13	217	2	House	House	2	4	931
+152594	SD-2811-JC	516000	2012-11-26					False	False	25	219	2	House	House	2	4	784
+152595	GZ-1971-EW							False	False				House	House			
+152596	QU-2400-VW	495000	2011-11-14					False	False	23	219	2	House	House	2	3	754
+152597	MF-0757-UG	121000	1995-11-15					False	False	11	218		House	House			766
+152598	LG-8353-QB	590000	2016-07-28	Independent Property Management	640	2018	189	True	False	22	219	2	House	House	2	4	769
+152599	EZ-5594-SZ	630000	2019-08-28					False	False	21	219	1	House	House	2	4	695
+152600	TX-3975-IA	207000	1999-11-16					False	False	20	219		House	House			740
+152601	BY-1361-KV	557000	2017-12-13					False	False	1	258	2	House	House	1	3	944
+152602	GV-1341-ET	560000	2017-06-29					False	False	19	219	3	House	House	2	4	780
+152603	GX-1536-PX							False	False				House	House			
+152604	TB-7212-FT	509950	2013-03-01					False	False	17	219	2	House	House	2	4	921
+152605	SH-8648-CR	577000	2017-06-26	McIntyre Property	520	2016	234	False	False	16	219	2	House	House	2	4	875
+152606	JA-6978-CB	725000	2016-08-31					False	False	14	225	2	House	House	2	4	922
+152607	LQ-0274-DZ							False	False				House	House			
+152608	RL-7008-IO	134000	2001-02-14					False	False	12	225		House	House			839
+152609	TB-2047-CX	570000	2014-10-14					False	False	11	225	2	House	House	2	5	867
+152610	UC-5001-EL							False	False				Unit	Unit			
+152611	NY-3552-IN							False	False				House	House			
+152612	IN-0891-RH							False	False				House	House			
+152614	XR-7678-MQ							False	False				House	House			
+152615	TF-4837-TK	530000	2017-01-13					False	False	14	268	2	House	House	2	3	716
+152616	BY-9339-AC	202000	2000-02-10					False	False	13	268		House	House			829
+152617	QL-8374-PO	174000	1993-07-28					False	False	10	258		House	House		4	836
+152618	JT-7011-UL	555000	2014-04-14					False	False	12	268	2	House	House	2	4	831
+152619	GB-0745-IO	580000	2018-04-20	Peter Blackshaw Tuggeranong	500	2015	21	False	False	11	258	2	House	House	2	4	861
+152620	KY-4804-ZK	260000	2013-02-15					False	False	11	268		House	House		3	823
+152621	OY-2415-DQ	374000	2007-02-08					False	False	12	258	2	House	House	2	4	791
+152622	DZ-7820-NO	405000	2008-08-15					False	False	10	268	1	House	House	2	4	766
+152623	GA-6949-BE	155000	1996-08-16					False	False	13	258		House	House			728
+152624	BY-9725-LZ	355000	2007-05-16					False	False	9	268		House	House			741
+152625	VH-2971-FR	162700	1994-05-27					False	False	14	258		House	House			724
+152626	RA-7456-TW	496000	2014-12-16					False	False	8	268	1	House	House	2	4	707
+152627	WS-8129-IU	640000	2018-11-23					False	False	15	258	2	House	House	2	5	744
+152628	VB-3137-ST	545000	2008-03-15					False	False	7	268	2	House	House	2	4	749
+152629	BZ-8157-HI	262000	2003-03-06					False	False	16	258		House	House		3	745
+152630	DY-4894-PZ	762500	2018-02-13					False	False	6	268	2	House	House	3	4	746
+152631	AI-9003-LG	430000	2015-02-25					False	False	17	258	2	House	House	1	3	743
+152632	UI-8446-LX							False	False				House	House			
+152633	BT-4580-TF	287000	2001-10-26					False	False	18	258		House	House			789
+152634	DB-6803-FL	450000	2014-01-31					False	False	4	268	0	House	House	2	4	754
+152635	KQ-0588-WX	562500	2015-06-19					False	False	19	258	2	House	House	2	4	729
+152636	LF-7583-WV	110000	2002-12-12	Peter Blackshaw Tuggeranong	680	2017	7	True	False	3	268	1	House	House	2	4	702
+152637	ED-3183-EO	540000	2013-08-30					False	False	20	258	2	House	House	2	4	744
+152638	UF-9154-QT	487000	2014-05-23	PRD Leader Real Estate	430	2008	24	False	False	2	268	1	House	House	2	3	719
+152639	FZ-4984-BI	442000	2006-05-12					False	False	21	258	2	House	House	2	4	858
+152640	TM-8242-AD	445000	2006-01-31					False	False	1	268		House	House		4	832
+152641	KJ-7178-RJ	623700	2008-11-08					False	False	16	269	3	House	House	3	5	925
+152642	TP-4023-NE							False	False				House	House			
+152643	YJ-6647-QG							False	False	15	269		House	House			1068
+152644	QY-5757-HL	165000	1999-05-18					False	False	24	267		House	House		4	744
+152645	TT-1809-MI	740000	2018-01-25					False	False	14	269	2	House	House	2	4	977
+152646	TP-5934-TR							False	False				House	House			
+152647	FZ-8038-CW	335000	2002-06-07					False	False	13	269		House	House		4	867
+152648	EC-1286-GY	169950	1991-12-18					False	False	26	267		House	House			742
+152649	FM-3987-TU	90000	1991-05-16					False	False	12	269		House	House			
+152650	TV-2327-CJ	677500	2017-05-01					False	False	27	267	2	House	House	2	5	788
+152651	EJ-5372-IU	595000	2015-04-09					False	False	11	269	2	House	House	2	4	921
+152652	PF-1242-XW							False	False				House	House			
+152653	QX-1055-NK	730000	2017-02-03					False	False	29	267	2	House	House	2	5	914
+152654	BY-6108-JX	400000	2003-05-27		410	2005		True	False	30	267	2	House	House	2	5	1006
+152655	RE-7923-WA	450000	2007-07-25	Peter Blackshaw Tuggeranong	0	2019	21	True	False	31	267	2	House	House	2	4	987
+152656	LO-6213-VQ							False	False				House	House			
+152657	AC-1256-VE			Peter Blackshaw Tuggeranong	380	2016	159	False	False			1	House	House	1	2	
+152658	UN-5013-RQ							False	False				House	House			
+152659	AP-5886-LJ							False	False				House	House			
+152660	QO-1590-IY	166000	1993-03-17					False	False	8	264		House	House			994
+152661	QR-0750-LW							False	False				House	House			
+152662	VG-2785-UE	467000	2007-10-23					False	False	9	264	4	House	House	2	4	1042
+152663	QO-4508-DH	531000	2016-10-11					False	False	10	264	3	House	House	2	3	859
+152664	TH-2081-JQ	650000	2016-09-17					False	False	11	264	4	House	House	2	3	781
+152665	VF-0572-LT	475650	2012-03-08	Bertram Ellis	470	2014	7	True	False	12	264	4	House	House	1	3	937
+152666	QJ-4543-YA							False	False				House	House			
+152667	ZA-9158-JT	294500	2003-06-06					False	False	2	230		House	House		3	748
+152668	LJ-0740-VN							False	False				House	House			
+152669	BS-5210-SC	512750	2018-04-13	Hodgkinson Real Estate 	390	2014	42	False	False	2	276	1	House	House	1	3	707
+152670	OS-9106-RX							False	False				House	House			
+152671	VS-5005-VX	548000	2015-03-18					False	False	1	276	1	House	House	2	4	803
+152672	VN-9848-BX	465000	2013-03-04					False	False	1	213		House	House			760
+152673	QM-3316-BT							False	False				House	House			
+152674	FS-6106-JN	121000	1997-12-03					False	False	1	206		House	House			845
+152675	PN-0118-CC	586000	2009-03-23					False	False	16	213		House	House			1125
+152676	IX-9882-PX							False	False	2	206		House	House			969
+152677	CK-5406-HG	485000	2012-08-17					False	False	5	253	4	House	House	2	3	914
+152678	TL-7547-GF							False	False	8	270	2	House	House	2	3	844
+152679	QV-4201-WM	481000	2019-04-17					False	False	4	270	2	House	House	2	4	920
+152680	OA-6937-WZ	534000	2016-06-22					False	False	4	253	4	House	House	2	4	725
+152681	QW-7418-AN							False	False				House	House			
+152682	JL-4291-JE	525000	2011-02-01					False	False	3	253	3	House	House	2	4	787
+152683	UQ-8342-EW	320000	2005-09-30					False	False	6	270	0	House	House	1	4	768
+152684	CE-1585-RD	497000	2013-02-09					False	False	2	253		House	House		3	777
+152685	RB-0471-VG	575000	2017-02-27					False	False	7	270	2	House	House	2	4	926
+152686	JK-8415-KF	455000	2008-05-30					False	False	1	253		House	House			841
+152687	JB-9659-UL	690000	2015-12-02					False	False			4	House	House	3	4	1200
+152688	FD-9711-PH	525000	2009-07-31					False	False	3	202	2	House	House	2	4	775
+152689	OD-3800-CB	447000	2008-04-16					False	False	12	204	2	House	House	2	3	866
+152690	GB-2585-ET							False	False				House	House			
+152691	JB-3486-KR							False	False				House	House			
+152692	KG-6798-KO	200000	1996-03-15					False	False	1	202		House	House			894
+152693	GG-2007-MQ	435000	2009-04-20					False	False	14	204	2	House	House	2	4	1009
+152694	QJ-9865-VA							False	False	4	261		House	House			971
+152695	SD-9733-SS							False	False				House	House			
+152696	LB-9578-FR	505000	2017-08-08					False	False	3	261	5	House	House	1	3	1001
+152697	SE-0803-TD							False	False				House	House			
+152698	LM-4775-MI	445000	2013-02-28					False	False	2	261	3	House	House	2	4	793
+152699	SF-0240-EX							False	False				House	House			
+152700	FS-6558-EC	140000	1991-12-17					False	False	1	261		House	House			
+152701	ZD-6890-TV	437000	2012-03-08					False	False	10	257	1	Unit	Unit	1	3	
+152702	PM-7493-RD	395000	2019-11-08					False	False	9	257	1	Unit	Unit	1	2	
+152703	VF-1168-CN	150000	1999-04-27					False	False	11	257		House	House			1021
+152704	TF-0182-GF	174000	1999-11-13					False	False	19	268		House	House			800
+152705	KZ-5791-HY	560000	2017-01-13	EnVogue Property Management	460	2015	24	False	False	20	268	2	House	House	2	4	828
+152706	BY-6400-SF	155000	2000-05-02					False	False	21	268		House	House			782
+152707	UE-2662-BS							False	False				House	House			
+152708	UF-4868-PB	450000	2012-05-22					False	False	23	268	2	House	House	1	3	725
+152709	TC-6769-GL							False	False				Unit	Unit			
+152710	DZ-7970-MR							False	False				Unit	Unit			
+152711	UF-9083-LH							False	False				House	House			
+152712	KV-5171-QF	670000	2013-03-13					False	False	24	268	2	House	House	2	4	764
+152713	FK-2692-NY	340000	2005-04-16					False	False	25	268		House	House		3	728
+152714	QQ-5785-MP	545000	2017-03-15	Peter Blackshaw Tuggeranong	495	2015	57	False	False	11	255	1	House	House	2	4	660
+152715	FN-3137-XR	395000	2005-09-14					False	False	26	268		House	House			739
+152716	IW-2130-CF	425000	2011-06-16	Luton Properties Woden	450	2013	56	True	False	10	255	2	House	House	1	3	847
+152717	QW-5517-BI	620000	2015-12-05					False	False	27	268	2	House	House	2	4	744
+152718	DZ-5798-SJ	538000	2018-10-15					False	False	9	255	1	House	House	2	3	886
+152719	DZ-1356-MV	740000	2018-12-13	McIntyre Property	730	2019	7	True	False	28	268	2	House	House	3	5	672
+152720	VA-2838-EF							False	False				House	House			
+152721	DZ-7027-EA	370000	2007-11-26	Luton Properties Tuggeranong CRE	465	2015	21	True	False	10	257	1	House	House	1	3	942
+152722	EA-4577-VO	273000	2001-06-30					False	False	29	268	2	House	House	3	4	705
+152723	LB-6215-NR	650000	2019-07-13					False	False	7	255	2	House	House	2	4	688
+152724	XP-8443-RC	539900	2014-12-18					False	False	30	268	2	House	House	3	4	787
+152725	JG-9249-OG	505000	2013-08-13					False	False	6	255	2	House	House	2	5	914
+152726	TY-7516-VU							False	False				House	House			
+152727	TG-2281-YR	340000	2007-08-22					False	False	5	255		House	House			892
+152728	TY-3787-QV							False	False				House	House			
+152729	OD-5451-KK							False	False				House	House			
+152730	YZ-5616-VZ	388000	2002-09-20					False	False	3	269		House	House			797
+152731	XE-0387-ME			Peter Blackshaw Real Estate Tuggeranong Projects	440	2017	48	False	False			1	Unit	Duplex	2	3	
+152732	EB-8345-OY	250000	2003-03-31					False	False	16	268	1	House	House	1	3	
+152733	UX-6226-YK	180000	1993-03-01					False	False	4	269		House	House			786
+152734	VE-1593-QN		2015-08-17	Peter Blackshaw Tuggeranong	590	2018	16	True	False	5	269	1	House	House	2	4	853
+152735	OC-5099-IV							False	False				House	House			
+152736	YW-1159-PP	505000	2013-10-11					False	False	6	269		House	House			863
+152737	OB-4242-WS							False	False				House	House			
+152738	PG-5829-NX	699000	2018-11-13					False	False	7	269	2	House	House	2	3	806
+152739	RB-1636-GU	791500	2018-10-13					False	False	8	269	2	House	House	2	4	792
+152740	MX-9434-IS	117500	2001-04-18					False	False	9	257		House	House			830
+152741	EA-2686-XI	590000	2014-11-28					False	False	9	269		House	House			778
+152742	QZ-7554-OS	475000	2005-07-04					False	False	10	269	0	House	House	3	6	969
+152743	NZ-2411-DW		2018-02-07	Peter Blackshaw Tuggeranong	395	2018	9	True	False			1	House	House	1	2	
+152744	LL-7330-PK							False	False	17	268		House	House			740
+152745	UX-3726-JB	305000	2002-02-21					False	False	7	271	0	House	House	3	5	736
+152746	BS-8401-OC	338000	2009-09-17					False	False	6	271	0	House	House	1	3	890
+152747	DY-2788-FZ	143000	2001-08-09					False	False	5	271		House	House			827
+152748	QS-0493-ZI							False	False				House	House			
+152749	RS-5634-JL	415000	2009-11-07					False	False	8	257	2	House	House	1	3	750
+152750	QV-6353-XG							False	False				House	House			
+152751	UN-5754-LC	625000	2017-09-02					False	False	9	272	2	House	House	2	4	
+152752	EC-9409-SR	425000	2017-10-18					False	False	18	268		House	House		3	737
+152753	VD-1974-JS							False	False				House	House			
+152754	VP-0731-KD	122000	1997-06-02					False	False	8	233		House	House			892
+152755	NA-5866-YF	137000	1995-02-28					False	False	13	232		House	House			951
+152756	CD-2413-JV	339950	2007-06-25	Bertram Ellis	490	2016	14	True	False	3	233	2	House	House	1	3	851
+152757	MA-7401-GQ	580000	2019-06-07					False	False	14	232	2	House	House	2	3	820
+152758	TH-4102-QF	100000	1999-01-19					False	False	2	233		House	House			1008
+152759	RQ-2426-IG	114950	1998-01-12					False	False	15	232		House	House			999
+152760	TA-5988-AV	315000	2005-10-04	Laurrie Scheele	400	2015	24	True	False	1	233	1	House	House	1	3	772
+152761	TJ-6826-WP	548000	2018-03-03	LJH Tuggeranong	415	2009		False	False	16	232	2	House	House	1	3	988
+152762	OG-4750-CF	412000	2009-02-02					False	False	17	232	2	House	House	1	3	735
+152763	OG-1386-FS	712500	2019-04-24					False	False	18	232	5	House	House	2	4	756
+152764	CC-0424-QB	410000	2016-09-12					False	False	19	232		House	House			961
+152765	LQ-3389-JP		2016-05-31					False	False	20	232	1	House	House	1	3	
+152766	VI-2537-FB							False	False				House	House			
+152767	SC-6182-RG	100000	1991-01-24					False	False	22	232	0	House	House	2	4	730
+152768	TD-0865-FO	245000	2010-07-30					False	False	7	233		House	House			718
+152769	FH-6164-WJ		2014-11-24	The Property Gallery	435	2009	9	False	False	10	232	2	House	House	1	3	715
+152770	GA-6461-OO	265000	2002-06-03					False	False	6	233		House	House		4	973
+152771	RU-2406-BK	545000	2015-03-19					False	False	11	232	3	House	House	2	4	699
+152772	VN-4603-EF							False	False				House	House			
+152773	GI-5117-WF		2016-06-30					False	False	12	232	1	House	House	3	5	870
+152774	AP-9505-JB	440000	2015-03-03					False	False	4	233	4	House	House	1	3	832
+152775	TK-0619-JV	159950	1999-07-20					False	False	2	243		House	House			929
+152776	DZ-9460-DN	440000	2007-04-05					False	False	1	243	1	House	House	2	5	870
+152777	PL-7218-KS	550000	2017-10-19					False	False	5	244	2	House	House	2	3	969
+152778	RZ-6794-CP	362500	2004-03-27					False	False	6	243		House	House		4	745
+152779	DZ-4599-CP	680000	2017-02-14	Total Property Management - Bright Partners	530	2011		False	False	6	244	2	House	House	2	5	960
+152780	YJ-7000-QY	412500	2007-03-23					False	False	5	243		House	House		4	700
+152781	OX-2907-GO	608000	2012-01-16					False	False	7	244	2	House	House	2	4	836
+152782	VT-3115-NW							False	False				House	House			
+152783	DV-7133-GQ	450000	2010-03-11					False	False	8	244	2	House	House	2	3	886
+152784	YF-0096-QO	600000	2015-03-16					False	False	3	243	0	House	House	2	4	738
+152785	PR-1051-GT	475000	2013-04-15					False	False	7	249	2	House	House	1	4	978
+152786	EB-1258-JL	600000	2018-11-01					False	False	5	247	0	House	House	1	4	749
+152787	CX-5270-RZ	260000	2014-11-26	McIntyre Property	540	2016	27	True	False	6	247	4	House	House	2	4	709
+152788	TF-9077-OP		2013-05-03					False	False	7	247	1	House	House	1	3	655
+152789	YN-3999-EQ	470000	2011-09-13					False	False	29	234		House	House			902
+152790	CK-1351-WX	305000	2003-03-27					False	False	8	247		House	House			680
+152791	JS-4169-EM							False	False	28	234		House	House			855
+152792	OS-4405-IR	370000	2008-01-29	Peter Blackshaw Tuggeranong	490	2016	9	True	False	9	247	1	House	House	1	3	625
+152793	JW-5462-ML							False	False				House	House			
+152794	EQ-3439-XE							False	False	10	247		House	House			906
+152795	TK-9247-KW	205000	2013-03-26					False	False	26	234		House	House			1049
+152796	OG-1571-LS							False	False				House	House			
+152797	GU-0016-RA							False	False				House	House			
+152798	JH-0921-OM							False	False				House	House			
+152799	MA-9886-JI	555000	2019-11-21					False	False	24	234	2	House	House	1	3	1009
+152800	RK-7199-WJ							False	False				House	House			
+152801	JX-0882-QW	325000	2007-04-11	Distinct Property Management	460	2020	358	True	False	22	234	0	House	House	1	3	744
+152802	RL-9457-DM							False	False				House	House			
+152803	RM-7238-ZB							False	False				House	House			
+152804	VE-3999-FB	524250	2017-01-10	McGrath Woden Property Management	575	2020	43	True	False	2	247	2	House	House	2	3	614
+152805	CY-4439-IT	546000	2017-01-18					False	False	3	247	1	House	House	2	4	690
+152806	RJ-9182-FW	565000	2010-02-15					False	False	5	248		House	House			947
+152807	HS-1022-DL	510000	2016-12-09					False	False	4	247	2	House	House	1	3	692
+152808	CL-6580-NG	505000	2016-05-10					False	False	4	248	1	House	House	2	3	894
+152809	RL-8621-DI							False	False				House	House			
+152810	YG-2665-FA							False	False				House	House			
+152811	SZ-8993-LY	477000	2017-05-04					False	False	14	234	4	House	House	1	3	1258
+152812	YG-7361-NX							False	False				House	House			
+152813	KJ-2637-MN	445000	2010-06-22	The Property Gallery	350	2008		False	False	13	234	3	House	House	1	3	896
+152814	VP-9995-MB	425000	2009-08-15	McIntyre Property	550	2019	10	True	False	7	236	2	House	House	1	3	743
+152815	OS-3109-FO	355000	2008-08-22					False	False	12	234		House	House			1018
+152816	NA-3737-JH	160000	1995-06-02					False	False	11	234		House	House			876
+152817	RP-7694-PX	174000	1998-03-27					False	False	10	234		House	House			709
+152818	RK-8063-FI							False	False				House	House			
+152819	MY-8510-PH	115950	1995-11-20					False	False	9	234		House	House			960
+152820	JX-5864-DC							False	False				House	House			
+152821	RV-7524-ZX	565000	2018-02-22					False	False	7	234	4	House	House	2	3	708
+152822	KY-2044-PV							False	False				House	House			
+152823	YK-8050-FG		2019-01-10					False	False	5	234	1	House	House	2	4	
+152824	QR-0328-VK							False	False				House	House			
+152825	PM-9168-RO	445000	2009-03-26					False	False	4	234	2	House	House	2	4	926
+152826	IK-5931-FK	486000	2014-12-12					False	False	3	234	2	House	House	2	4	718
+152827	UZ-0189-GY	320000	2006-06-20					False	False	2	236	0	House	House	1	3	957
+152828	RS-5668-RF							False	False				House	House			
+152829	RQ-2085-MM							False	False				House	House			
+152830	QR-0801-VF							False	False				House	House			
+152831	RQ-5698-JG							False	False				House	House			
+152832	QQ-2552-KU							False	False				House	House			
+152833	GA-3437-LM	632000	2014-05-22					False	False	1	214	2	House	House	2	4	1014
+152834	YP-7227-NT	500000	2015-04-02					False	False	14	212	2	House	House	1	3	679
+152835	ZH-6920-TK							False	False	2	214		House	House			803
+152836	SF-3981-PM	130250	1995-09-15					False	False	13	212		House	House			696
+152837	ZA-7973-IN	665000	2011-07-25					False	False	3	214		House	House			840
+152838	RV-7846-RW	735000	2017-02-09					False	False	12	212	2	House	House	3	5	713
+152839	AD-0240-NK	395000	2003-10-07					False	False	4	214		House	House			836
+152840	SH-6353-LI	172500	1996-01-08					False	False	11	212		House	House			729
+152841	VB-6020-GS	315000	2000-12-22					False	False	5	214		House	House			836
+152842	LG-5439-PL	560000	2008-02-05					False	False	10	212	2	House	House	3	4	763
+152843	CM-4856-UO	875000	2019-01-09					False	False	23	213	6	House	House	2	5	1024
+152844	FS-8193-FC	291500	2001-02-07					False	False	6	214		House	House			889
+152845	FW-6652-QN	421000	2003-06-27					False	False	44	211		House	House			823
+152846	KZ-6822-OA	316000	2002-12-20					False	False	7	214	0	House	House	2	4	826
+152847	QT-8533-CO	765000	2019-11-09					False	False	43	211	2	House	House	2	4	764
+152848	JL-7569-DM							False	False				House	House			
+152849	PT-1501-EI	695000	2012-06-29					False	False	42	211	2	House	House	3	4	801
+152850	JN-4393-PS							False	False				House	House			
+152851	KA-3174-FQ							False	False				House	House			
+152852	JK-5811-CF							False	False				House	House			
+152853	KQ-0196-TJ	670000	2011-07-02					False	False	40	211	2	House	House	2	4	1250
+152854	XR-9776-BB	540000	2008-01-17					False	False	18	212	4	House	House	3	6	753
+152855	YZ-1303-GF	165000	1993-11-18					False	False	11	214		House	House			681
+152856	VF-5479-HP	720000	2019-11-16	One Agency Sandy Morris	570	2016	7	False	False	39	211	2	House	House	2	4	
+152857	MG-0645-ZM	540000	2014-10-17					False	False	12	214	2	House	House	2	4	709
+152858	AC-3929-GB							False	False	38	211		House	House			760
+152859	RY-1768-IV	222500	1994-08-05					False	False	13	214		House	House			768
+152860	JY-6885-HQ							False	False				House	House			
+152861	BF-7845-NC	535000	2014-08-14					False	False	14	214	2	House	House	2	4	697
+152862	FH-5881-SE	243000	1992-01-07					False	False	15	214		House	House			856
+152863	FX-0310-IE	520000	2016-02-27	karen rush real estate	500	2010	7	False	False	24	213	2	House	House	2	4	800
+152864	SI-6775-QK	219100	1996-07-31					False	False	17	212		House	House			920
+152865	LZ-5428-BM	198000	1999-05-05					False	False	25	213		House	House			1142
+152866	KT-0815-OK	625000	2014-01-15					False	False	16	212	4	House	House	2	4	762
+152867	KE-1159-CF	205000	1991-05-27					False	False	15	212		House	House		4	
+152868	YI-2539-WL	524500	2017-09-26					False	False	4	250	4	House	House	1	3	930
+152869	YJ-0842-YV							False	False				House	House			
+152870	YI-1805-UQ							False	False				House	House			
+152871	YK-6959-KP							False	False				House	House			
+152872	YI-2688-ZR							False	False				House	House			
+152873	YI-9041-WO							False	False				House	House			
+152874	YJ-6898-EW							False	False				House	House			
+152875	TN-1766-SD	511000	2018-04-23					False	False	11	249	1	House	House	1	3	809
+152876	UP-3658-XR	418500	2005-11-29					False	False	7	272		House	House		4	983
+152877	UO-2551-WD							False	False				House	House			
+152878	US-0474-IV	515000	2018-01-16					False	False	2	272		House	House			797
+152879	UR-8765-NZ							False	False	6	273		House	House			688
+152880	LL-6023-WG	495000	2016-02-12					False	False	1	272	2	House	House	1	3	773
+152881	BV-9765-GX	157700	1999-12-20					False	False	7	273		House	House			710
+152882	VR-1501-EL	359950	2004-06-04					False	False	8	273	0	House	House	1	4	873
+152883	UG-4706-BR							False	False				House	House			
+152884	GW-3391-YN	590000	2013-04-18					False	False	1	273	2	House	House	2	4	
+152885	FU-6382-FE							False	False	10	273		House	House			720
+152886	FQ-1969-JE	455000	2011-12-16					False	False	11	273	2	House	House	2	3	715
+152887	FQ-0561-YM	113500	1991-10-18					False	False	12	273		House	House			
+152888	FO-5230-GE	128500	1998-08-19					False	False	6	272	1	House	House	1	3	714
+152889	SH-0539-XR	690000	2018-09-12	Elders Woden	360	2004	14	False	False	2	273	2	House	House	3	4	968
+152890	QC-1550-LQ	225500	2001-05-04					False	False	5	272		House	House			718
+152891	YW-5048-GR	626000	2016-10-08					False	False	3	273	2	House	House	2	4	693
+152892	AN-2095-SQ	705000	2018-03-10					False	False	4	272	2	House	House	2	4	718
+152893	YR-9638-DA	364950	2005-09-30	Capital First National	385	2007	18	True	False	4	273	2	House	House	2	3	864
+152894	XJ-8489-AR	460000	2010-12-22	LJH Tuggeranong	460	2009	7	False	False	3	272	2	House	House	2	4	735
+152895	FF-8817-XM	389000	2004-03-10					False	False	5	213		House	House		4	918
+152896	KE-7103-BU	114950	1991-06-07					False	False	11	213		House	House			
+152897	DY-2801-MD							False	False				House	House			
+152898	EB-9822-CJ							False	False				House	House			
+152899	HG-6720-HS							False	False				House	House			
+152900	ED-6408-HY							False	False				House	House			
+152901	DZ-4439-JF							False	False				House	House			
+152902	KD-1939-MC	278500	2002-06-07					False	False	15	213		House	House		3	868
+152903	JK-0929-OA	525000	2017-10-10					False	False	2	213	2	House	House	2	3	731
+152904	UD-4645-OX	499000	2008-12-24					False	False	14	213	2	House	House	2	4	752
+152905	KX-5560-JL	208700	1999-09-22					False	False	3	213		House	House			720
+152906	KD-0084-ZO	142000	1991-11-14					False	False	13	213		House	House			
+152907	KY-1071-UZ	515000	2019-08-15					False	False	4	213		House	House			892
+152908	GJ-5534-PH							False	False	12	213		House	House			759
+152909	BV-0641-SB							False	False				House	House			
+152910	OT-7202-RR							False	False				House	House			
+152911	DX-3567-EN							False	False				House	House			
+152912	NA-8319-WX	135000	1992-06-25					False	False	9	286		House	House			985
+152913	HY-8404-NJ	135000	1995-02-06					False	False	8	286		House	House			827
+152914	KW-1394-DL	460000	2013-02-19					False	False	7	286	3	House	House	1	3	885
+152915	YU-4894-OS	138000	2000-07-17					False	False	6	286		House	House			913
+152916	FS-5425-TB	475000	2013-07-22					False	False	6	261		House	House			875
+152917	BL-1948-RE	465000	2012-09-28					False	False	2	262	2	House	House	1	3	
+152918	TE-3900-UU							False	False				House	House			
+152919	DZ-9756-FM	550000	2012-10-25					False	False	1	262	2	House	House	2	4	818
+152920	TB-0377-IK							False	False				House	House			
+152921	QS-8081-BQ	480000	2013-11-22					False	False	12	284	2	House	House	2	4	758
+152922	LX-6119-AJ	135500	2000-06-19					False	False	10	286		House	House			810
+152923	YV-1649-CX	425000	2014-12-22					False	False	13	284	3	House	House	1	3	754
+152924	ES-8006-GQ	635000	2019-09-18					False	False	14	284	1	House	House	2	3	873
+152925	PF-0264-HT	330000	2004-09-13					False	False	26	284		House	House			996
+152926	TH-6302-BF	615000	2009-05-13	LJH Tuggeranong	620	2009	29	False	False	27	284	2	House	House	2	4	842
+152927	LI-9133-BL	414000	2007-07-11					False	False	10	283		House	House			814
+152928	FZ-0037-AL	556000	2019-03-25					False	False	28	284	2	House	House	2	3	808
+152929	MB-2528-BG	162000	1996-05-10					False	False	9	283		House	House			920
+152930	HZ-5339-TU	460000	2011-05-15					False	False	29	284		House	House			774
+152931	SG-7904-QJ	567500	2017-11-22					False	False	8	283	2	House	House	2	3	965
+152932	ZN-4866-HT	523000	2015-06-12					False	False	14	285	1	House	House	2	3	805
+152933	SK-8979-FH	140000	1992-10-07					False	False	30	284		House	House			878
+152934	RC-6989-KI							False	False				House	House			
+152935	XW-3835-DH	467000	2011-11-10					False	False	1	284		House	House			999
+152936	BV-9202-BH	505000	2017-11-21					False	False	9	284	2	House	House	2	3	818
+152937	LY-8343-WS	550000	2012-06-22					False	False	10	284	2	House	House	2	4	758
+152938	SE-5079-PM							False	False				House	House			
+152939	QU-9517-GQ	583500	2011-02-11					False	False	1	265	6	House	House	2	5	982
+152940	TN-7306-AU							False	False				House	House			
+152941	US-9452-UW	600000	2015-12-11					False	False	14	265		House	House			795
+152942	QV-3624-YH			Independent Property Management	530	2019	42	False	False	6	266	1	House	House	2	4	835
+152943	GF-9448-KG	448000	2013-12-18					False	False	13	265	1	House	House	1	3	716
+152944	TH-4839-IO							False	False				House	House			
+152945	FT-8289-EL	487500	2014-01-28					False	False	12	265	4	House	House	1	3	708
+152946	GV-1828-LK	285000	2005-05-09					False	False	8	266		House	House			672
+152947	FS-7890-WP	325000	2018-10-10					False	False	11	265		House	House			813
+152948	OW-0641-PO	453000	2007-10-13					False	False	9	266		House	House			949
+152949	VG-3890-BC	572000	2009-09-19					False	False	1	266	2	House	House	2	5	859
+152950	RE-1163-VC	317000	2005-08-05					False	False	10	266		House	House			1066
+152951	OW-8517-BM	750000	2017-12-04					False	False	11	266	4	House	House	2	5	
+152952	FX-4282-GR	565000	2018-10-12	Peter Blackshaw Tuggeranong	440	2015	6	False	False	12	266	5	House	House	1	3	986
+152953	BZ-4165-IO	334000	2003-01-10					False	False	13	266		House	House			989
+152954	OX-2186-PL	285000	2019-07-15					False	False	14	266		House	House			922
+152955	TN-5481-OU							False	False				House	House			
+152956	QP-3726-WT	71000	1993-12-06	Peter Blackshaw Manuka	445	2016	31	True	False	15	266	2	House	House	1	3	902
+152957	UM-6036-QC							False	False	2	266		House	House			853
+152958	FJ-8978-NW	159000	1997-03-26					False	False	17	265		House	House			877
+152959	VE-3720-HU	215000	1994-07-05					False	False	3	266		House	House			770
+152960	RW-3954-KA	564500	2012-04-05					False	False	16	265		House	House			839
+152961	LT-6024-GA							False	False	4	266		House	House			762
+152962	FX-5317-DQ	520000	2017-09-04					False	False	15	265	2	House	House	1	3	781
+152963	OC-2461-TM	430000	2006-10-20					False	False	1	246		House	House			1010
+152964	JU-3117-NG							False	False	5	245		House	House			1060
+152965	XY-2981-RL		2020-02-08					False	False	9	246	1	House	House	2	4	899
+152966	KU-4872-VP	425000	2009-11-04					False	False	6	245	2	House	House	2	3	1035
+152967	PP-4574-FG							False	False	8	246		House	House			809
+152968	QQ-4462-QR	150000	1993-02-17					False	False	7	245		House	House			961
+152969	SY-1824-SY			Hodgkinson Real Estate 	450	2015	31	False	False	3	244	2	House	House	2	4	971
+152970	RY-6758-IM	172000	1993-05-11					False	False	1	245		House	House			894
+152971	TH-6947-RC	130000	1996-08-26					False	False	4	244		House	House			720
+152972	VX-2659-HR							False	False				House	House			
+152973	WA-4080-OO							False	False				House	House			
+152974	PM-7684-AY							False	False				House	House			
+152975	WH-6828-TH	142200	1992-03-06					False	False	9	243		House	House			837
+152976	YF-1034-DV	140000	1998-09-02					False	False	2	245		House	House			771
+152977	PP-9313-XL							False	False				House	House			
+152978	BW-8078-DE	435000	2016-11-02					False	False	3	245	2	House	House	2	3	975
+152979	FB-0095-KV	650000	2012-06-02	LJ Hooker Belconnen	650	2011	26	False	False	11	246	2	House	House	2	4	1011
+152980	PJ-3185-PY							False	False				House	House			
+152981	PN-2727-RW							False	False				House	House			
+152982	VC-7823-AK	179500	1995-06-13					False	False	6	257		House	House			1179
+152983	QM-1181-BK		1993-07-02					False	False	8	256		House	House			848
+152984	RH-8509-XQ							False	False	1	257		House	House			960
+152985	VA-8643-WF							False	False				House	House			
+152986	ED-8542-ZK							False	False	5	257		House	House			700
+152987	YG-5512-GP							False	False	5	256		House	House			801
+152988	LA-8382-KX							False	False	4	257		House	House			950
+152989	VF-3101-XN							False	False				House	House			
+152990	VK-1960-NO	142000	2000-08-02					False	False	3	257		House	House		3	839
+152991	LB-7734-FQ	157000	1996-09-13					False	False	7	256		House	House		3	935
+152992	VQ-2207-XE	510000	2016-10-19					False	False	2	257	2	House	House	2	4	727
+152993	UE-7378-FA			McGrath Woden Property Management	365	2020	322	False	False	4	216	1	House	House	1	1	947
+152994	CA-3029-OQ	220000	2002-09-13					False	False	10	215		House	House			1177
+152995	DO-7308-UZ	375000	2003-11-13					False	False	3	216	4	House	House	2	5	782
+152996	JV-1243-SW	520000	2014-06-05					False	False	11	215		House	House			791
+152997	HO-5845-UX							False	False				House	House			
+152998	HR-1160-HZ	560000	2019-07-19	Wright Dunn Real Estate 	480	2018	35	False	False	12	215	1	House	House	1	3	835
+152999	UC-9386-RX	477000	2014-05-21					False	False	1	216		House	House			1001
+153000	CE-5967-DE							False	False				Unit	Unit			
+153001	JS-3339-NC	255000	2002-08-29					False	False	1	238		House	House			893
+153002	BJ-6841-LS							False	False				Unit	Unit			
+153003	WT-3569-CE	490000	2015-02-04					False	False	13	241		House	House		3	774
+153004	RY-7798-JB							False	False				Unit	Unit			
+153005	DG-6217-LW							False	False	10	238		House	House			1132
+153006	HP-0389-HU	725000	2011-07-09					False	False	9	238	1	House	House	2	4	931
+153007	MT-8729-HA							False	False				House	House			
+153008	GX-3427-BD	535000	2015-05-08	One Agency Sandy Morris	0	2019	26	True	False	8	238	2	House	House	2	4	950
+153009	MR-4211-FM							False	False				House	House			
+153010	ID-4763-KX	642000	2011-04-16					False	False	6	238	2	House	House	2	4	781
+153011	DW-2157-HR							False	False				Unit	Unit			
+153012	FQ-2808-KI							False	False	9	241	2	House	House	2	4	962
+153013	RP-1225-WT							False	False				House	House			
+153014	AG-6579-UJ							False	False				House	House		3	5126
+153015	IL-9987-MM							False	False				Unit	Unit			
+153016	JT-3478-YF							False	False				House	House			
+153018	YW-8055-KI							False	False				Unit	Unit			
+153019	RW-9166-MM	158000	1991-06-03					False	False	10	241		House	House			
+153020	HF-1366-BL							False	False				Unit	Unit			
+153021	MC-4567-VS							False	False				Unit	Unit			
+153022	HO-5825-OR	179000	1992-05-18					False	False	13	238		House	House			800
+153023	OC-2206-YJ							False	False				Unit	Unit			
+153024	VP-0705-KI							False	False				Unit	Unit			
+153025	YN-2840-IS	163000	1998-08-19					False	False	11	241		House	House			755
+153026	ZV-2972-JI							False	False				Unit	Unit			
+153027	MY-1966-TS	348000	2005-09-26					False	False	12	238		House	House			895
+153028	AV-3237-IU							False	False				Unit	Unit			
+153029	CC-1782-XF	695000	2018-09-19					False	False	12	241	2	House	House	2	4	776
+153030	JR-2367-HQ							False	False				Unit	Unit			
+153031	RV-9005-TM	290000	2001-04-24					False	False	11	238		House	House			1171
+153032	RG-2975-YK	514000	2011-09-09					False	False	5	262		House	House			845
+153033	LW-8326-AC							False	False				House	House			
+153034	TI-1185-CF	501000	2017-12-02					False	False	6	262	2	House	House	1	3	793
+153035	CC-2728-AC	602000	2018-05-18					False	False	2	263	2	House	House	1	4	906
+153036	SX-1030-DD							False	False				House	House			
+153037	RD-5455-KA	131000	1998-11-24					False	False	1	263	1	House	House	1	3	935
+153038	FU-9619-QB	475000	2013-05-09	Peter Blackshaw Tuggeranong	480	2016	5	True	False	8	262	2	House	House	1	3	704
+153039	WJ-3553-BM							False	False				Unit	Unit			
+153040	TO-4943-LZ							False	False				Commercial	Commercial			
+153042	OQ-8488-LS							False	False				House	House			
+153043	LF-1604-AL							False	False				Unit	Unit			
+153044	ZA-4601-QE							False	False				Unit	Unit			
+153045	HZ-6426-VH	1180000	2013-01-15					False	False	6	282		Land	Land			2412
+153046	MD-7769-KE							False	False				Unit	Unit			
+153048	CK-3507-CZ	137500	1992-04-14					False	False	10	253		House	House			819
+153049	PC-5073-RC			Hodgkinson Real Estate 	400	2016	21	False	False			2	House	House	1	3	
+153050	NW-3052-UQ							False	False				House	House			
+153051	JI-3233-GE	445000	2009-09-16	Peter Blackshaw Tuggeranong	480	2015	20	True	False	7	253	1	House	House	1	3	751
+153052	VD-5073-NW							False	False	2	254		House	House			760
+153053	MD-7690-BX	600000	2016-11-18					False	False	8	253	2	House	House	2	4	736
+153054	NZ-6056-CZ							False	False				House	House			
+153055	TM-6074-PN	250000	2003-01-20					False	False	9	253		House	House			764
+153056	SR-0938-FP							False	False				Unit	Unit			
+153057	SI-4059-RM	379500	2012-01-27					False	False	3	260		House	House			1060
+153058	LD-7563-QU							False	False				Unit	Unit			
+153059	QO-9090-EA	250000	2003-08-01					False	False	5	259	1	House	House	1	4	
+153060	SJ-3605-EA							False	False				House	House			
+153061	YF-1641-HY							False	False			1	House	House	1	3	
+153062	FE-9984-IP			LJ Hooker Woden	360	2008		False	False			1	House	House	1	3	
+153063	AY-3525-XG							False	False				House	House			
+153064	QV-1746-FU							False	False				House	House			
+153065	SG-8842-VG							False	False				House	House			
+153067	RH-1909-LS							False	False				House	House			
+153068	KT-0849-SU	710000	2016-06-09					False	False	4	218	1	House	House	2	5	753
+153069	SL-5654-QC	264000	2002-06-12					False	False	6	279		House	House			740
+153070	RW-5009-CY	704000	2016-08-20					False	False	5	218	3	House	House	2	4	930
+153071	UV-4673-SC	156000	1993-05-25					False	False	7	279		House	House			740
+153072	LZ-5494-KG							False	False				House	House			802
+153073	SH-3177-PV	325000	2004-01-09					False	False	8	279		House	House			740
+153074	QA-8454-SW							False	False				House	House			
+153075	UX-0601-MW	116000	1996-07-08					False	False	9	279		House	House			783
+153076	UF-3306-SH							False	False	8	218		House	House			887
+153077	FZ-1754-KY	530000	2008-03-17	Wright Dunn Real Estate 	460	2014	4	True	False	12	218	2	House	House	2	4	907
+153078	LW-3657-RW	181000	1999-05-31					False	False	9	218		House	House			1014
+153079	RU-1840-EZ							False	False				House	House			
+153080	JS-4205-DQ	430000	2009-03-24	Peter Blackshaw Tuggeranong	525	2017	33	True	False	10	218	2	House	House	2	4	924
+153081	KV-3640-LY	152000	1999-01-22					False	False	21	217		House	House			727
+153082	CA-8441-MA	200000	2000-03-31					False	False	20	217		House	House			699
+153083	XB-9077-NF	562000	2016-12-22					False	False	19	217	2	House	House	2	3	657
+153084	NC-7545-RG	610000	2010-11-27					False	False	18	217	2	House	House	2	4	773
+153085	UV-2936-NX	145000	1994-06-27					False	False	2	279		House	House			912
+153086	UF-1045-DK	780000	2019-03-06					False	False	17	217	2	House	House	2	4	1044
+153087	KW-4199-LW	365000	2004-11-01					False	False	16	217		House	House		4	822
+153088	OF-7013-FN							False	False				House	House			
+153089	OG-0993-JK	512500	2014-09-01					False	False	14	217	2	House	House	2	4	814
+153090	RV-9409-OQ							False	False				House	House			
+153091	RH-3480-XN							False	False				House	House			
+153092	TQ-8919-CO	420000	2009-08-25					False	False	2	218		House	House			834
+153093	RH-2721-EA							False	False				House	House			
+153094	QO-9905-MU	135000	1998-09-09	McGrath Woden Property Management	425	2019	1	True	False	3	218	1	House	House	2	3	845
+153095	FN-7062-QZ	450000	2012-03-15					False	False	5	279		House	House			740
+153096	KO-1975-GH							False	False				House	House			
+153097	TY-5680-RX	40000	1994-03-02					False	False	9	216		House	House			862
+153098	HC-1133-ET	595000	2017-12-08					False	False	2	217	2	House	House	2	3	
+153099	KW-8617-IR	119500	1991-02-26					False	False	10	216		House	House			
+153100	YX-6265-AG	187000	1993-08-27					False	False	1	217		House	House			865
+153101	EG-5034-HC	795000	2017-09-16					False	False	5	216	3	House	House	2	4	1047
+153102	FB-0948-WN							False	False	6	217		House	House			709
+153103	AJ-1273-HZ			IPG Inner North & City	350	2007	77	False	False			1	House	House	2	3	
+153104	TY-0613-HV							False	False	5	217		House	House			700
+153105	DW-1535-HS			Independent Property Management	0	2019	9	False	False			1	House	House	2	3	
+153106	SQ-2154-KX	373000	2007-04-11					False	False	4	217	0	House	House	2	3	700
+153107	MK-8478-PG							False	False				House	House			
+153108	CA-7044-AO	310000	2003-07-07					False	False	8	216		House	House		4	791
+153109	EY-5992-DS	557000	2016-12-05					False	False	3	217	2	House	House	2	3	700
+153110	MU-5238-BX	140000	1995-02-07					False	False	5	225		House	House			896
+153111	DB-1205-CP	450000	2009-09-29					False	False	6	225		House	House		4	739
+153112	MS-9496-AW	389000	2006-01-31					False	False	7	225		House	House		4	1087
+153113	FG-1071-YK	187000	1999-12-03					False	False	8	225		House	House			978
+153114	LP-9878-FI							False	False				House	House		3	
+153115	ND-2411-IU	110000	2000-07-03					False	False	2	225		House	House			837
+153116	RN-6538-OO	371001	2007-03-07	McIntyre Property	525	2019	5	True	False	9	225	2	House	House	2	3	713
+153117	ZZ-1043-KN	530000	2016-04-04					False	False	3	225	2	House	House	2	3	814
+153118	FT-4226-IV	168000	2001-05-17					False	False	4	225		House	House			841
+153119	LA-8422-UQ	540000	2019-09-19					False	False	3	251		House	House			977
+153120	GF-4963-CO							False	False				House	House			
+153121	TW-2988-XU							False	False				House	House			
+153122	IE-1676-RR							False	False				House	House			
+153123	RI-7025-FL							False	False				House	House			
+153124	YN-6584-II							False	False				House	House			
+153125	RJ-6426-VG							False	False				House	House			
+153126	YN-6280-BZ							False	False				House	House			
+153127	YM-9224-XR							False	False				House	House			
+153128	FS-9835-PT	425000	2006-02-04					False	False	1	292		Unit	Unit			
+153129	SL-4253-NY	779000	2019-03-08					False	False			2	House	House	2	4	5126
+153130	NS-2391-NK							False	False				Unit	Unit			
+153131	NK-4335-EH	213000	2002-06-07					False	False	4	240		House	House		4	835
+153132	OP-3298-ZC		2017-11-20					False	False			2	House	Townhouse	2	4	
+153133	GE-4035-IJ							False	False				House	House			
+153134	HT-4353-YC							False	False				Unit	Unit			
+153135	NU-6329-ER	399000	2012-03-20	Nook Real Estate	430	2016	56	True	False	5	240	1	House	House	1	3	681
+153136	IR-1385-HH		2017-07-10					False	False			2	House	House	2	4	
+153137	ZJ-7781-CC	493000	2009-05-23					False	False	6	240	2	House	House	2	4	665
+153138	PM-2706-AD	425000	2006-02-04					False	False	1	292		House	Townhouse		4	5126
+153139	UM-8927-GD	290000	2005-11-15	McIntyre Property	435	2015	42	True	False	7	240	2	House	House	1	3	787
+153140	EB-9842-TO	655000	2019-09-02					False	False	6	249	2	House	House	2	4	889
+153141	EV-5985-ON	765000	2017-12-09	McIntyre Property	740	2018	5	True	False	1	249	2	House	House	2	4	831
+153142	KL-6555-BY							False	False				House	House			
+153143	IN-6847-LB	670000	2012-12-12					False	False	6	248	3	House	House	2	4	863
+153144	UZ-8695-ZT	675000	2017-08-31					False	False	4	249	3	House	House	2	4	781
+153145	SY-6348-LL	680000	2016-10-21					False	False	7	248	2	House	House	2	5	908
+153146	CC-0022-LY	332000	2007-01-24					False	False	3	249		House	House			734
+153147	KO-1986-QT							False	False				House	House			
+153148	JK-4530-GH	339950	2005-11-16					False	False	2	249		House	House			747
+153149	IT-9350-AX							False	False				House	House			
+153150	KM-9317-GP		2014-02-14					False	False	7	230		House	House			1010
+153151	ZB-4805-WG	447000	2009-09-02					False	False	3	231	2	House	House	2	3	714
+153152	IR-9469-PI							False	False				House	House			
+153153	IU-2683-WE							False	False				House	House			
+153154	OK-2826-PF	531000	2016-12-23					False	False	1	231	6	House	House	1	3	823
+153155	YP-5643-WQ	460000	2010-10-21	Peter Blackshaw Tuggeranong	0	2019	32	True	False	3	230	1	House	House	1	3	1125
+153156	OH-2734-XH							False	False	7	231		House	House			
+153157	CH-6544-PM	612000	2015-04-15					False	False	4	230	2	House	House	2	4	901
+153158	ES-3152-PW							False	False	6	231		House	House			
+153159	MW-5248-UN	115000	1995-02-03					False	False	5	230		House	House			770
+153160	XH-6261-PH	655000	2010-10-23					False	False	5	231	0	House	House	3	4	1056
+153161	OJ-9889-QY	135000	1994-11-09					False	False	6	230		House	House			747
+153162	GH-8104-ID	450000	2009-05-01					False	False	4	231		House	House			884
+153163	NP-7452-KE	750000	2019-10-17					False	False			2	House	House	3	4	
+153164	LC-3815-BW	540000	2017-12-09					False	False	2	275	2	House	House	2	3	745
+153165	FR-5466-BF	556000	2015-06-13					False	False	1	275	2	House	House	1	3	959
+153166	FM-7006-KR	444000	2005-12-19					False	False	1	277	0	House	House	2	4	778
+153167	JU-3655-PA	420000	2010-12-15					False	False	2	277		House	House			726
+153168	YS-7474-SE	283500	1996-08-28					False	False	1	278		House	House			1109
+153169	UU-6570-KL	220000	1998-12-15					False	False	3	277		House	House			710
+153170	YN-6220-DL							False	False				House	House			
+153171	SH-9039-CA							False	False				House	House			
+153172	QO-3473-HO							False	False	4	276		House	House			880
+153173	SD-3737-QN	546000	2012-06-07					False	False	4	277	3	House	House	2	4	710
+153174	SK-7373-LY	169950	1998-05-20					False	False	3	278		House	House			943
+153175	SE-5569-ZM	428000	2002-09-02					False	False	5	277	3	House	House	2	4	869
+153176	TM-3445-YN	312500	1999-06-26					False	False	4	278		House	House			949
+153177	YF-9939-VS							False	False				House	House			
+153178	QP-5468-QX							False	False	6	278		House	House			747
+153179	UN-3298-QC	539950	2011-08-12					False	False	7	278	2	House	House	2	4	760
+153180	JB-5297-OD	380000	2004-01-23					False	False	6	275	2	House	House	2	4	795
+153181	AZ-9456-VR	505000	2015-12-23					False	False	8	278	2	House	House	2	4	1051
+153182	RX-8956-JU							False	False				House	House			
+153183	FL-8837-UQ	121000	1998-10-07					False	False	9	278		House	House			1069
+153184	YF-9841-AV							False	False	10	278		House	House			771
+153185	FL-2503-LE	160000	1991-12-04					False	False	11	278		House	House			962
+153186	KH-1092-NF	770000	2018-07-03	LJ Hooker Weston Creek	620	2017	10	False	False	12	278	4	House	House	2	4	1443
+153187	ML-9007-KP	428000	2009-06-25					False	False	5	276		House	House		3	721
+153188	FN-2711-PM	95000	1997-02-04					False	False	13	278		House	House			1259
+153189	YL-4466-SJ							False	False				House	House			
+153190	YI-3922-QK							False	False				House	House			
+153191	ML-5751-HS	530000	2013-10-11					False	False	16	278	6	House	House	2	4	1228
+153192	IB-6893-HF	164950	1995-08-18					False	False	17	278		House	House			759
+153193	WH-2943-KR	500000	2016-08-17	Luton Properties Tuggeranong CRE	440	2015	11	False	False	5	275	1	House	House	1	3	812
+153194	FJ-8409-AE	126000	1996-07-19					False	False	14	276		House	House			878
+153195	LM-3796-BV	695000	2017-05-12					False	False	13	276	1	House	House	2	4	803
+153196	RQ-5150-OX							False	False				House	House			
+153197	RL-6554-HF							False	False				House	House			
+153198	IB-8048-EI	525000	2014-05-09					False	False	6	276	2	House	House	2	4	713
+153199	QN-3480-RW							False	False				House	House			
+153200	QK-7609-TI							False	False				House	House			
+153201	UW-0477-LF	162000	1995-06-21					False	False	8	276		House	House			729
+153202	UI-6167-FT							False	False				House	House			
+153203	IL-8051-LL							False	False	7	276		House	House			830
+153204	QQ-6494-FA							False	False				House	House			
+153205	PI-6268-PR	595000	2010-12-20					False	False	5	204	2	House	House	2	4	1093
+153206	SY-1927-UU	264000	2001-07-20					False	False	4	204		House	House			823
+153207	QT-8454-BA	545000	2014-02-11	Peter Blackshaw Tuggeranong	490	2015	35	True	False	2	204	2	House	House	2	4	1091
+153208	VN-8567-JJ	693000	2017-05-22	Peter Blackshaw Real Estate Manuka	550	2015	7	False	False	9	204	2	House	House	2	4	925
+153209	SY-6233-WK	550000	2012-10-25					False	False	3	204	3	House	House	2	4	1069
+153210	DO-4395-GO	620000	2012-10-24					False	False	8	204		House	House	2	4	1012
+153211	IK-7680-CD	420000	2010-12-14					False	False	7	204	2	House	House	1	3	903
+153212	JC-3898-UI							False	False				House	House			
+153213	WO-9174-VI	390000	2004-02-17					False	False	25	284		House	House		4	953
+153214	UV-7458-FF	42500	1993-08-02					False	False	19	284		House	House			1399
+153215	HP-8644-CZ							False	False				House	House			
+153216	TL-8863-MD	171000	1999-06-11					False	False	20	284		House	House			882
+153217	SG-2013-QA							False	False				House	House			
+153218	AI-2194-HK	635000	2013-07-03					False	False	24	284	2	House	House	2	4	945
+153219	SL-1391-YY	605000	2017-05-05					False	False	16	284	4	House	House	2	3	839
+153220	GO-0775-BK	555000	2011-03-10					False	False	23	284	2	House	House	2	5	912
+153221	GG-5362-WJ	440000	2008-12-10					False	False	17	284	2	House	House	2	3	954
+153222	YW-2055-JK	315500	2004-07-03					False	False	22	284		House	House		3	995
+153223	SK-8174-ZP	805000	2018-11-17					False	False	18	284	4	House	House	3	4	1080
+153224	SI-7763-AJ	200000	1998-08-17					False	False	21	284		House	House			1166
+153225	OB-8024-FW							False	False				House	House			
+153226	NX-6685-FX							False	False				House	House			
+153227	SO-7933-QG							False	False				House	House			
+153228	SO-6119-BT							False	False				House	House			
+153229	GD-6475-MB	319950	2004-07-08					False	False	6	252		House	House		4	1164
+153230	KN-5535-DO							False	False				House	House			
+153231	TW-4747-CW	379000	2006-10-19					False	False	5	252	1	House	House	1	3	1018
+153232	SP-9168-KN							False	False				House	House			
+153233	SS-0565-TU							False	False				House	House			
+153234	QR-9574-IO	150000	2001-08-28					False	False	3	252		House	House			1101
+153235	PM-2639-BC							False	False				House	House			
+153236	PL-7350-OI							False	False				House	House			
+153237	LD-1250-ER	170100	1997-12-23					False	False	1	244		House	House			969
+153238	EW-8483-DY		2019-11-25					False	False	9	245	2	House	House	2	4	763
+153239	LG-4849-HE	475000	2014-10-30					False	False	14	272		House	House			773
+153240	UN-6359-SM							False	False				House	House			
+153241	TM-8251-CO	512000	2017-05-08					False	False	2	271	1	House	House	2	3	820
+153242	BV-2420-UN	253000	2000-03-16					False	False	11	272		House	House			1128
+153243	LL-5341-TW	288000	2002-03-01					False	False	1	271		House	House			735
+153244	SL-3331-TP		2014-12-19					False	False	12	272	2	House	House	2	4	
+153245	UV-5028-MP	168500	2001-03-22					False	False	13	272		House	House			872
+153246	NS-0053-UF							False	False				House	House			
+153247	OO-1064-HZ	345000	2006-08-02					False	False	12	222		House	House		3	971
+153248	FT-5397-IS	645000	2018-05-03					False	False	1	210	2	House	House	2	4	960
+153249	QK-2928-KM							False	False				House	House			
+153250	VR-2162-BG	550000	2014-11-24					False	False	5	210	9	House	House	2	5	765
+153251	FX-5958-ER	640000	2018-07-07	Maloney's the Estate Agent	1000	2017	49	False	False	4	210	2	House	House	1	3	781
+153252	KQ-7706-QE	535000	2013-05-09	Strictly Rentals	450	2008	23	False	False	3	210	2	House	House	2	4	786
+153253	QK-4196-YI							False	False				House	House			
+153254	FR-2854-MI	410000	2012-12-17					False	False	2	210	1	House	House	1	3	741
+153255	UA-1579-MS							False	False				House	House			
+153256	HD-0151-XC	360000	2006-10-04					False	False	8	271	2	House	House	1	3	900
+153257	UY-5219-PT							False	False	2	270		House	House			794
+153258	LA-4340-AW	600000	2017-07-10					False	False	9	271		House	House			826
+153259	HZ-0757-LU	450000	2011-05-06					False	False	1	270	1	House	House	1	3	815
+153260	DZ-2620-MD	560000	2010-11-19					False	False	4	208	2	House	House	2	4	975
+153261	SI-1916-PE							False	False	10	209		House	House			910
+153262	QO-7062-YL	432000	2007-03-31					False	False	6	209	0	House	House	1	4	928
+153263	YV-6553-VS	307000	2001-09-13					False	False	3	208		House	House			748
+153264	KB-8526-LI	650000	2013-04-24					False	False	7	209		House	House			744
+153265	BV-9892-VS							False	False				House	House			
+153266	RT-3828-TH	520000	2013-11-26					False	False	8	209	2	House	House	1	4	698
+153267	KA-4125-NJ	620000	2009-09-26					False	False	1	208	2	House	House	2	4	1019
+153268	MY-1684-SX	505000	2009-11-28					False	False	9	209	2	House	House	1	3	793
+153269	HY-3585-AY	580000	2014-08-26					False	False	13	285	2	House	House	3	4	966
+153270	YN-0965-TC							False	False	5	286		House	House			963
+153271	GO-0547-NZ							False	False	8	285		House	House			1069
+153272	DY-0789-YH	327500	2006-05-23					False	False	1	286		House	House		3	898
+153273	CV-7130-GL	158000	1995-01-04					False	False	12	285		House	House			780
+153274	YV-6329-JL							False	False	2	286		House	House			909
+153275	WN-2831-FL							False	False				House	House			
+153276	SZ-4468-UH	395000	2009-10-19					False	False	3	286	2	House	House	1	3	916
+153277	WN-0859-AM							False	False				House	House			
+153278	BS-1227-NU	425000	2009-04-17					False	False	4	286		House	House			830
+153279	SI-0706-CM	521000	2018-12-21					False	False	9	285		House	House			825
+153280	UO-7736-BK							False	False				House	House			
+153281	FG-3624-EE	305000	2004-03-06					False	False	8	223	0	House	House	1	3	934
+153282	TD-0735-XM	360000	2008-03-04					False	False	9	223		House	House			725
+153283	TK-7939-RP	425500	2013-08-30					False	False	10	223	3	House	House	1	3	886
+153284	RM-1896-PR	405000	2004-06-07					False	False	11	223		House	House			1132
+153285	HD-4702-UJ							False	False	12	223		House	House			913
+153286	QL-3164-ZS	500000	2016-11-01	Luton Properties - Belconnen	420	2009	14	False	False	4	223	2	House	House	1	3	1007
+153287	UN-0779-VP							False	False				House	House			
+153288	IG-5192-WP							False	False				House	House			
+153289	UO-5829-BP							False	False				House	House			
+153290	FE-6879-DC	285250	2005-03-10					False	False	6	223		House	House			846
+153291	OK-4886-UU	540000	2017-09-20	Hodgkinson Real Estate 	560	2017	18	True	False	7	223	1	House	House	2	3	750
+153292	UB-2168-OS	215000	1993-06-30					False	False	19	267		House	House			1084
+153293	TF-8242-JD	665000	2012-08-25					False	False	27	266	2	House	House	2	4	718
+153294	TS-5445-LL							False	False				House	House			
+153295	FW-8816-FA	220000	2003-05-12					False	False	28	266		House	House			718
+153296	EG-9737-LK	280000	2002-06-29					False	False	9	267		House	House		4	947
+153297	LN-7809-QB	274000	2002-11-22					False	False	29	266		House	House		3	774
+153298	TG-2824-GL	620000	2012-06-23	Wright Dunn Real Estate 	500	2016	7	True	False	8	267	2	House	House	2	4	861
+153299	FK-8448-UD	680000	2015-05-18					False	False	30	266	5	House	House	2	4	759
+153300	TF-1311-HN							False	False	7	267	1	House	House	1	3	1088
+153301	BW-8670-OZ	652500	2014-10-14					False	False	31	266	2	House	House	3	4	824
+153302	UW-2251-FW	670000	2018-05-01					False	False	6	267	4	House	House	2	4	1050
+153303	FV-9717-IM	570000	2008-08-01					False	False	32	266	2	House	House	2	5	746
+153304	TS-3486-WT							False	False				House	House			
+153305	XM-8915-MT	635000	2019-10-02					False	False	33	266	2	House	House	1	3	697
+153306	TU-6413-AA							False	False				House	House			
+153307	YI-3137-QU	177000	1998-07-29	LJH Tuggeranong	420	2008	9	True	False	34	266	0	House	House	2	4	724
+153308	US-3271-RX	162000	1994-09-14					False	False	3	267		House	House			991
+153309	EF-0722-RE	205000	1993-04-02					False	False	2	267		House	House			900
+153310	QT-8638-MR	765000	2015-04-17					False	False	18	267	2	House	House	2	5	747
+153311	UM-4150-SF	520000	2015-12-12					False	False	24	266	2	House	House	2	3	890
+153312	TO-3867-CE	652500	2016-06-24					False	False	17	267	3	House	House	2	4	929
+153313	XT-5452-IQ							False	False				House	House			
+153314	SJ-9302-SU	154000	1998-03-06					False	False	26	266		House	House			714
+153315	TS-9497-ZW	315000	2000-07-21					False	False	11	267		House	House			858
+153316	JP-1307-JP							False	False				House	House			
+153317	HO-7338-FL	610000	2011-04-02					False	False	17	214	2	House	House	2	4	729
+153318	LA-0278-OV	142000	1991-12-19					False	False	18	214		House	House			773
+153319	HT-6861-ZQ							False	False				House	House			
+153320	RR-9561-YV							False	False				House	House			
+153321	UJ-8772-ZM		2019-12-09					False	False	34	211	2	House	House	2	4	867
+153322	FG-9664-ES	277000	2002-04-26					False	False	20	214		House	House		4	755
+153323	HN-2332-EC							False	False				House	House			
+153324	FC-1153-QO	194000	2000-03-02					False	False	21	214		House	House			731
+153325	RW-5451-JG	190000	2002-05-14					False	False	8	215		House	House			1027
+153326	NB-3780-HH	573000	2008-02-18					False	False	22	214	2	House	House	2	5	743
+153327	UC-1925-PG	184000	2001-08-29					False	False	7	215		House	House			1044
+153328	ZB-2313-DR	630000	2016-02-10					False	False	23	214	2	House	House	2	4	797
+153329	TJ-8771-XH	449000	2008-01-23					False	False	6	215		House	House			760
+153330	NC-1609-RU	160000	1995-03-21					False	False	24	214		House	House			824
+153331	TZ-1098-AH	265000	2002-08-07					False	False	5	215		House	House			740
+153332	ZB-3648-VO	468500	2008-08-05					False	False	10	217	2	House	House	3	5	871
+153333	NC-3007-RJ	125000	1995-07-04					False	False	25	214		House	House			736
+153334	HS-6209-GK							False	False				House	House			
+153335	FW-2421-BK	180600	1997-01-23					False	False	26	214		House	House			837
+153336	HU-6232-JY							False	False				House	House			
+153337	RU-1162-WS	168000	1994-06-27					False	False	27	214		House	House			817
+153338	FZ-6164-YW							False	False	2	215		House	House			871
+153339	FG-7758-NA							False	False	28	214		House	House			766
+153340	NB-5910-QR	240000	2003-10-07					False	False	1	215		House	House			1096
+153341	CA-2444-IF	536000	2013-10-18					False	False	29	214		House	House			960
+153342	GR-2010-HC							False	False				House	House			
+153343	LE-4051-FQ							False	False	35	211		House	House			649
+153344	JM-4071-GK							False	False	31	213		House	House			748
+153345	JG-8831-GL							False	False				House	House			
+153346	KQ-9669-VG	550000	2017-07-05	inStyle Estate Agents	0	2020	15	True	False	29	213	2	House	House	2	3	851
+153347	JH-9967-SM							False	False				House	House			
+153348	UL-4412-YK	705000	2017-04-27					False	False	27	213	3	House	House	2	4	1080
+153349	OI-0540-HO							False	False				House	House			
+153350	KX-9962-EP	141500	1991-08-30					False	False	26	213		House	House			
+153351	JZ-1801-TN							False	False	36	211		House	House			872
+153352	IN-0531-GI	140000	1999-09-22					False	False	8	217		House	House			929
+153353	XM-1176-TA							False	False				House	House			
+153354	OH-7628-LH	335000	2005-07-08					False	False	7	217	4	House	House	1	3	1108
+153355	PU-8464-NY	565000	2019-02-16					False	False	14	242	2	House	House	2	3	794
+153356	LD-5784-UE	570000	2016-09-01	Impact Property Management	565	2017	49	True	False	14	243	1	House	House	2	4	839
+153357	MF-5484-UY							False	False				House	House			
+153358	YT-9958-CE	519950	2011-01-25					False	False	15	243	1	House	House	2	4	1029
+153359	TK-8740-QD	450000	2012-05-11					False	False	8	242	4	House	House	2	3	917
+153360	NK-4734-SA	255000	2005-02-24					False	False	16	243		House	House			1063
+153361	MH-3397-DX							False	False				House	House			
+153362	SW-6973-CM							False	False	17	243	2	House	House	2	4	823
+153363	TN-1586-EZ	353000	2005-06-16					False	False	6	242		House	House		4	808
+153364	WE-3462-YS			Hodgkinson Real Estate 	460	2016	189	False	False			2	House	House	2	4	
+153365	SV-9561-CI	259950	2002-12-05					False	False	5	242		House	House			815
+153366	ZS-8690-IW	517000	2019-08-03					False	False	10	243	3	House	House	2	3	900
+153367	MN-7897-HD							False	False				House	House			
+153368	DY-2668-UX	183000	2001-02-21					False	False	4	242		House	House			822
+153369	RW-8523-BK	152500	1991-10-21					False	False	2	241		House	House			
+153370	VF-2974-DH			Wright Dunn Real Estate 	0	2019	19	False	False			2	House	House	2	3	
+153371	WT-9298-WY	576500	2018-03-27					False	False	3	241	1	House	House	2	3	722
+153372	EA-9557-AP	470000	2009-04-02					False	False	2	242		House	House			691
+153373	VC-7467-YS	480000	2011-08-30					False	False	4	241	2	House	House	2	4	767
+153374	QV-3920-AV	515000	2014-12-15					False	False	1	242	2	House	House	2	4	785
+153375	NE-5489-BQ							False	False	5	241		House	House			733
+153376	LJ-1628-GY							False	False	13	242		House	House			721
+153377	RU-8904-RP							False	False	6	241		House	House		5	
+153378	LH-4798-TK	530000	2017-09-22	Peter Blackshaw Tuggeranong	450	2015	17	False	False	7	241	3	House	House	1	3	732
+153379	YG-0094-QN	168000	1998-03-18					False	False	11	243		House	House			832
+153380	RS-4415-HX	420000	2010-12-23	McGrath Woden Property Management	575	2018	60	True	False	12	242	2	House	House	2	4	726
+153381	SW-0125-IJ	520000	2015-10-22					False	False	12	243	4	House	House	2	4	797
+153382	RY-8463-PI	140000	1991-03-20					False	False	11	242		House	House			
+153383	ZO-6497-WQ	435000	2008-09-12					False	False	13	243		House	House			777
+153384	TK-8283-MM							False	False	10	242		House	House			823
+153385	RC-9711-IZ	169000	1993-04-07					False	False	15	283		House	House			1077
+153386	LZ-7841-ZH	685000	2011-09-24					False	False	16	283	3	House	House	2	5	826
+153387	YL-3717-VZ							False	False	11	283	2	House	House	2	4	1039
+153388	VP-5244-JV	545250	2012-11-07					False	False	12	283	2	House	House	2	4	985
+153389	VP-6224-SR							False	False	13	283		House	House			1113
+153390	SJ-9295-OG	129950	1997-03-27					False	False	14	283		House	House			1074
+153391	OL-6351-OE							False	False				House	House			
+153392	VB-3012-SK	192000	2000-12-21					False	False	13	275		House	House			697
+153393	VO-7548-PR	389000	2009-08-28					False	False	12	275	1	House	House	1	3	722
+153394	US-8326-EL	139000	1993-01-08					False	False	11	275		House	House			780
+153395	FJ-3771-LL	137500	1991-08-16					False	False	10	275		House	House			780
+153396	QR-6919-VJ							False	False			1	House	House	2	3	
+153397	LH-0818-KY	234950	2001-07-27					False	False	17	275		House	House			820
+153398	RN-5921-PG			Laurrie Scheele	0	2020	18	False	False			2	House	House	2	4	
+153399	UV-3748-KY	205000	2002-05-06					False	False	15	275		House	House			877
+153400	HB-0955-PE	517500	2015-07-08					False	False	14	275	1	House	House	1	4	711
+153401	OD-7646-HY	237000	1994-05-02					False	False	15	205		House	House			897
+153402	KJ-9988-RD	550000	2010-12-10	One Agency Scott Crossman	700	2018	14	True	False	16	205	2	House	House	2	4	1139
+153403	BY-2756-NO	170000	1999-12-02					False	False	10	206		House	House		4	974
+153404	ZP-3623-CD	540000	2011-10-07					False	False	2	240	2	House	House	2	5	726
+153405	VN-4134-XP	157000	1994-05-06					False	False	14	241		House	House			700
+153406	II-6330-DQ	640000	2018-11-09					False	False	1	240	2	House	House	2	4	929
+153407	ND-6891-EE							False	False				House	House			
+153408	ED-1543-CQ	387000	2009-03-03					False	False	16	241		House	House		3	862
+153409	BZ-7019-CN							False	False				House	House			
+153410	KN-5170-RD	420000	2003-03-29					False	False	11	207		House	House		4	865
+153411	NP-3537-YA	217500	1995-12-04					False	False	5	208		House	House			965
+153412	SJ-7885-BE	495000	2006-09-06					False	False	7	207	0	House	House	2	4	1000
+153413	KH-8810-II	222500	2000-11-24					False	False	6	208		House	House			810
+153414	BX-1368-CN							False	False				House	House			
+153415	NK-7780-PI	625000	2015-05-22					False	False	7	208	3	House	House	2	4	729
+153416	EF-4746-XW	472000	2006-04-13					False	False	9	207	0	House	House	2	5	955
+153417	KH-3417-AH	285000	2000-01-13					False	False	8	208		House	House			918
+153418	OE-0263-DP	608000	2017-10-28	Peter Blackshaw Real Estate Queanbeyan & Jerrabomberra	470	2016	40	False	False	10	207	1	House	House	2	3	707
+153419	UM-9723-SJ	332000	2005-08-09					False	False	11	210		House	House			731
+153420	NS-3943-CN							False	False				House	House			
+153421	YZ-7708-HR	216000	1993-12-20					False	False	4	209		House	House			820
+153422	LB-0717-MC							False	False				House	House			
+153423	OE-5405-AQ	440000	2005-05-03					False	False	3	209	2	House	House	2	4	908
+153424	TP-6022-EY	575000	2019-07-17					False	False	9	210	1	House	House	1	3	707
+153425	KN-6106-KI	155000	1996-08-28					False	False	2	209		House	House			792
+153426	FA-7915-BY	138667	2016-01-21					False	False	10	210	2	House	House	2	3	697
+153427	RO-3564-OY	782000	2019-01-08					False	False	1	209	6	House	House	3	6	868
+153428	PP-4754-UL	635000	2016-11-12	Elders TUGGERANONG ACT	290	2002	28	False	False	15	219	2	House	House	2	4	917
+153429	FL-4202-YU							False	False				House	House			
+153430	QK-9288-OF							False	False				House	House			
+153431	QN-4659-OJ	670000	2019-12-02					False	False	11	221	2	House	House	2	4	743
+153432	JG-3869-LW							False	False				House	House			
+153433	ZF-9406-PH	535000	2016-03-08					False	False	10	221	3	House	House	2	4	758
+153434	JC-1737-FV	561000	2018-10-16					False	False	9	221	1	House	House	1	3	729
+153435	QP-8857-EB							False	False	8	221		House	House			754
+153436	BW-5960-OR	390000	2008-04-24	Little Bird Properties	0	2019	3	True	False	7	221	2	House	House	3	3	733
+153437	MA-0638-XM	170000	1999-05-05					False	False	6	221		House	House			886
+153438	ZE-1650-AH	530000	2018-05-17					False	False	1	223	2	House	House	1	3	897
+153439	FT-7874-WI	135500	1993-03-03	McIntyre Property	460	2018	28	True	False	5	221	2	House	House	1	3	750
+153440	BW-6595-PN	433000	2014-09-12					False	False	14	219	1	House	House	1	3	669
+153441	IK-1085-DX							False	False				House	House			
+153442	GV-6109-TK	525000	2015-03-27					False	False	4	221	1	House	House	2	4	780
+153443	OM-2536-ZE							False	False	3	223		House	House			
+153444	FI-8230-OQ							False	False				House	House			
+153445	FD-2053-LA			Independent Property Management	0	2019	7	False	False	2	221	2	House	House	1	3	845
+153446	SZ-8039-LB	474000	2009-11-17					False	False	1	221	2	House	House	2	3	1019
+153447	RV-4457-ZG	560000	2010-03-04					False	False	15	225	2	House	House	2	4	892
+153448	QP-3419-SB							False	False				House	House			
+153449	QP-0954-TZ							False	False				House	House			
+153450	QO-5707-PJ							False	False				House	House			
+153451	QN-4339-XP							False	False				House	House			
+153452	VT-0139-JQ	315000	2004-09-27					False	False	8	222		House	House		4	1214
+153453	FH-1959-BF	410000	2009-03-06					False	False	13	219		House	House			733
+153454	QN-9400-UO							False	False				House	House			
+153455	QI-8750-PL							False	False				House	House			
+153456	OS-0571-KU	147000	1994-05-03					False	False	16	225		House	House			739
+153457	LW-3238-LC	560000	2019-10-18					False	False	12	219	0	House	House	2	3	688
+153458	AI-7221-KB	580000	2019-07-08					False	False	17	225	2	House	House	1	3	771
+153459	EM-9011-BB	300000	2005-04-05	Peter Blackshaw Tuggeranong	495	2015	22	True	False	11	219	2	House	House	2	4	786
+153460	RC-0061-FG							False	False	5	263		House	House			767
+153461	SV-4949-GD	448000	2016-09-24	Distinct Property Management	570	2019	3	True	False	4	263	1	House	House	1	3	864
+153462	TE-4351-LP			Little Bird Properties	650	2018	14	False	False			2	House	House	2	4	
+153463	QO-7906-QK	575000	2019-09-27					False	False	3	265	2	House	House	2	2	763
+153464	SA-9329-DQ							False	False				Unit	Unit			
+153465	EF-0720-NI	295000	1999-12-02					False	False	1	267		House	House		3	998
+153466	UC-0918-ZD	328000	2007-02-06					False	False	4	265	1	House	House	1	3	818
+153467	FT-4504-NW	125000	1997-04-02					False	False	4	262		House	House			811
+153468	TH-4652-NJ	727500	2018-03-06					False	False	5	265	2	House	House	2	6	879
+153469	SY-6816-RJ							False	False				House	House			
+153470	XG-5932-SU	606000	2018-10-23					False	False	6	265	2	House	House	2	3	768
+153471	DX-7689-TA							False	False	7	265		House	House			777
+153472	UL-5777-ID	437000	2009-09-05	LJH Tuggeranong	450	2009	1	True	False	8	265	2	House	House	2	3	743
+153473	KY-8791-PN	457500	2015-12-21					False	False	5	261	2	House	House	1	3	696
+153474	QU-6708-UV	330000	2003-06-17					False	False	7	264		Land	Land			767
+153475	LV-6135-YO							False	False				House	House			
+153476	VJ-1678-HL	457000	2016-05-12					False	False	10	265		House	House			947
+153477	SJ-6696-AD							False	False				House	House			
+153478	QU-4725-LB	440000	2005-12-09					False	False	16	266	0	House	House	2	4	890
+153479	OV-2196-VE							False	False				House	House			
+153480	TY-1525-OV	175000	2001-04-27					False	False	18	266		House	House			741
+153481	YS-5048-PT	177000	2002-05-08					False	False				House	House		4	
+153482	UR-2375-HB	452000	2014-09-04					False	False	19	266	0	House	House	1	3	864
+153483	EH-3710-PH	372000	2007-09-25					False	False	20	266	2	House	House	1	3	913
+153484	VG-9487-YS	305000	2004-08-12					False	False	21	266		House	House		3	948
+153485	VH-0503-PA	630000	2017-06-15					False	False	6	264	2	House	House	2	4	757
+153486	OU-8838-CJ							False	False				House	House			
+153487	TD-7678-MW							False	False				House	House			
+153488	PX-4429-IO	465000	2009-02-12					False	False	23	266	2	House	House	2	4	1055
+153489	CL-4088-HA	210000	2002-09-04	McGrath Woden Property Management	520	2019	26	True	False	32	258	2	House	House	1	3	698
+153490	TI-9157-ZI	170000	1999-01-05					False	False	31	258		House	House			1034
+153491	XZ-5792-YT							False	False				House	House			
+153492	BD-0659-KX							False	False				House	House			
+153493	MH-6272-GV							False	False	29	258		House	House			908
+153494	TM-7099-CO	155000	1996-09-13					False	False	21	267		House	House			689
+153495	QJ-2028-RQ	590000	2016-10-21					False	False	28	258	3	House	House	2	3	941
+153496	FL-0860-JR	450000	2010-11-20					False	False	22	267	2	House	House	2	4	
+153497	GA-3218-NN	164950	1991-12-18					False	False	27	258		House	House			
+153498	EC-3980-TF	515000	2015-07-10	Total Property Management - Bright Partners	510	2011		False	False	26	258	2	House	House	2	4	803
+153499	YA-8867-DG	616000	2016-05-18					False	False	25	258	3	House	House	2	4	790
+153500	QS-3156-CV	220000	1992-12-30					False	False	24	258		House	House			805
+153501	YA-9442-XV							False	False				House	House			
+153502	WH-2226-OF	587000	2009-12-05					False	False	22	258	2	House	House	2	4	800
+153503	XP-0222-KO							False	False				House	House			
+153504	UZ-0439-AH	165000	2001-05-25					False	False	3	256		House	House			908
+153505	QB-8253-LO	580000	2010-10-29					False	False	12	255	2	House	House	2	4	874
+153506	JG-9689-SI	20000	1991-04-23					False	False	2	256		House	House			
+153507	CK-7835-LG	165000	2000-06-02					False	False	13	255		House	House			700
+153508	VN-2795-BG	450000	2016-03-09					False	False	1	256	2	House	House	1	3	818
+153509	RI-3565-ZW	456000	2010-11-06	Luton Properties - Manuka	470	2011	21	True	False	14	255	2	House	House	1	3	769
