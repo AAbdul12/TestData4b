@@ -1,0 +1,67 @@
+StreetAddressID	DomainPropertyId	LastSalePrice	LastSaleDate	LastRentalAgency	LastRentalPrice	LastRentalYear	RentDaysOnMarket	isPotentialInvestment	isPropertyInBuilding	lotNumber	planNumber	parking	propertyCategory	propertyType	bathrooms	bedrooms	BlockSize
+209118	LI-2164-JM							False	False				House	House			
+209120	OG-8164-CG	725500	2015-07-20					False	False			0	House	House	3	4	
+209121	GA-0965-JW							False	False			1	House	House	2	4	
+209122	CE-4359-KM							False	False	15	8	1	House	House	1	3	250
+209124	CK-8261-GK							False	False	16	8		House	House			250
+209125	CD-5447-UB	477500	2018-12-20					False	False	4	9	1	House	House	1	3	251
+209126	EM-0966-NN							False	False				House	House			363
+209127	RZ-3600-CI			Instyle Estate Agents Projects	470	2017	8	False	False			1	House	House	2	3	
+209129	RY-9699-RM	415000	2015-07-28					False	False			1	House	House	2	3	
+209131	CM-3483-TQ	530500	2017-10-19	EnVogue Property Management	500	2016	1	False	False	11	9	1	House	House	2	3	341
+209133	ED-4497-TA	600000	2018-11-08					False	False	10	9	1	House	House	2	4	341
+209134	FZ-8366-CK							False	False			2	House	House	2	4	
+209135	OH-1788-HZ							False	False			1	House	House	1	3	
+209137	FO-8671-XN							False	False				House	House			340
+209140	SF-2587-JR	445000	2018-07-13					False	True	1	4	1	Unit	Unit	2	3	
+209141	YJ-2545-AO							False	True				Unit	Unit			
+209142	CG-3250-OX							False	False				House	House			
+209143	TU-6851-EI							False	True				Unit	Unit			
+209145	TQ-1589-RL							False	True				Unit	Unit			
+209146	CI-7833-KX							False	False	17	3		House	House			405
+209147	TQ-0885-NC							False	True				Unit	Unit			
+209148	XN-5237-OW							False	True				Unit	Unit			
+209149	JM-5686-SB							False	False			2	House	House	2	4	
+209150	UD-6225-AW							False	True				Unit	Unit			
+209151	PH-0802-ZN	408000	2019-09-20	McGrath Estate Agents Property Management	465	2019	5	True	True	1	4	2	Unit	Unit	2	2	
+209152	NO-1709-IE							False	False				House	House			450
+209153	TI-4794-SU							False	True				Unit	Unit			
+209155	ED-6345-GH			LJ Hooker Belconnen	620	2017	24	False	False			2	House	House	3	5	
+209156	LY-1239-FG			home.byholly	0	2019	47	False	True			2	House	Townhouse	2	2	
+209157	OY-0312-EZ							False	True				Unit	Unit			
+209159	YD-8937-VD	385000	2018-06-29	White Rhino Property	0	2019	23	True	True	1	4	2	House	Townhouse	2	2	
+209160	CF-2846-RU							False	False				House	House			
+209161	XT-5164-BD	430000	2017-04-13					False	True	1	4	1	Unit	Unit	2	3	
+209162	HL-2571-QO							False	True			1	House	Townhouse	2	3	
+209164	XS-1322-BF	350000	2017-04-20					False	True	1	4	1	Unit	Unit	3	2	
+209165	XP-1325-SY							False	True				Unit	Unit			
+209167	XV-0109-WC							False	True				Unit	Unit			
+209169	PK-1574-TC			White Rhino Property	0	2019		False	True			2	House	Townhouse	2	2	
+209170	LD-7271-CR							False	False				House	House			450
+209171	OX-2571-RN	405000	2019-06-20					False	True	1	4	2	Unit	Unit	2	2	
+209172	CW-7496-OE							False	False				House	House			405
+209173	VF-1805-QT							False	True			1	House	Townhouse	2	3	
+209174	DZ-4413-XT							False	False			2	House	House	2	4	
+209175	NY-3623-VQ	440000	2016-11-15					False	True	1	4	2	Unit	Unit	2	3	
+209176	NP-1199-XW		2016-10-17					False	False			2	House	House	2	4	436
+209178	MA-4905-ZL							False	True				Unit	Unit			
+209179	JM-5167-KT			McGrath Estate Agents	740	2018	51	False	False			2	House	House	2	5	
+209180	SX-0358-HY	475000	2019-07-18					False	True	1	4	1	Unit	Unit	2	3	
+209181	LG-3737-WA			Taylors Real Estate	410	2014	5	False	False			1	House	House	2	3	
+209182	SV-4620-TQ							False	True				Unit	Unit			
+209183	HA-6909-BK							False	False				House	House			450
+209184	TB-5595-HX	438000	2016-08-05					False	True	1	4	1	Unit	Unit	2	3	
+209185	NN-1040-YY	588000	2015-09-11					False	False			2	House	House	2	4	
+209186	VY-1628-QX	450000	2018-03-07					False	True	1	4	1	Unit	Unit	2	3	
+209187	NN-2647-SR							False	False				House	House			451
+209188	VA-6269-JR	465000	2019-09-18	McGrath Estate Agents	500	2018	14	False	True	1	4	1	Unit	Unit	2	3	
+209190	XK-9833-TZ							False	False				House	House			744
+209193	TC-0255-QH	385000	2019-09-11					False	True	1	4	1	Unit	Unit	1	2	
+209194	NS-7310-UO							False	False				House	House			678
+209196	ZI-5582-WU	915000	2018-09-25					False	False	8	2	2	House	House	3	5	648
+209197	MC-7857-OZ							False	True				Unit	Unit			
+209198	VV-6801-TR							False	True				Unit	Unit			
+209200	SV-3817-XY							False	True				Unit	Unit			
+209201	SU-0871-ZZ							False	True				Unit	Unit			
+209202	CC-7709-YN							False	False				House	House			
+209203	VS-1191-GQ							False	True				Unit	Unit			
