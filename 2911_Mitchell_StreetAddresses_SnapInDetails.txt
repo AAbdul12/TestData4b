@@ -1,0 +1,914 @@
+StreetAddressID	DomainPropertyId	LastSalePrice	LastSaleDate	LastRentalAgency	LastRentalPrice	LastRentalYear	RentDaysOnMarket	isPotentialInvestment	isPropertyInBuilding	lotNumber	planNumber	parking	propertyCategory	propertyType	bathrooms	bedrooms	BlockSize
+177929	ZE-3063-BP							False	False				Unit	Unit			
+177930	IV-5773-OH	517000	2012-09-05					False	True	30	4		Commercial	Retail			
+177931	FO-8779-ZZ							False	False				Unit	Unit			
+177932	FL-1566-BT							False	False				House	House			
+177933	BD-1177-MI							False	False				Unit	Unit			
+177937	RT-1207-LI							False	False				House	House			
+177940	NX-1702-QI							False	False				House	House			
+177941	RV-0111-JN	1500000	2016-01-21					False	False	5	11		Commercial	Retail			
+177943	TB-4596-ZT	630000	2018-11-26					False	True	6	11		Commercial	Retail			
+177944	OC-0649-OV							False	False				Unit	Unit			
+177945	HG-9409-UV							False	True	30	4		Commercial	Retail			
+177946	SU-7633-TN							False	False				Unit	Unit			
+177947	TZ-4574-FG							False	False				Unit	Unit			
+177949	QS-9276-FU							False	False				House	House			2601
+177950	OP-8215-QA	2350000	2012-11-16					False	False	12	9		Commercial	Industrial			
+177951	CX-5271-LX							False	False				House	House			
+177954	YL-5411-ZM							False	False				House	House			
+177955	QA-0219-EE							False	False				House	House			
+177958	CO-4219-YO							False	True				Unit	Unit			
+177959	XM-9025-NT	520000	2010-07-06					False	True	30	4		Commercial	Retail			
+177960	EM-7986-RR							False	False				Unit	Unit			
+177961	YM-6701-AV							False	False				House	House			
+177962	QE-0233-SV							False	False				House	House			
+177963	QV-2494-HE							False	False				House	House			
+177964	LJ-6613-BD							False	False				House	House			
+177965	OW-5312-LH							False	False				House	House			
+177966	PB-4463-QB							False	False				House	House			
+177967	FZ-0474-KY							False	False				House	House			
+177968	PZ-2820-HP							False	True				Unit	Unit			
+177969	CK-7194-BA							False	True	6	11		Commercial	Retail			
+177970	XQ-8987-BZ	495000	2016-09-13					False	True	30	4		Commercial	Retail			
+177971	XH-2289-QT							False	False				Unit	Unit			
+177973	XO-5108-FT							False	False				House	House			
+177974	ZF-5013-CG							False	False				House	House			
+177975	TH-4692-MA							False	False				House	House			
+177976	SQ-8084-WO							False	False				House	House			
+177977	TA-2611-YT							False	False				House	House			
+177978	JE-5326-VK							False	False				House	House			
+177979	PM-1173-EK							False	False				House	House			
+177981	GM-7821-XK							False	False				House	House			
+177982	LZ-6849-LW							False	True				Unit	Unit			
+177983	MQ-7820-LF							False	True				Unit	Unit			
+177984	FQ-7313-DR	480000	2016-06-17					False	True	30	4		Commercial	Retail			
+177986	EX-1253-EV							False	False				Unit	Unit			
+177988	YA-1380-CN							False	False				House	House			
+177989	XL-6616-BS							False	False				House	House			
+177990	SO-4881-EU							False	False				House	House			
+177991	MM-4298-SF							False	False				House	House			
+177992	IS-3154-UN							False	False				House	House			
+177993	HG-9828-TE							False	True				Unit	Unit			
+177994	BE-5357-IP							False	True				Unit	Unit			
+177995	BG-2505-YB							False	False				House	House			
+177996	OJ-4069-JF							False	False				Unit	Unit			
+177997	BG-2505-YB							False	False				House	House			
+177998	BE-6807-LR							False	False				House	House			
+177999	CN-1066-RR	200000	2001-03-22	Raine & Horne Comm Canberra	120000	2007	96	True	False	27	4		Commercial	Retail			1575
+178002	JQ-9841-XC	1545000	2016-03-31					False	False	5	4		Commercial	Industrial			
+178006	OV-5946-KR	875000	2006-12-06					False	False	9	2		Commercial	Industrial			2601
+178008	IK-6322-AS							False	False				House	House			
+178011	RS-5907-ZK							False	True				Unit	Unit			
+178012	UU-8767-AO							False	False				Unit	Unit			
+178015	NU-7417-EA	2550000	2018-08-15	Civium Property Group - Commercial	297000	2018	442	True	False	10	2		Commercial	Industrial			2601
+178017	FA-2753-HV	845000	2007-06-13					False	False	3	4		Commercial	Industrial			2601
+178021	IR-3663-RT							False	False	2	4		Commercial	Industrial			
+178024	EP-8718-LQ							False	False				House	House			
+178026	WU-0944-DL							False	True				Commercial	Commercial			
+178027	HA-2718-KD							False	False				Unit	Unit			
+178028	BG-2505-YB							False	False				House	House			
+178033	MT-7942-JE							False	True				Commercial	Commercial			
+178034	PH-3267-WD							False	False				Unit	Unit			
+178036	KR-0206-MB							False	False				House	House			
+178037	KU-5758-YW							False	False				Unit	Unit			
+178038	VR-8989-HM							False	False				Unit	Unit			
+178039	KO-2980-GE	212300	2004-09-28					False	True	42	7		Commercial	Industrial			
+178040	NU-1946-KC			Knight Frank - Canberra		2013	196	False	True				Commercial	Commercial			
+178041	LK-8084-YI							False	False				House	House			
+178042	VN-6211-WT							False	False				House	House			
+178043	UK-6930-CZ							False	False				House	House			
+178044	ZS-7762-UZ	145000	2000-11-20					False	False	43	7		Land	Land			2042
+178045	UA-9479-ZK							False	False				House	House			
+178046	BN-8800-TX							False	False				House	House			2400
+178047	NY-0682-JY							False	False				House	House			
+178048	JA-4182-ML							False	False				House	House			
+178049	UA-9479-ZK							False	False				House	House			
+178050	VQ-4504-ND	412500	2012-03-28					False	True	42	7		Commercial	Industrial			
+178051	UA-9479-ZK							False	False				House	House			
+178052	OP-9051-MT							False	False				House	House			
+178054	IT-2747-WN		2018-05-24					False	False				Commercial	Commercial			
+178055	WH-3169-RB							False	False				House	House			
+178056	TJ-3727-RX							False	False				House	House			
+178058	FM-7504-VX							False	False				Unit	Unit			
+178059	TZ-7041-KQ	264000	2004-02-24					False	True	42	7		Commercial	Industrial			
+178060	BL-7346-GN							False	False				House	House			
+178061	RL-5374-HQ							False	False				House	House			
+178062	RL-5374-HQ							False	False				House	House			
+178063	ZA-8968-EQ							False	False				House	House			
+178064	MJ-3151-PY							False	False				House	House			
+178065	QE-8601-LL							False	False				House	House			
+178066	LS-1384-MP							False	False				House	House			
+178067	SR-8454-DQ							False	False				House	House			
+178068	OV-7358-NG	1500000	2007-05-16					False	False	41	7		Commercial	Industrial			
+178069	PA-5205-OC							False	False				House	House			
+178070	FZ-4219-YV							False	False				House	House			
+178071	IP-7745-KL							False	False				Unit	Unit			
+178072	IF-0339-PS	396000	2006-11-15					False	True	42	7		Commercial	Industrial			
+178073	UA-9479-ZK							False	False				House	House			
+178074	RW-8341-SB							False	False				House	House			
+178075	XR-4788-ZD							False	False				House	House			
+178076	ZE-4610-WE							False	False				House	House			
+178077	TG-9839-XG							False	False				House	House			
+178078	SM-3706-GM							False	False				House	House			
+178079	SZ-0429-ZP							False	False				House	House			
+178080	JF-1782-ZA							False	False				House	House			
+178081	IW-7979-XP							False	False				Unit	Unit			
+178082	TD-6506-GZ	498000	2013-07-23					False	True	42	7		Commercial	Industrial			
+178083	IV-3281-WD	225500	2004-07-20					False	True	42	7		Commercial	Industrial			
+178084	UA-9479-ZK							False	False				House	House			
+178085	ZZ-4274-HB	425000	2019-07-29					False	True	42	7		Commercial	Industrial			
+178087	HU-9969-HE	475000	2018-06-29					False	True	42	7		Commercial	Industrial			
+178088	UA-9479-ZK							False	False				House	House			
+178089	RJ-5797-HJ	470000	2018-03-19					False	True	42	7		Commercial	Industrial			
+178090	EZ-2876-JP	1495000	2012-04-11					False	True	19	20		Commercial	Industrial			
+178091	SM-1022-DM	1850000	2010-03-23					False	False	9	21		Commercial	Commercial			4801
+178092	MP-0220-XN	2750000	2014-06-10					False	False	17	21			Other Industrial			6894
+178093	MW-3593-QJ	3100000	2014-12-23	Colliers International Canberra		2019	24	True	False	18	21		Commercial	Industrial			6587
+178094	KC-8674-HC	475000	2005-03-02					False	True	19	20		Commercial	Industrial			
+178095	KE-4446-XE	475000	2005-03-02					False	True	19	20		Commercial	Industrial			
+178096	BH-4115-XW	800000	2013-09-06					False	False	5	20		Commercial	Industrial			1085
+178097	WX-2051-BK							False	True				Unit	Unit			
+178098	TG-1054-BN							False	False				House	House			
+178099	UT-8066-TD							False	True				Unit	Unit			
+178102	HA-2500-YF							False	False				House	House			
+178104	KN-3541-KY							False	False				Unit	Unit			
+178105	OP-3033-WC	300000	2016-04-15					False	True	37	18		Commercial	Industrial			
+178106	YY-5762-YG							False	False				Unit	Unit			
+178108	YT-8213-OT							False	True				Unit	Unit			
+178109	YD-3746-ZF	220000	1999-11-16					False	False	11	18		Commercial	Industrial			2683
+178111	IA-5769-ML							False	False				Unit	Unit			
+178112	YT-8253-LU	300000	2016-04-19					False	True	37	18		Commercial	Industrial			
+178113	MC-1662-RY							False	False				Unit	Unit			
+178114	YU-0605-PK	300000	2016-04-22	LJ Hooker Commercial Canberra		2015	140	False	True	37	18		Commercial	Industrial			
+178115	SC-2093-QU	811000	2001-10-05	Raine & Horne Comm Canberra	21240	2006	14	True	False	8	18		Commercial	Industrial			
+178116	SC-2093-QU	811000	2001-10-05	Raine & Horne Comm Canberra	21240	2006	14	True	False	8	18		Commercial	Industrial			4991
+178117	HV-0412-EU							False	False				Unit	Unit			
+178118	ON-0045-TS	300000	2016-04-26					False	True	37	18		Commercial	Industrial			
+178119	LV-7864-ZO							False	False				Unit	Unit			
+178120	ON-0027-MU	300000	2016-04-28					False	True	37	18		Commercial	Industrial			
+178121	BW-7717-YR							False	False				House	House			
+178122	XC-4518-LM							False	True				Unit	Unit			
+178123	YS-9249-ZO							False	True				Unit	Unit			
+178124	FE-5963-EI	100000	1991-11-11					False	False	33	18		Commercial	Industrial			
+178125	XE-9225-ZA			Civium Property Group - Commercial	0	2020	197	False	True				Commercial	Industrial			
+178126	YR-7051-JZ			Civium Property Group - Commercial	0	2020	197	False	True				Commercial	Industrial			
+178127	SF-9948-QM	2700000	2011-09-20					False	False	34	18		Commercial	Industrial			4178
+178128	SF-9948-QM	2700000	2011-09-20					False	False	34	18		Commercial	Industrial			4178
+178129	LF-8073-PL							False	False				Unit	Unit			
+178130	UC-7227-QV	1000000	2009-01-21					False	True	7	57		Commercial	Industrial			
+178131	BE-7506-LU	950000	2013-12-04					False	True	5	57		Commercial	Industrial			
+178132	HY-5456-YE	184000	2012-06-12	Raine & Horne Comm Canberra	40000	2007	77	False	True	16	34		Commercial	Industrial			
+178133	ND-4253-RQ							False	True				Unit	Unit			
+178134	MG-4189-KL	121000	2003-10-03					False	False	1	34		Commercial	Industrial			
+178135	XO-0906-GK							False	False				Unit	Unit			
+178136	SR-9484-VS	500000	2013-01-14					False	True	1	58		Commercial	Industrial			
+178137	DE-7940-JZ							False	False				Unit	Unit			
+178138	MK-6806-HU			Civium Property Group - Commercial	0	2019		False	True			4	Commercial	Commercial			
+178139	ST-0858-DA	735273	2014-11-10	Knight Frank - Canberra		2014	224	False	True	3	58		Commercial	Industrial			
+178140	QX-0301-YC	730000	2018-04-05					False	True	18	22		Commercial	Industrial			
+178141	EG-5179-JU			CBRE Canberra	0	2020	675	False	True				Commercial	Industrial			
+178142	VD-3343-GI	495000	2005-02-15					False	True	20	22		Commercial	Industrial			
+178143	LJ-5387-JY	1100000	2006-07-04					False	False	8	57		Commercial	Industrial			4526
+178144	KW-5277-OH							False	True				Unit	Unit			
+178145	NN-9691-PA							False	False				Unit	Unit			
+178146	UD-4845-EG	1230000	2018-06-19					False	True	7	57		Commercial	Industrial			
+178147	HJ-1386-WJ	874500	2007-11-16					False	True	5	57		Commercial	Industrial			
+178148	GM-8991-KG	280000	1998-12-11					False	True	16	34		Commercial	Industrial			
+178149	LF-5299-BG							False	False				Unit	Unit			
+178150	UR-5213-QK							False	True				Unit	Unit			
+178151	DK-8388-CW							False	False				Unit	Unit			
+178152	VC-8485-LG							False	False				Unit	Unit			
+178153	WO-5655-UJ	450000	2012-05-14					False	True	1	58		Commercial	Industrial			
+178154	GA-3279-LN							False	False				Unit	Unit			
+178155	IH-3846-MK							False	True				Commercial	Commercial			
+178156	WJ-6448-NH	584727	2014-11-10	Knight Frank - Canberra		2014	224	False	True	3	58		Commercial	Industrial			
+178157	QW-9401-AH	490000	2018-09-21					False	True	18	22		Commercial	Industrial			
+178158	AF-5892-CS							False	True				Commercial	Industrial			
+178159	KA-0936-TR	420000	2018-09-29	Raine & Horne Commercial Canberra	33000	2013	119	False	True	20	22		Commercial	Industrial			
+178162	XN-2579-TD							False	True				Unit	Unit			
+178163	BW-5415-CW							False	False				Unit	Unit			
+178164	PJ-3325-QI	539000	2010-05-04					False	True	7	57		Commercial	Industrial			
+178165	UV-3971-LO	705600	2009-02-25					False	True	5	57		Commercial	Industrial			
+178166	SM-0306-GK	160000	2000-07-24	Wright Dunn Real Estate		2017	64	True	True	16	34		Commercial	Industrial			
+178167	FJ-4151-RK							False	True				Unit	Unit			
+178168	JI-5186-RN							False	False				Unit	Unit			
+178169	WN-1312-VV	389000	2012-05-14					False	True	1	58		Commercial	Industrial			
+178170	EA-9007-GX							False	True				Commercial	Industrial			
+178171	WC-2945-VY	600000	2017-05-05	Knight Frank - Canberra		2014	224	False	True	3	58		Commercial	Industrial			
+178172	QY-3101-FJ	490000	2018-09-21					False	True	18	22		Commercial	Industrial			
+178173	AD-8371-TU							False	True				Commercial	Industrial			
+178174	VE-0985-WA	410000	2015-12-10					False	True	20	22		Commercial	Industrial			
+178175	MP-6928-NM	740000	2006-08-23					False	False	6	57		Commercial	Industrial			4633
+178176	OD-9845-HX							False	False				House	House			
+178179	BW-2169-JM							False	False				Unit	Unit			
+178180	HJ-6271-YX	700000	2018-08-29					False	True	7	57		Commercial	Industrial			
+178181	BD-1395-RS	450000	2010-04-21					False	True	5	57		Commercial	Industrial			
+178182	YD-0734-HZ	544500	2016-10-07	Barton Commercial Property	48000	2016	195	True	True	16	34		Commercial	Industrial			
+178183	BJ-4711-MO			Barton Commercial Property	343080	2015	668	False	True				Commercial	Industrial			
+178184	SK-2877-JO	465300	2016-10-25					False	True	1	58		Commercial	Industrial			
+178185	LU-0884-RD							False	True				Commercial	Industrial			
+178186	WD-0730-EK							False	True	3	58		Commercial	Industrial			
+178187	TJ-6771-YN	785000	2018-10-31					False	False	4	58		Commercial	Industrial			
+178188	NS-7778-JF	490000	2019-02-19					False	True	18	22		Commercial	Industrial			
+178189	AD-5343-ZM							False	True				Unit	Unit			
+178190	VE-7543-FH	395000	2015-09-30					False	True	20	22		Commercial	Industrial			
+178191	NY-2746-BL	1173810	2008-02-21	Raine & Horne Commercial Canberra		2013	217	True	False	5	59		Commercial	Industrial			3557
+178192	BU-9946-PB	145000	1993-04-28					False	False	9	34			Other Commercial			2000
+178193	YW-4892-ZR	101000	1992-04-14					False	False	10	34			Other Commercial			1860
+178194	OV-8194-BN							False	False				Commercial	Industrial			
+178195	SV-1989-XK	174000	1995-01-30					False	False	11	34		Commercial	Industrial			3028
+178197	HJ-6827-NR							False	False				House	House			
+178198	FU-4973-YT							False	False				House	House			
+178199	HN-5522-ZA	590000	2018-08-07	Raine & Horne Commercial Canberra	0	2019	398	True	True	7	57		Commercial	Industrial			
+178200	EN-4062-LS	360360	2007-09-07	Raine & Horne Commercial Canberra	0	2018	236	True	True	5	57	2	Commercial	Industrial			
+178201	ZX-2357-ZA	280000	2007-08-14					False	True	16	34		Commercial	Industrial			
+178202	OP-9790-DE							False	True				Unit	Unit			
+178203	SK-6088-DH	430000	2019-07-04					False	True	1	58	2	Commercial	Industrial			
+178204	MK-2810-PJ							False	True				Commercial	Industrial			
+178205	FL-6447-PX							False	True	3	58		Commercial	Industrial			
+178206	CV-9188-QU							False	True				Commercial	Industrial			
+178207	AD-2906-AY			CBRE Canberra	35000	2017	81	False	True				Commercial	Industrial			
+178208	IX-9797-HQ	495000	2005-02-15					False	True	20	22		Commercial	Industrial			
+178209	JJ-4541-XT							False	False				House	House			
+178210	JJ-4541-XT							False	False				House	House			
+178211	JA-3481-TR	3492500	2013-10-08					False	False	22	47		Land	Land			11480
+178212	SM-7677-DV	17000000	2014-10-07					False	False	23	47		Commercial	Commercial			16733
+178213	XW-3804-PT							False	False				House	House			
+178217	BX-7289-CH	2450000	2019-08-23					False	False	2	58		Commercial	Industrial			1961
+178218	YD-1226-FC							False	True				Unit	Unit			
+178219	PM-1501-ZT							False	True				Unit	Unit			
+178221	XA-4238-JM	150000	2014-08-14					False	False	15	22		Commercial	Industrial			2939
+178223	XT-4076-WD	825000	2010-06-11	Civium Property Group - Commercial	0	2019	489	True	False	16	22		Commercial	Commercial			2524
+178224	FH-6201-IV	500500	2006-09-22					False	False	4	58		Commercial	Industrial			
+178225	HI-3096-QU	2000000	2015-11-06					False	False	17	22		Commercial	Industrial			2193
+178229	ZC-2248-RR							False	True				Unit	Unit			
+178231	SQ-1057-EC							False	True				Unit	Unit			
+178232	HJ-1187-EF							False	False				Unit	Unit			
+178233	OO-1322-KH	80000	1999-06-24					False	True	19	11		Commercial	Industrial			
+178234	AA-6238-YT							False	False				Unit	Unit			
+178235	DC-3279-SS							False	True				Unit	Unit			
+178236	LC-6999-JC							False	False				Unit	Unit			
+178237	VS-5822-TX							False	True				Unit	Unit			
+178238	VK-3961-RC							False	False				Unit	Unit			
+178239	DD-6821-LF							False	False				House	House			
+178240	JR-8524-ND							False	True				Unit	Unit			
+178241	JP-4535-VJ							False	False				Unit	Unit			
+178242	FM-7732-KR	147500	1999-05-14					False	True	19	11		Commercial	Industrial			
+178243	MZ-9754-IL							False	False				Unit	Unit			
+178244	AC-5969-WZ	147500	1999-05-14					False	True	19	11		Commercial	Industrial			
+178245	HC-2861-BJ							False	False				Unit	Unit			
+178246	FV-4068-WD	147500	1999-05-14					False	True	19	11		Commercial	Industrial			
+178247	XA-5303-YA							False	False				Unit	Unit			
+178248	EY-3100-ZS							False	False				Commercial	Industrial			
+178249	YE-7941-AH	147500	1999-05-14					False	True	19	11		Commercial	Industrial			
+178250	YH-0637-VI							False	False				Unit	Unit			
+178251	GG-3600-IG	1250000	2007-03-02					False	False	23	11		Commercial	Industrial			1734
+178253	CP-6752-WH							False	False				Unit	Unit			
+178254	JK-7385-AE							False	True	19	11		Commercial	Industrial			
+178255	PP-0999-HZ							False	False				Unit	Unit			
+178256	IH-9181-TF							False	False				Unit	Unit			
+178257	KV-3051-ZS							False	False				House	House			
+178258	OU-1177-IM							False	False				House	House			
+178259	EB-3489-QS							False	False				House	House			
+178260	LZ-1610-LN							False	False				House	House			
+178262	SJ-5856-NZ							False	False				House	House			
+178264	TB-2257-HU							False	False				Unit	Unit			
+178265	ZW-5945-AZ	120000	1993-02-08					False	True	19	11		Commercial	Industrial			
+178266	PS-3574-XW							False	False				Unit	Unit			
+178267	JG-5929-LM							False	False				Unit	Unit			
+178268	QL-4927-UF							False	False				House	House			
+178269	QL-4927-UF							False	False				House	House			
+178270	QL-4927-UF							False	False				House	House			
+178271	QL-4927-UF							False	False				House	House			
+178272	QL-4927-UF							False	False				House	House			
+178273	MU-7517-RX							False	False				Unit	Unit			
+178274	KN-3185-VT			LJ Hooker Canberra Comm	60000	2018	647	False	False				Commercial	Industrial			
+178275	QL-4927-UF							False	False				House	House			
+178276	QL-4927-UF							False	False				House	House			
+178277	QL-4927-UF							False	False				House	House			
+178278	QL-4927-UF							False	False				House	House			
+178279	QL-4927-UF							False	False				House	House			
+178280	LF-4271-QD							False	True				Unit	Unit			
+178281	NP-0652-XG							False	False				Unit	Unit			
+178282	UC-3332-QZ	1952500	2013-06-26					False	False	16	11		Commercial	Industrial			2601
+178284	QL-4927-UF							False	False				House	House			
+178285	QL-4927-UF							False	False				House	House			
+178286	WT-1083-IV							False	False				House	House			
+178289	YQ-4781-XF							False	False				House	House			
+178290	IU-2703-DI							False	False				House	House			
+178291	KZ-5749-DT	120000	1999-06-29					False	True	19	11		Commercial	Industrial			
+178292	GB-7824-YG							False	False				Unit	Unit			
+178293	BG-5527-EP							False	False				House	House			
+178294	EX-7506-TY							False	False				House	House			
+178295	ZP-1312-EL							False	False				House	House			
+178296	YJ-5459-RY							False	False				House	House			
+178297	QA-2644-XH			CBRE Canberra	60000	2020	2173	False	False				Commercial	Commercial			
+178298	OR-2159-JV							False	False				House	House			
+178299	UR-2155-FR							False	True				Unit	Unit			
+178300	US-7485-UC							False	False				Unit	Unit			
+178302	QA-2644-XH			CBRE Canberra	60000	2020	2173	False	False				Commercial	Commercial			
+178303	GC-7404-BD							False	False				House	House			
+178304	MI-0547-JG							False	False				House	House			
+178305	MI-0547-JG							False	False				House	House			
+178306	SA-9999-CX							False	False				House	House			
+178307	DK-7696-UZ							False	False				House	House			
+178308	SF-4985-XW							False	True				Unit	Unit			
+178309	CF-1203-FX							False	False				Unit	Unit			
+178310	MU-1190-BO							False	False				House	House			
+178311	ZY-9918-VK							False	False				House	House			
+178312	PG-0401-HG							False	False				House	House			
+178313	TB-2137-WU							False	True				Unit	Unit			
+178314	TG-9272-HC							False	False				Unit	Unit			
+178315	PE-9656-CQ	460000	1994-11-11					False	False	15	11		Commercial	Industrial			
+178317	KQ-6198-AN			Civium Property Group - Commercial	106000	2018	257	False	False				Commercial	Industrial			
+178318	NR-9701-CV							False	True				Unit	Unit			
+178319	DN-3329-OP							False	False				Unit	Unit			
+178320	PO-3968-JU							False	True				Unit	Unit			
+178321	CK-6754-NX							False	False				Unit	Unit			
+178322	CZ-7077-YO	680000	2019-12-19					False	True	25	20	5	Commercial	Industrial			
+178323	DA-2893-AU							False	False				Unit	Unit			
+178324	DF-2390-CJ							False	False				Unit	Unit			
+178325	MM-5100-TC	200000	1997-02-27					False	True	21	20		Commercial	Industrial			
+178327	IM-7557-GN	14800000	2019-02-01					False	False	36	20		Commercial	Industrial			5274
+178331	SO-0540-SU							False	False				House	House			
+178332	FA-2113-XB	750000	2002-12-03					False	False	32	20		Commercial	Industrial			5370
+178334	WC-8566-EE	300000	1995-12-21					False	False	12	18		Commercial	Industrial			
+178335	ZI-3938-TB							False	False				House	House			
+178337	PM-2110-VD							False	False				House	House			
+178339	YR-9394-DF							False	False				Unit	Unit			
+178340	VX-7292-FH							False	False				Unit	Unit			
+178342	TC-6372-XC							False	False				Unit	Unit			
+178343	UB-1731-YK	460000	2007-06-30					False	True	30	20		Commercial	Industrial			
+178344	RT-5165-FA							False	False				Unit	Unit			
+178345	LK-7870-ST							False	True	9	18		Commercial	Industrial			
+178346	VR-0073-UE							False	False				Unit	Unit			
+178347	DD-1170-XV	300000	2009-12-21					False	True	25	20		Commercial	Industrial			
+178348	XI-2637-AC							False	True				Unit	Unit			
+178349	BU-4631-NY							False	False				House	House			
+178354	RQ-5964-BK							False	False				House	House			
+178358	TC-7805-UC							False	False				Unit	Unit			
+178359	JX-6213-SF							False	True				Unit	Unit			
+178360	LN-3325-RU							False	False				Unit	Unit			
+178361	IT-8894-UR							False	True				Unit	Unit			
+178362	OE-3891-UN							False	False				Unit	Unit			
+178363	MN-6246-SV							False	True				Unit	Unit			
+178364	RZ-4629-IM							False	False				Unit	Unit			
+178365	XG-3906-EP							False	True				Unit	Unit			
+178367	XH-8273-BE							False	False					Building			
+178368	LV-9790-JE							False	False				House	House			
+178369	NS-2842-XV							False	False				House	House			
+178371	KR-8821-HE	735000	1991-08-07					False	False	46	18		Commercial	Industrial			
+178374	TB-1744-LE							False	False				Unit	Unit			
+178375	NU-6065-YY	1100000	2015-09-16					False	True	30	20		Commercial	Industrial			
+178376	CE-6319-XL							False	False				Unit	Unit			
+178377	TN-5288-HR	370000	2007-06-19					False	True	9	18		Commercial	Industrial			
+178378	DL-4553-GE							False	False				Unit	Unit			
+178379	WK-8913-JI	684200	2009-04-15					False	True	25	20		Commercial	Industrial			
+178380	KB-0925-SO							False	False				Unit	Unit			
+178381	YE-8285-XJ							False	True				Unit	Unit			
+178382	OM-3076-VJ							False	False				House	House			
+178384	MD-5382-FK							False	False				House	House			
+178385	OM-3076-VJ							False	False				House	House			
+178387	TB-4438-KL							False	False				Unit	Unit			
+178388	HG-0723-XV							False	True	30	20		Commercial	Industrial			
+178389	GR-3075-AE							False	False				Unit	Unit			
+178390	JW-2345-AK	742000	2005-07-26	Civium Property Group - Commercial	0	2019	78	True	True	9	18	2	Commercial	Industrial			
+178391	KD-0591-RE							False	False				Unit	Unit			
+178392	MR-4647-AK							False	True				Unit	Unit			
+178394	LJ-2686-LE							False	True				Unit	Unit			
+178395	UX-1730-NO							False	True				Unit	Unit			
+178397	RU-9516-XW							False	False				Unit	Unit			
+178398	QV-4478-XT							False	True				Unit	Unit			
+178402	TY-2588-WQ							False	False				Unit	Unit			
+178403	PJ-7873-SK	1200000	2014-12-18					False	False	24	20		Commercial	Industrial			1908
+178404	ER-9561-EB							False	False				Unit	Unit			
+178406	HG-7556-SJ	1250000	2000-06-26					False	False	11	20		Commercial	Industrial			3575
+178407	FY-0038-IO							False	False				Unit	Unit			
+178408	AU-0029-GC							False	False				Unit	Unit			
+178409	JX-0376-EB							False	False				House	House			
+178410	BP-6597-FB							False	False				Unit	Unit			
+178411	UB-0044-BY			LJ Hooker Canberra Comm		2017	279	False	False				Commercial	Industrial			
+178413	EA-6968-EG							False	False				House	House			
+178414	VI-9743-UR							False	False				House	House			2034
+178415	PS-8415-VH			Barton Commercial Property	300000	2016	1219	False	True				Commercial	Industrial			
+178416	ZW-3912-KO							False	False				Unit	Unit			
+178417	LF-6095-QG			Raine & Horne Comm Canberra	168729	2013	219	False	True				Commercial	Commercial			
+178418	KF-3799-KP	500000	2012-03-02					False	True	72	6		Commercial	Commercial			
+178419	KX-4900-VT	774704	2013-11-11					False	True	68	6		Commercial	Retail			
+178420	TX-6651-DV	445500	2008-06-20					False	True	66	6		Commercial	Commercial			
+178421	KE-9233-UF							False	True				Unit	Unit			
+178422	TI-6897-GP	254100	2009-10-08					False	True	66	6		Commercial	Commercial			
+178425	LA-6439-TM							False	True				Unit	Unit			
+178426	SD-6453-XZ							False	True				Unit	Unit			
+178429	LC-4929-QD							False	True				Unit	Unit			
+178430	SI-4104-CQ	815000	2018-07-06					False	True	66	6		Commercial	Commercial			
+178431	LK-1859-YA	1125000	2006-05-05					False	False	74	6		Land	Land			4243
+178432	AX-3304-ZI							False	True				Unit	Unit			
+178433	LK-0573-BD	1125000	2006-05-05					False	False	73	6		Land	Land			4128
+178435	SG-6555-KR	6550000	2016-05-16					False	False	71	6		Commercial	Commercial			3875
+178436	UY-8127-ZN	990000	2015-05-06	Raine & Horne Commercial Canberra	54000	2017	204	True	False	70	6		Commercial	Commercial			3651
+178437	MH-6922-QB		2015-08-19					False	False	69	6		Land	Land			3426
+178439	ZA-2274-BZ	1000000	2014-05-02					False	False	67	6		Land	Land			2996
+178441	HI-7042-JN							False	True				Unit	Unit			
+178442	TH-8225-ZK							False	False				Unit	Unit			
+178443	LO-1378-GX							False	True				Unit	Unit			
+178444	GQ-3264-UV	1700000	2012-03-02					False	True	72	6		Commercial	Commercial			
+178445	KR-0891-QA	692780	2013-11-27					False	True	68	6		Commercial	Retail			
+178446	SK-8430-ZQ							False	True	66	6		Commercial	Commercial			
+178447	AC-4457-MR							False	True				Unit	Unit			
+178448	CE-0167-QE							False	False				Unit	Unit			
+178449	QP-6818-QH							False	True				Unit	Unit			
+178450	SV-3947-UF	1180000	2014-04-22					False	True	72	6		Commercial	Commercial			
+178451	KT-7371-ZC							False	True				Unit	Unit			
+178452	SH-1002-JN	480000	2015-05-06					False	True	66	6		Commercial	Commercial			
+178453	LK-7289-ZB							False	True				Unit	Unit			
+178454	ZV-9151-PB							False	True				Unit	Unit			
+178455	NK-4274-NA	870000	2014-03-22					False	True	72	6		Commercial	Commercial			
+178456	KV-3041-GT	515000	2017-12-18					False	True	68	6		Commercial	Retail			
+178457	TE-6864-PD	445500	2009-12-22					False	True	66	6		Commercial	Commercial			
+178458	RQ-5526-FY							False	True				Unit	Unit			
+178459	KH-0628-RK							False	True				Unit	Unit			
+178460	KV-5118-KH	220000	2015-06-22					False	True	68	6		Commercial	Retail			
+178461	KM-3231-AS	465000	2019-01-15	LJ Hooker Commercial Canberra	40000	2018	461	False	True	66	6		Commercial	Commercial			
+178462	GX-3313-DM							False	True				Unit	Unit			
+178463	GQ-3021-GO							False	True				Unit	Unit			
+178464	ZJ-1755-VJ	220000	2015-05-01					False	True	68	6		Commercial	Retail			
+178465	TY-2742-PP	665000	2017-12-18					False	True	66	6		Commercial	Commercial			
+178466	SW-7776-JX			Raine & Horne Commercial Canberra	28000	2014	70	False	True				Commercial	Industrial			
+178467	GN-6084-PP							False	True				Unit	Unit			
+178468	HU-8510-YA							False	True			7	Commercial	Industrial			
+178469	TY-6375-EL	274000	2017-12-18	LJ Hooker Canberra Comm	28875	2017	461	False	True	66	6		Commercial	Commercial			
+178470	QI-8882-KF			Raine & Horne Commercial Canberra		2018	86	False	True				Commercial	Industrial			
+178471	VG-4688-QM							False	True				Unit	Unit			
+178472	GY-3708-FW							False	True				Commercial	Commercial			
+178473	GP-9876-HE							False	True				Unit	Unit			
+178474	SI-9245-XV							False	True				Commercial	Commercial			
+178475	TZ-6437-OU			Raine & Horne Comm Canberra		2012		False	True				Commercial	Commercial			
+178476	SI-8070-AZ	1005000	2017-12-18					False	True	66	6		Commercial	Commercial			
+178477	WX-0243-GW							False	False				House	House			
+178478	UB-8280-RZ							False	True				Unit	Unit			
+178479	JC-0077-MG							False	True				Unit	Unit			
+178480	PW-8865-NK							False	False				House	House			
+178481	MC-2974-OS	125000	1995-02-03					False	True	4	9		Commercial	Industrial			
+178482	CK-5572-ZK							False	False				House	House			
+178484	BX-0269-LL							False	False				House	House			
+178485	UZ-9084-FT							False	False				House	House			
+178486	RI-8975-UE							False	False				House	House			
+178487	GN-3980-LY	650000	1993-08-24					False	False	3	2		Commercial	Industrial			2601
+178488	IB-0626-JZ							False	False				House	House			
+178489	ER-2425-MV							False	False				House	House			
+178491	KL-4640-WM			Raine & Horne Commercial Canberra	32000	2020	313	False	False				Commercial	Industrial			
+178492	RD-5741-QM							False	False				House	House			
+178494	LH-6269-DL							False	False				House	House			
+178495	IO-8401-BN							False	False				House	House			
+178496	XN-0895-XQ							False	True				Unit	Unit			
+178497	NN-4261-JP			Raine & Horne Commercial Canberra	0	2020	1014	False	True				Commercial	Commercial			
+178498	EC-0677-WK	385000	2018-03-26					False	True	40	7		Commercial	Industrial			
+178499	QP-4067-WG	125000	1995-02-03					False	True	4	9		Commercial	Industrial			
+178500	SL-0615-MR							False	False				House	House			
+178502	IZ-2583-WD							False	False				House	House			
+178504	KU-3289-EJ							False	False				House	House			
+178505	II-5403-YR	1500000	2010-12-24					False	False	16	1		Commercial	Industrial			
+178506	PS-8909-VO							False	False				House	House			
+178507	ZX-7610-HA							False	False				House	House			
+178508	QP-1244-ER							False	False				House	House			
+178509	SZ-5723-AB							False	False				House	House			
+178511	IF-0215-QC							False	False				House	House			
+178512	LZ-0854-UK							False	False				Unit	Unit			
+178513	BQ-4931-FX							False	True				Unit	Unit			
+178514	EE-4764-SY							False	True				Unit	Unit			
+178515	BE-4315-VX	915000	2016-12-09					False	True	4	9		Commercial	Retail			
+178516	PW-8865-NK							False	False				House	House			
+178517	DU-2523-JI							False	False				House	House			
+178521	NX-3532-VA							False	False				House	House			
+178522	GZ-6907-GH							False	False				House	House			
+178525	WT-6489-EO							False	False				Unit	Unit			
+178526	WZ-9206-HY	655000	2019-02-12					False	True	4	9		Commercial	Retail			
+178527	LT-1906-VQ	1175000	2012-05-16					False	False	20	1		Commercial	Commercial			1707
+178529	WW-0715-PS							False	False				House	House			
+178532	GL-1535-GW			Knight Frank Canberra		2014	546	False	False				Commercial	Commercial			
+178535	GZ-6072-EV							False	False				House	House			
+178536	FB-9057-CB							False	False				House	House			
+178537	ZR-1617-DU							False	True			0	Commercial	Industrial			
+178538	HX-9877-EZ							False	True				Unit	Unit			
+178539	KS-7898-UG			LJ Hooker Commercial Canberra	7200	2017	18	False	True				Commercial	Commercial			
+178540	ZR-5036-RY							False	False				Unit	Unit			
+178541	PO-8668-PO							False	False				Unit	Unit			
+178542	TE-2396-BF							False	True				Unit	Unit			
+178543	AP-0833-TD	140000	2007-06-08					False	True	2	9		Commercial	Retail			
+178544	AK-6012-HK							False	False				Unit	Unit			
+178545	TQ-8844-KY							False	False				House	House			
+178546	UP-6697-WW							False	False				House	House			
+178547	YH-0317-XL							False	False				House	House			
+178548	UG-0234-DE							False	False				House	House			
+178549	YB-2120-CA							False	False				House	House			
+178550	TN-0958-WW	1265000	2006-03-16					False	False	39	7			Other Commercial			1663
+178551	VE-6075-JE							False	False				House	House			
+178552	KJ-2252-FA							False	False				House	House			
+178553	MF-6339-YS							False	False				House	House			
+178554	JU-7777-CY							False	False				House	House			
+178555	VM-8709-TI							False	True				Unit	Unit			
+178556	GX-7418-IK	575000	2005-11-25					False	True	2	9		Commercial	Retail			
+178557	KX-5768-ST							False	False				Unit	Unit			
+178558	PU-3771-PP							False	False				House	House			
+178561	UY-3325-VQ							False	False				House	House			
+178562	NS-5236-SC							False	False				House	House			2601
+178563	GY-4857-FM	575000	2005-11-25					False	True	2	9		Commercial	Retail			
+178564	PY-6892-QA							False	False				Unit	Unit			
+178565	QY-2269-UY	1925000	2014-02-27					False	False	2	2		Commercial	Retail			2601
+178567	JK-8219-OW							False	False				House	House			
+178568	PW-0407-GI							False	False				House	House			
+178569	GE-1511-ER							False	False				House	House			
+178571	XF-0641-IQ	2250000	2019-03-22					False	False	5	8		Commercial	Industrial			2601
+178573	YP-0373-IN							False	False				House	House			
+178575	KB-5171-ME	3500000	2016-05-13					False	False	8	8		Commercial	Industrial			7023
+178576	DM-4976-CE							False	False				House	House			
+178577	AY-4419-LI	1135000	2007-06-13					False	False	12	1		Commercial	Commercial			
+178578	GV-7327-XZ	575000	2005-11-25					False	True	2	9		Commercial	Retail			
+178579	GY-8164-HC							False	False				Unit	Unit			
+178581	YP-0373-IN							False	False				House	House			
+178583	UE-5783-VN							False	False				House	House			
+178584	RC-5801-SN							False	False				House	House			
+178585	RC-5801-SN							False	False				House	House			
+178586	GR-0663-PH							False	False				House	House			
+178587	CT-0381-HD							False	False				House	House			
+178589	GD-4776-IG							False	False				House	House			
+178591	PN-4830-YQ	237500	2019-06-27					False	True	35	7		Commercial	Commercial			
+178592	TZ-7354-RH							False	False				Unit	Unit			
+178593	GU-8485-NZ							False	True				Unit	Unit			
+178594	SR-3228-AG	186750	2009-10-29	LJ Hooker Commercial Canberra		2016	610	True	True	37	7		Commercial	Industrial			
+178595	OW-8507-OP							False	False				Unit	Unit			
+178596	BI-6058-IZ	335500	2008-12-05					False	False	38	7			Other Commercial			
+178597	ZR-0823-GK							False	False				Unit	Unit			
+178599	CM-6671-GO							False	False				Unit	Unit			
+178602	UT-5076-OI	742500	2013-07-04					False	True	35	7		Commercial	Commercial			
+178603	TZ-2848-SE							False	False				Unit	Unit			
+178604	AY-0880-IK							False	True				Unit	Unit			
+178605	ZW-6554-RA			Raine & Horne Comm Canberra	28800	2007	56	False	True				Commercial	Commercial			
+178606	OQ-3706-LT							False	False				Unit	Unit			
+178607	BR-4410-XU	250000	2009-03-30					False	False	38	7			Other Commercial			
+178608	ZW-4284-HN							False	False				Unit	Unit			
+178609	QL-8249-KD	650000	2000-10-28					False	False	44	7		Commercial	Industrial			7962
+178610	PU-8312-FN							False	True				Unit	Unit			
+178611	TY-9888-HE							False	False				Unit	Unit			
+178612	WL-1542-LB							False	True				Unit	Unit			
+178613	ZR-7765-HW							False	True				Commercial	Commercial			
+178614	NW-1196-VN	489500	2012-08-09					False	False	9	9		Commercial	Industrial			
+178615	DN-3802-KW	528000	2019-08-16	Alpha Commercial Property		2020	395	True	False	38	7			Other Commercial			
+178616	RN-9736-HN							False	False				Unit	Unit			
+178618	TU-9209-XZ	266200	2008-12-12					False	True	35	7		Commercial	Commercial			
+178619	LY-3972-EN							False	True				Commercial	Commercial			
+178620	RY-5037-BH	272000	1995-10-16	Barton Commercial Property	39000	2015	348	True	True	37	7		Commercial	Industrial			
+178621	NA-1285-ZN	190000	2002-06-12					False	False	38	7			Other Commercial			
+178622	RO-4073-JA							False	False				Unit	Unit			
+178623	OR-1798-LO							False	False				House	House			
+178624	JM-2581-GJ							False	False			0	Commercial	Commercial			
+178626	UE-6480-SO	780000	2008-12-02					False	True	35	7		Commercial	Commercial			
+178627	ME-6870-NB							False	True				Unit	Unit			
+178628	SP-9475-ME	465000	2017-12-12					False	True	37	7		Commercial	Industrial			
+178629	IH-7735-QQ	196000	2004-06-10					False	False	38	7			Other Commercial			
+178630	RM-9271-WH							False	False				Unit	Unit			
+178631	JM-2581-GJ							False	False			0	Commercial	Commercial			
+178632	PL-2942-EX							False	False				Commercial	Commercial			
+178633	YC-2828-CN							False	False				House	House			
+178636	HS-7801-MR							False	False				House	House			
+178637	JT-4344-TZ	435000	1995-12-19					False	False	9	9		Commercial	Industrial			1200
+178638	LL-6123-UQ							False	False				House	House			
+178639	RM-4663-OK							False	False				Unit	Unit			
+178640	TX-6894-KC							False	False				House	House			
+178643	FD-2277-XE	225000	1995-06-28					False	False	39	7		Land	Land			
+178646	ZJ-0500-CG							False	True				Unit	Unit			
+178647	MC-6742-KO							False	False				Unit	Unit			
+178648	MX-7165-SA							False	False				Unit	Unit			
+178649	BS-9383-LF			LJ Hooker Commercial Canberra	40500	2019	80	False	False			0	Commercial	Industrial			
+178650	CH-1616-UB	270000	2004-02-18					False	True	13	1		Commercial	Industrial			
+178651	HB-2012-NU							False	True				Unit	Unit			
+178652	RF-2677-SD							False	False				Unit	Unit			
+178653	JG-3370-MA	650000	2011-06-08					False	True	39	18		Commercial	Industrial			
+178654	FM-9112-QI							False	False				Unit	Unit			
+178655	XG-1542-OS	387500	2014-06-06					False	True	41	18		Commercial	Industrial			
+178656	BQ-8307-QB	300000	2016-08-09					False	True	43	18		Commercial	Industrial			
+178657	ZF-9857-FX							False	True				Unit	Unit			
+178659	VL-3086-TI							False	False				Unit	Unit			
+178660	RU-0529-XW							False	True				Unit	Unit			
+178661	RW-5089-XJ							False	False				Unit	Unit			
+178662	HD-4713-QH							False	True				Unit	Unit			
+178663	XP-3013-DI							False	True				Unit	Unit			
+178664	XK-1596-FN							False	False				Unit	Unit			
+178665	XP-1246-CZ							False	True				Unit	Unit			
+178666	MK-3306-WR							False	False				Unit	Unit			
+178667	CD-1513-BG							False	False				House	House			
+178668	BV-8971-MJ							False	False				Unit	Unit			
+178669	ML-0232-AN							False	False				Unit	Unit			
+178670	JK-8694-EG							False	False				Unit	Unit			
+178671	FV-8219-FK							False	True				Unit	Unit			
+178672	PV-3984-HP							False	True				Unit	Unit			
+178673	MF-1911-XV							False	False				Unit	Unit			
+178674	GK-7842-CI			Alpha Commercial Property	0	2019	330	False	False				Commercial	Commercial			
+178675	BQ-5464-AM							False	False			0	Commercial	Industrial			
+178676	EB-6263-HT							False	True				Unit	Unit			
+178677	DA-2374-OQ							False	True				Unit	Unit			
+178678	YN-3431-XR							False	False				Unit	Unit			
+178679	LZ-7117-AX	500000	2011-06-08					False	True	39	18		Commercial	Industrial			
+178680	AE-6719-SU	1200000	2015-06-04					False	False	40	18		Commercial	Industrial			
+178681	UC-5572-KD	240000	2006-02-15					False	True	41	18		Commercial	Industrial			
+178682	MZ-1759-YT	160000	2002-02-12					False	True	43	18		Commercial	Industrial			
+178683	XT-9416-VO			LJ Hooker Commercial Canberra	42000	2016	295	False	True				Commercial	Industrial			
+178685	LU-8185-IS							False	False				Unit	Unit			
+178686	GD-4580-UX	405000	2017-12-01					False	True	23	1		Commercial	Industrial			
+178687	MJ-8886-DQ							False	False				Unit	Unit			
+178688	BC-4932-IS	270000	2004-02-18	Raine & Horne Commercial Canberra	25000	2020	362	True	True	13	1		Commercial	Industrial			
+178689	QF-9986-QM							False	True				Unit	Unit			
+178690	XD-7000-AP	304000	2004-12-24					False	True	39	18		Commercial	Industrial			
+178691	GQ-6962-BU	220000	2004-08-20					False	True	41	18		Commercial	Industrial			
+178692	SF-2524-KS	113000	1999-09-29					False	True	43	18		Commercial	Industrial			
+178693	YI-6881-SQ							False	True				Unit	Unit			
+178695	SR-6908-OK							False	False				Unit	Unit			
+178698	AM-0593-PX							False	False				Commercial	Industrial			
+178700	FP-1039-XT							False	True				Unit	Unit			
+178701	MJ-3862-KO							False	False				Unit	Unit			
+178702	GD-8273-XR							False	True				Unit	Unit			
+178703	VI-4055-SH							False	False			0	Land	Land			
+178704	ZJ-9598-YI	245000	1999-10-22					False	True	39	18		Commercial	Industrial			
+178705	GV-4044-GS	840000	2012-02-01					False	True	41	18		Commercial	Industrial			
+178706	AW-0682-AP	340000	2011-04-20					False	True	43	18		Commercial	Industrial			
+178707	HS-7534-PH							False	True				Unit	Unit			
+178709	FH-5726-UP							False	False				Unit	Unit			
+178710	FG-5606-ZU			Civium Property Group - Commercial	32400	2018	280	False	False				Commercial	Commercial			
+178711	OO-3606-QI			LJ Hooker Commercial Canberra	48000	2017	115	False	False				Commercial	Commercial			
+178712	NA-3978-ST							False	False			4	Commercial	Industrial			
+178713	QF-4026-NF							False	False				House	House			
+178715	OM-0073-SR			Alpha Commercial Property		2020	1083	False	True				Commercial	Industrial			
+178716	HG-7174-MM							False	False				Unit	Unit			
+178717	MZ-7194-FE							False	True				Unit	Unit			
+178718	KE-5687-GU							False	True				Unit	Unit			
+178719	JB-1255-DW	210000	2001-05-29					False	True	43	18		Commercial	Industrial			
+178720	KB-1616-YY							False	True	44	18		Commercial	Industrial			
+178721	DK-8734-IT							False	True			5	Commercial	Commercial			
+178722	DJ-0463-XP							False	False				Unit	Unit			
+178723	UU-2335-SA			CBRE Canberra	0	2020	875	False	False				Commercial	Commercial			
+178727	RX-0564-OL							False	True				Unit	Unit			
+178728	OG-2950-SM			Alpha Commercial Property		2019	112	False	False				Commercial	Industrial			
+178729	XQ-3083-NQ							False	True				Unit	Unit			
+178730	IU-0392-AM							False	False				Unit	Unit			
+178731	NN-8798-NS							False	False				House	House			
+178732	RD-5850-NM							False	False				House	House			
+178733	MA-9108-ZL							False	False				Unit	Unit			
+178734	XS-7192-PU							False	True				Unit	Unit			
+178735	YH-4463-WA							False	False				Unit	Unit			
+178736	DK-3437-OR	310000	2002-02-27					False	False	3	18		Commercial	Industrial			3225
+178737	AB-6675-BZ							False	False				House	House			
+178741	XM-0311-TZ							False	True				Unit	Unit			
+178742	HG-9123-NK							False	False				Unit	Unit			
+178745	GR-9573-WK	695475	2006-10-01					False	False	7	58		Commercial	Commercial			
+178747	XS-8842-FA							False	True				Unit	Unit			
+178748	MF-6752-DB							False	False				Unit	Unit			
+178751	GT-3804-ZA							False	True				Unit	Unit			
+178755	AA-6958-UU							False	False				House	House			
+178756	WG-1762-VN							False	False				House	House			
+178762	TI-3916-VW							False	False				House	House			
+178764	UK-9489-KW							False	False				House	House			
+178766	UJ-5902-LH							False	True				Unit	Unit			
+178773	LM-1784-YN							False	False				House	House			
+178774	MP-8437-RF							False	True				Unit	Unit			
+178775	FA-6864-LP							False	False				House	House			
+178776	JN-5077-WP							False	True				Unit	Unit			
+178778	JP-2273-RZ							False	True				Unit	Unit			
+178779	MQ-3957-AW							False	False				House	House			
+178781	QH-1239-YL							False	True				Commercial	Commercial			
+178786	TQ-8016-ID							False	False				House	House			
+178788	UU-3110-MA							False	False				Unit	Unit			
+178789	XY-5905-GO	280000	2018-09-14					False	True	15	9		Commercial	Retail			
+178790	LH-2174-XY							False	False				Unit	Unit			
+178791	FN-0929-MC	192500	2005-05-02					False	True	14	9		Commercial	Retail			
+178792	RX-3319-GH							False	False				Unit	Unit			
+178793	WQ-9000-RN							False	False				House	House			
+178794	SI-0612-TG							False	False				Unit	Unit			
+178795	TU-0783-RS							False	False				Unit	Unit			
+178797	KX-6837-ZD	220000	2013-09-13					False	True	15	9		Commercial	Retail			
+178798	DX-1354-RI							False	False				Unit	Unit			
+178799	OY-6038-CF							False	False				House	House			
+178801	VU-2845-XC							False	True				Unit	Unit			
+178802	WT-8643-YX							False	True				Unit	Unit			
+178804	WG-0078-IX							False	False				House	House			
+178806	RS-3627-FF							False	False				House	House			
+178812	RU-5456-SS							False	False				House	House			
+178815	UT-3970-YV							False	False				Unit	Unit			
+178816	DW-3417-CO	99000	2006-10-16					False	True	15	9		Commercial	Retail			
+178817	EW-2691-CH							False	False				Unit	Unit			
+178818	GV-3939-HM	192500	2005-05-02					False	True	14	9		Commercial	Retail			
+178819	DP-0636-QI							False	False				Unit	Unit			
+178820	WA-3318-TX							False	False				House	House			
+178821	NQ-5244-KJ							False	False				Unit	Unit			
+178822	ZD-3086-CM							False	False				Unit	Unit			
+178825	QA-5793-DA	888000	2003-05-23					False	False	6	9		Commercial	Retail			2601
+178828	KD-1161-NL							False	False				House	House			
+178830	ZU-0011-XA							False	False			0	Commercial	Industrial			
+178831	QC-1829-DI							False	False				House	House			
+178834	GU-2730-MT	85000	1991-09-13					False	False	8	9		Commercial	Industrial			
+178835	CC-2645-FI	168000	2011-03-31					False	True	15	9		Commercial	Retail			
+178836	DA-3733-OF							False	False				Unit	Unit			
+178837	SO-3523-AQ	147500	2009-06-24					False	True	14	9		Commercial	Retail			
+178838	NB-2477-VR							False	False				Unit	Unit			
+178839	FW-3431-XR							False	False				Unit	Unit			
+178840	CN-4394-JD							False	False				Unit	Unit			
+178841	JC-6207-FU							False	False				House	House			
+178842	DD-6509-HT							False	False				House	House			
+178843	WJ-0716-TL	200000	2013-03-15					False	True	15	9		Commercial	Retail			
+178844	PQ-9836-JQ							False	False				Unit	Unit			
+178845	KA-2007-JD	220000	2019-09-26					False	True	14	9		Commercial	Retail			
+178846	EY-7546-QO							False	False				Unit	Unit			
+178847	DT-9780-UB							False	False				Unit	Unit			
+178848	YZ-5065-RW							False	False				Unit	Unit			
+178850	UK-2351-ZA	75000	2002-06-25					False	True	15	9		Commercial	Retail			
+178851	TD-8255-XN							False	False				Unit	Unit			
+178852	ZK-3040-MH	99000	2006-10-16					False	True	14	9		Commercial	Retail			
+178853	HS-0158-DV							False	False				Unit	Unit			
+178854	JX-5216-TZ							False	False				House	House			
+178856	UX-7651-DY							False	False				Unit	Unit			
+178857	KF-0057-FN	75000	2002-06-25					False	True	15	9		Commercial	Retail			
+178858	LT-6237-OL							False	False				Unit	Unit			
+178859	OR-9983-JM	231000	2008-09-02					False	True	14	9		Commercial	Retail			
+178860	JB-3387-WX							False	False				Unit	Unit			
+178861	IN-5464-MO							False	False				House	House			
+178863	ZO-2107-BL	86000	2003-07-16					False	True	15	9		Commercial	Retail			
+178864	ZJ-0156-UP	125000	2009-05-18					False	True	14	9		Commercial	Retail			
+178865	YW-6857-AL							False	False				Unit	Unit			
+178867	CM-0160-TS	115000	2007-10-16					False	True	15	9		Commercial	Retail			
+178868	GV-0630-GO							False	False				Unit	Unit			
+178869	HZ-8922-AP	264000	2015-06-17					False	True	14	9		Commercial	Retail			
+178870	LA-7277-DK							False	False				Unit	Unit			
+178872	YN-7834-UB	225000	2013-09-13					False	True	15	9		Commercial	Retail			
+178873	PD-9259-NP							False	False				Unit	Unit			
+178874	MX-5931-UO							False	False				House	House			
+178875	XR-2413-OG							False	True				Unit	Unit			
+178876	ZF-8592-RI							False	True				Unit	Unit			
+178877	UH-4864-YU							False	False				Unit	Unit			
+178878	FY-1002-EC							False	False			0	Commercial	Industrial			
+178879	GG-5479-QD	300000	2011-04-12					False	True	1	2		Commercial	Industrial			
+178880	IR-5903-YU							False	False				Unit	Unit			
+178881	LP-7202-KF							False	False				Unit	Unit			
+178882	PF-9524-GB	390000	2017-04-24					False	True	11	1		Commercial	Industrial			
+178883	CA-1810-JP	165000	1993-04-22					False	True	52	18		Commercial	Industrial			
+178884	RG-8541-AZ							False	True				Unit	Unit			
+178885	YD-7039-UV	300000	2010-06-02	Raine & Horne Comm Canberra	38720	2007	87	False	True	52	18		Commercial	Industrial			
+178887	IC-6127-VE							False	True				Unit	Unit			
+178888	RB-2435-QH	450000	2008-07-21					False	True	52	18		Commercial	Industrial			
+178891	NF-5538-JP							False	False				House	House			
+178892	HH-6056-TG							False	False				Unit	Unit			
+178894	SV-3154-WT	80000	2007-06-19					False	True	52	18		Commercial	Industrial			
+178897	SU-0305-XD	155000	2007-06-19					False	True	52	18		Commercial	Industrial			
+178898	HK-1162-AR							False	False				House	House			
+178899	SU-2413-ZV	270000	2018-10-25					False	True	52	18		Commercial	Industrial			
+178902	KO-4749-SU	165000	1994-05-18					False	True	52	18		Commercial	Industrial			
+178903	KM-3120-HS	117000	2011-07-13					False	True	52	18		Commercial	Industrial			
+178905	VC-9383-EK	490000	2013-09-26					False	True	52	18		Commercial	Commercial			
+178906	PM-4733-AT							False	True				Unit	Unit			
+178907	SE-0603-IK							False	True				Unit	Unit			
+178908	TG-5632-HS			CBRE Canberra	41000	2017	8	False	True				Commercial	Industrial			
+178909	KM-4910-NU			CBRE Canberra	61000	2017	160	False	True			0	Commercial	Industrial			
+178910	RG-3349-HG							False	False				Unit	Unit			
+178911	VH-7745-PL							False	True			0	Commercial	Industrial			
+178912	QF-0246-JH							False	False				Unit	Unit			
+178913	OY-4771-ZF	1060000	2019-05-09					False	True	11	1		Commercial	Commercial			
+178914	BY-4709-SS	368500	2012-05-24					False	True	52	18		Commercial	Industrial			
+178915	OE-4346-QN							False	False				Commercial	Industrial			
+178916	DT-5475-BQ							False	False				Commercial	Industrial			
+178917	ZS-6744-IR							False	False				House	House			
+178918	YA-6535-YT							False	False				House	House			
+178919	GT-9178-BA							False	False				House	House			
+178920	CQ-4519-QU			CBR Property	45000	2018	224	False	True				Commercial	Commercial			
+178921	TE-1849-GE							False	True				Unit	Unit			
+178922	GE-0006-AR							False	True				Unit	Unit			
+178923	WG-0841-DG							False	False				Unit	Unit			
+178924	OC-5653-YD	650000	2017-10-11					False	True	11	1		Commercial	Industrial			
+178925	CB-0461-TX	340000	2009-11-23					False	True	52	18		Commercial	Industrial			
+178926	BB-4208-SF							False	False				House	House			
+178927	UP-2764-JB							False	False				House	House			
+178928	KU-9618-EY							False	False				House	House			
+178929	IL-2404-HR							False	False				House	House			
+178930	NQ-5935-CR							False	False				House	House			
+178931	UI-9427-TW			LJ Hooker Commercial Canberra	41000	2016	483	False	True				Commercial	Industrial			
+178932	LK-7382-BZ			CBRE Canberra	60000	2017	80	False	True				Commercial	Industrial			
+178933	ZF-7505-WY			Civium Property Group - Commercial	0	2020	654	False	True			3	Commercial	Commercial			
+178934	HA-3420-GF							False	False				Unit	Unit			
+178935	OY-4602-RO							False	True				Unit	Unit			
+178936	BZ-8875-JG	159500	2003-10-22					False	True	52	18		Commercial	Industrial			
+178937	XF-8531-ZU							False	False				House	House			
+178938	LZ-9708-ZQ							False	True				Commercial	Commercial			
+178939	AL-7394-KG							False	True				Unit	Unit			
+178940	FP-8551-YK	250000	2011-06-20					False	True	1	2		Commercial	Industrial			
+178941	GX-1709-TV							False	False				Unit	Unit			
+178942	PA-2461-IB							False	True				Unit	Unit			
+178943	BW-0035-AX	203000	2012-09-21					False	True	52	18		Commercial	Retail			
+178944	LW-8585-HJ			CBRE Canberra	41000	2018	119	False	True				Commercial	Industrial			
+178945	VS-3034-UP							False	True				Unit	Unit			
+178946	XN-0196-PH							False	False				Unit	Unit			
+178947	BZ-7789-YW	800000	2013-01-04					False	True	52	18		Commercial	Industrial			
+178948	ZP-1575-PN			Knight Frank Canberra		2015	895	False	False				Commercial	Industrial			
+178949	QB-9379-WO							False	False				House	House			
+178950	ZF-9951-GT							False	True			0	Commercial	Industrial			
+178951	BU-4663-FJ	753500	2015-03-20					False	True	52	18		Commercial	Commercial			
+178952	EL-4132-IF							False	False				House	House			
+178953	GZ-5159-VJ			Cushman & Wakefield Agency (ACT) Pt	26000	2019		False	True				Commercial	Industrial			
+178954	BZ-5654-WJ	950000	1993-10-12					False	True	52	18		Commercial	Industrial			
+178956	MP-0038-WO			Raine & Horne Commercial Canberra	25000	2015	26	False	True				Commercial	Commercial			
+178957	BO-9538-VL	1187500	2011-11-24					False	True	52	18		Commercial	Industrial			
+178958	SF-4985-PH	270000	2005-02-28					False	False	12	18		Commercial	Industrial			
+178960	KX-2242-PA	660000	2005-07-08					False	False	22	18		Commercial	Industrial			3143
+178962	YR-5804-NG							False	False				House	House			3546
+178966	XM-5790-OU							False	False				House	House			
+178967	BH-8772-CU							False	False				Unit	Unit			
+178969	ES-1794-ME							False	False				Unit	Unit			
+178970	NS-0760-EA	275000	1991-11-11					False	False	28	18		Commercial	Industrial			
+178971	SV-7792-ZO							False	False				Unit	Unit			
+178972	JR-8548-PR	950000	2019-05-07					False	False	31	18		Commercial	Industrial			4631
+178974	EV-8301-MB							False	False				Unit	Unit			
+178975	TR-0069-GB	2080000	2014-10-17					False	True	6	58		Commercial	Industrial			
+178977	EU-9586-DQ							False	False				Unit	Unit			
+178978	SF-7669-IZ	598092	2011-07-15	Raine & Horne Commercial Canberra	42260	2013	163	True	True	6	58		Commercial	Industrial			
+178979	GB-5230-YD		2020-01-17	Raine & Horne Commercial Canberra	346905	2020	458	True	False				Commercial	Industrial			4834
+178980	ET-7749-TI							False	False				Unit	Unit			
+178981	TQ-6592-MO	665500	2013-11-05	Raine & Horne Commercial Canberra	54200	2012	86	False	True	6	58		Commercial	Industrial			
+178982	MA-7519-EK	1950000	2009-10-16	Civium Property Group - Commercial	77000	2017	173	True	False	5	58		Commercial	Industrial			2078
+178983	SH-9891-FS	620000	2012-05-30					False	True	6	58		Commercial	Industrial			
+178984	CQ-2250-RI	2800000	2014-12-11					False	False	2	59		Commercial	Industrial			2747
+178985	EV-9181-QS							False	False				Unit	Unit			
+178986	SD-3499-HK	515200	2011-10-25					False	True	6	58		Commercial	Industrial			
+178988	GJ-8223-DG	1113600	2010-05-28	CBR Property		2016	724	True	False	1	59	6	Commercial	Commercial			3720
+178989	GD-3843-MC							False	False				Unit	Unit			
+178990	FR-3248-DG							False	False				Unit	Unit			
+178991	RZ-5400-HJ							False	False				Unit	Unit			
+178992	TL-4595-RA	550000	2011-05-09					False	True	1	11		Commercial	Commercial			
+178993	ES-7199-ON							False	False				House	House			
+178994	PQ-1831-FU							False	False				Unit	Unit			
+178995	EP-9237-CM							False	False				Unit	Unit			
+178996	SA-1765-KU							False	False				House	House			
+178997	SA-1765-KU							False	False				House	House			
+179001	XC-5942-XY							False	False				Unit	Unit			
+179002	DB-7862-XT							False	False				Unit	Unit			
+179003	GI-6049-LP							False	False				Unit	Unit			
+179004	TK-9116-XO	550000	2011-05-09					False	True	1	11		Commercial	Commercial			
+179006	VZ-2813-GL							False	False				Unit	Unit			
+179007	PW-1534-AA	240000	2017-09-27					False	True	1	11		Commercial	Commercial			
+179008	UU-4118-BG		2018-11-13					False	True				Commercial	Commercial			
+179009	RC-9974-RD							False	False				House	House			
+179010	WX-2688-CX							False	False				House	House			
+179011	TS-4879-GH							False	False				House	House			
+179012	ZN-2365-HI							False	False				House	House			
+179013	JF-6923-PU							False	False				Land	Land			
+179014	ZG-2848-UU							False	False				Unit	Unit			
+179015	KH-5415-BL							False	False				Unit	Unit			
+179016	EY-4903-OX							False	False				Unit	Unit			
+179017	CO-4373-NU	195000	2014-08-07					False	True	1	11	1	Commercial	Commercial			
+179018	XK-6957-KV							False	True				Unit	Unit			
+179019	GA-2692-FP							False	False				House	House			
+179020	QA-2275-AV							False	False				House	House			
+179021	HP-5991-NR							False	False				House	House			
+179022	GI-6392-CR							False	False				House	House			
+179024	UF-4348-DT							False	False				Unit	Unit			
+179025	PZ-7431-QX							False	False				Unit	Unit			
+179026	HP-8160-GU							False	False				Unit	Unit			
+179027	LH-0525-QW	220000	2014-09-26					False	True	1	11		Commercial	Commercial			
+179028	UW-8589-OI			Raine & Horne Commercial Canberra	39000	2018	220	False	True				Commercial	Industrial			
+179030	YW-1319-PP							False	False				Unit	Unit			
+179031	OV-6364-UX							False	False				Unit	Unit			
+179032	JB-3208-AX							False	False				Unit	Unit			
+179033	GF-7356-WL	235000	2016-09-02					False	True	1	11		Commercial	Commercial			
+179035	YD-0711-WZ							False	False				Unit	Unit			
+179036	UQ-2387-JM	150000	2016-09-01					False	True	1	11		Commercial	Commercial			
+179037	UO-1554-LN							False	False				Unit	Unit			
+179038	KS-1222-VP							False	False				Unit	Unit			
+179039	IB-6327-EV							False	False				Unit	Unit			
+179040	LB-2762-WU							False	False				Unit	Unit			
+179041	OC-3709-XU							False	True	1	11		Commercial	Commercial			
+179042	DF-3621-WT							False	False				House	House			
+179043	YC-3700-XM							False	False				Unit	Unit			
+179044	ZN-2365-HI							False	False				House	House			
+179045	XG-9477-AP							False	False				Unit	Unit			
+179046	VO-9473-GW							False	False				Unit	Unit			
+179047	YH-6173-BR							False	False				Unit	Unit			
+179048	OE-4847-YN							False	True	6	34		Commercial	Industrial			
+179049	BU-0703-SL	1250000	2017-11-17					False	False	15	34		Commercial	Industrial			2143
+179051	EM-5726-SC	1625000	2013-09-06					False	False	5	34		Commercial	Industrial			
+179053	AA-4372-SO			Raine & Horne Commercial Canberra	0	2018	423	False	False				Commercial	Industrial			
+179055	SO-7398-PM							False	False				House	House			
+179057	TZ-7004-BD							False	True				Unit	Unit			
+179058	RA-5248-BC	750000	2019-06-13	Raine & Horne Commercial Canberra	0	2018	92	False	True	15	34	4	Unit	Unit			
+179059	UC-2793-TP							False	False				Unit	Unit			
+179060	US-0782-RF							False	False				Unit	Unit			
+179061	SS-4446-AT							False	False				Unit	Unit			
+179062	OD-0979-PC							False	True	6	34		Commercial	Industrial			
+179068	UG-0164-AE							False	False				House	House			
+179069	KU-8227-ZK							False	True				Unit	Unit			
+179070	EX-8574-DF							False	False				Unit	Unit			
+179071	KT-6726-UO							False	False				Unit	Unit			
+179072	SA-3102-DZ							False	True	6	34		Commercial	Industrial			
+179073	BW-6423-EK							False	True				Unit	Unit			
+179074	ZA-5209-OO							False	False				Unit	Unit			
+179075	FB-6417-UH							False	False				Unit	Unit			
+179076	SA-0323-RA	150000	2000-06-14					False	True	6	34		Commercial	Industrial			
+179077	QP-3637-RG							False	False				Unit	Unit			
+179078	JO-1809-XO							False	False				Unit	Unit			
+179079	OD-2120-TR	120000	1998-12-16					False	True	6	34		Commercial	Industrial			
+179081	XR-5303-RZ							False	False				House	House			
